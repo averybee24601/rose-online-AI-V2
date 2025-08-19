@@ -22,7 +22,7 @@
 #define __ROSE_SERVERS__
 
 #include "datatypes.h"
-#include "../common/sockets.h"
+#include "../Common/sockets.h"
 #include "worldmonster.h"
 #include "worldmap.h"
 #include "player.h"
