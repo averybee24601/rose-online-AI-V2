@@ -1,0 +1,1776 @@
+0		
+1	Wooden Sword	A sword made of wood which you can get anywhere.
+2	Short Sword	An easily available sword that's perfect for beginners.
+3	Rapier	A long, sharp sword that is mainly used for stabbing.
+4	Khukuri	A sharply curved sword.
+5	Long Sword	A general sword that is favored by many.
+6	Bushido	A threatening sword in which the words 'Lethal Attack' are engraved.
+7	Saber	A dashing sword which cuts through the wind.
+8	Elven Sword	An imitation of the legendary swords used by the Elves.
+9	Squid Sword	A sword made in the awe inspiring form of the noble squid race.
+10	Shark Blade	A fearsome sword studded with wild shark's teeth.
+11	Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+12	Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+13	Katana	The sword of choice for veteran samurai.
+14	Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+15	Flare Sword	A mysterious sword which creates a blaze at every brandish.
+16	Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+17	Flamboyant	A beautifully crafted sword that is effective in battle situations.
+18	Righteous Sword	A magnificent sword decorated with large jewels.
+19	Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+20	Death Bringer	Since ancient times, this sword has brought the spirit of death to whoever wields it.
+21	Death Expeller	A sword, created together with the Death Bringer, that is imbued with the power to expel the spirit of death.
+22	Simplex Saber	A simple One-Handed Sword with a rounded blade.
+23	Mythril Rapier	A strengthened rapier forged out of mythril.
+24	Dark Panther 	A very light and sharp sword, contrary to its appearance.
+25	Saint Blade Kreuz 	A sword glowing with blue light that is said to have been wielded in battle by a great hero of the Junon Order.
+31	Wooden Bat	A sturdy, reliable bat that's perfect for fighting daughter's boyfriends.
+32	Monkey Wrench	A handy, versatile tool that doubles as a weapon.
+33	 Buffoon Mace	A ridiculous Melee Weapon that looks out of place on the battlefield.
+34	Ogre Mace	A solid weapon made from the skeleton of an Ogre.
+35	Onion Mace	A simple Melee Weapon topped with an onion.
+36	Ghost Bat	An enchanted bat readily used by demons.
+37	Stone Hammer	The hammer of choice during the Stone Age.
+38	Skeleton Hammer	A hammer made with a really tough skull.
+39	Ice Hammer	A huge hammer made of ice crystals that won't melt.
+40	Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+41	Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+42	Blood Mace	A cursed mace that thirsts for blood.
+43	Scorpion Club	A hammer made from a poisonous scorpion's tail.
+44	Battle Mace	A Melee Weapon that has been optimized for use in battle.
+45	Great Hammer	A destructive hammer whose power rocks the very earth.
+46	Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+47	Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+48	Nirvana Hammer	A hammer that glitters with royal majesty as you rush into the heat of battle.
+49	Doom Hammer	Just one swing from this destructive Melee Weapon can make the ground tremble with a thunderous roar.
+50	Final Hammer	The ultimate Melee Weapon whose name signifies the end of the world.
+51	Bone Club	A dangerous weapon carved out of animal bone.
+52	Heavy Bolt	A Melee Weapon designed to be used for an enormous Castle Gear.
+53	Northern Light	A Melee Weapon with the golden shine of the Northern Lights.
+54	Skull Breaker	A Melee Weapon shaped like a skull with studded iron spikes.
+61	Simple Bow Gun	A simple Crossbow that can be used with one hand.
+62	Cutter Bow Gun	A Crossbow that fires bolts which can cut through anything.
+63	Quick Bow Gun	A Crossbow that provides superior rapid firing power.
+64	Crossbow Gun	A Crossbow which provides great destructive power.
+65	Poison Bow Gun	A Crossbow smothered with poison curse magic.
+66	Dark Bow Gun	A high quality Crossbow that comes in a polished black color.
+67	Elf Bow Gun	A gorgeous, yet simple to use, Crossbow that was used by the Elves.
+68	Anima Bow Gun	A Crossbow infused with the power of nature.
+69	OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+70	Steel Bow Gun	A Bow Gun, constructed of special material, that is powerful enough to pierce solid steel.
+71	Mythril Bow Gun	A Bow Gun, constructed out of mythril, which is stronger than the Mythril Bow.
+72	Cyclone Bow Gun	A mysterious Crossbow that is said to be able to use the power of the wind.
+101	Haedong Sword	Wooden sword used for training that is easily broken.
+102	Nameless Sword	Two-Handed Sword for novices.
+103	Sword of Hardship	The more hardship you experience with this sword, the more you gain experience.
+104	Cutter Edge	Two-Handed Sword that specializes in cutting.
+105	Surado	A basic Two-Handed Sword.
+106	Bull Sword	A heavy sword decorated with an angry bull. Beware!
+107	Two-Handed Sword	The most basic Two-Handed Sword.
+108	After Blade	A beautiful sword that looks resplendent when giving the finishing touch.
+109	Executioner 	A sword used in the gruesome task of decapitation.
+110	Bastard Sword	A sword that seems to be intended for two-handed use, but beginners might confuse it for one-handed use.
+111	Claymore	An aristocratic sword adorned with jewels and the image of a crow.
+112	Flamberge	A sword with a wavy edge.
+113	Dragon Sword	A sword in which the blade is generally decorated with the image of a dragon.
+114	Heroic Sword	A sword filled with the spiritual power of the Orient.
+115	Great Sword	An enormous sword that you are barely able to carry.
+116	Giant Sword	A huge sword that was used by the king of the Orcs.
+117	Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+118	Sacred Hander	An enormous Two-Handed Sword that is easily larger than other weapons in its class.
+119	Explosion Hander	A mysterious sword which explodes upon impact. There are few surviving victims, if any.
+120	Sword	A normal sword generally carried by Soldiers.
+121	Rookie Sword	A very basic sword typically used by Rookie Knights.
+122	Moon Sword	A sword that is believed to contain the power of a blue moon.
+123	Caliburn	The first sword that King Arthur used in battle.
+131	Woodman Axe	A cheap Axe used by woodcutters.
+132	Small Axe	An Axe commonly used by ruffians and trouble makers.
+133	Battle Axe	A specially crafted weapon that can be used as both an axe and a hammer.
+134	Tomahawk	An Axe that, through some kind of illusion, looks just like an eagle.
+135	Orc Axe	A dull Axe made of animal bone that was used by the Orcs.
+136	Tower Axe	An Axe with a splendidly long blade.
+137	Cross Axe	A unique battle Axe with four blades that comes in handy for close shaves.
+138	Silver Axe	A silver Axe that is somehow effective in healing your wounds.
+139	Golden Axe	An Axe of gold that everyone seems to want.
+140	Great Axe	A fearsome Axe with two huge blades.
+141	Ice Axe	An Axe with blades whose edges emanate intense coldness.
+142	Flame Axe	An Axe that always emits flames from its blade edges. Be careful when handling it.
+143	Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+144	Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+145	Collapse Axe	An Axe with long and bulky blades.
+146	Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+147	Titan Axe	An axe that was used by the titans. It's so large that most people can't even lift it.
+148	Behead Axe	An axe used to behead criminals. It's filled with the resentment of those it has killed.
+149	Nail Hatchet	An axe contructed out of a few nails and some wood from a nigh-indestructible tree. Contrary to its appearance, it's supposedly very powerful.
+150	Goblin Hatchet	An elaborately decorated axe constructed by Goblin smiths.
+151	Turak Axe	The axe used by Turak, leader of the corrupted Sikukus.
+152	Jabberwock's Nail	An axe made from nail of the Jabberwork, a legendary monster.
+161	Bamboo Spear	A simple Spear made of bamboo.
+162	Javelin	A Spear that is built for throwing rather than stabbing.
+163	Round Spear	A light Spear with rounded blade.
+164	Scimitar	An imitation of the Spear used by Kwanwoo. No one's really sure of its power.
+165	Bardiche	A unique Spear whose point is shaped like an axe blade.
+166	Iron Spear	A widely used Spear that provides great power considering its price.
+167	Trident	A three pronged Spear that should never be used as a fork.
+168	Death Spear	The god of Death's weapon of choice.
+169	Halberd	A versatile Spear that can be used to chop, stab and slice.
+170	Lightning Spear	An electrical Spear that can summon thunder. Be careful lest it shock you.
+171	Shining Spear	A radiant Spear that always dazzles brightly.
+172	Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+173	Gungnir 	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+174	Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+175	Dragon Spear	A Spear that is said to have been used by a dragon as its toothpick.
+176	Dagan Spear	A Spear which seems to have been made to hunt huge animals.
+177	Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+178	Nimrodpiece	It is said that scars made by this Spear never truly heal.
+179	Fury Spantun	A demonic spear which brings out outrageously destructive impulses in those who wield it.
+180	Punisher Drill	Spear capable of piercing through bodies and used in executions.
+181	Keil Cutter	A weapon that is designed to render your opponent's weapon useless.
+182	Reams Puricator	This power of this mysterious weapon cannot be ignored on account of its humongous size.
+183	Warlord Spear	A spear adorned with a flag on which the Righteous Crusader emblem is printed.
+184	Widow Maker	A huge spear that is shaped like a pickaxe.
+2000		
+2001	Ancient Wooden Sword	A sword made of wood which you can get anywhere.
+2002	Ancient Short Sword	An easily available sword that's perfect for beginners.
+2003	Ancient Rapier	A long, sharp sword that is mainly used for stabbing.
+2004	Ancient Khukuri	A sharply curved sword.
+2005	Ancient Long Sword	A general sword that is favored by many.
+2006	Ancient Bushido	A threatening sword in which the words 'Lethal Attack' are engraved.
+2007	Ancient Saber	A dashing sword which cuts through the wind.
+2008	Ancient Elven Sword	An imitation of the legendary swords used by the Elves.
+2009	Ancient Squid Sword	A sword made in the awe inspiring form of the noble squid race.
+201	Toy Bow	A funny Bow that seems to have been made as a children's toy.
+2010	Ancient Shark Blade	A fearsome sword studded with wild shark's teeth.
+2011	Ancient Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+2012	Ancient Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+2013	Ancient Katana	The sword of choice for veteran samurai.
+2014	Ancient Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+2015	Ancient Flare Sword	A mysterious sword which creates a blaze at every brandish.
+2016	Ancient Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+2017	Ancient Flamboyant	A beautifully crafted sword that is effective in battle situations.
+2018	Ancient Righteous Sword	A magnificent sword decorated with large jewels.
+2019	Ancient Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+202	Short Bow	A Bow that's so easy to use, even a child can use it.
+2020	Ancient Death Bringer	Since ancient times, this sword has brought the spirit of death to whoever wields it.
+2021	Ancient Death Expeller	A sword, created together with the Death Bringer, that is imbued with the power to expel the spirit of death.
+2022	Ancient Simplex Saber	A simple One-Handed Sword with a rounded blade.
+2023	Ancient Mythril Rapier	A strengthened rapier forged out of mythril.
+203	Long Bow	The most fundamental Bow for established Bow attack strategies.
+2031	Ancient Wooden Bat	A sturdy, reliable bat that's perfect for fighting daughter's boyfriends.
+2032	Ancient Monkey Wrench	A handy, versatile tool that doubles as a weapon.
+2033	Ancient  Buffoon Mace	A ridiculous Melee Weapon that looks out of place on the battlefield.
+2034	Ancient Ogre Mace	A solid weapon made from the skeleton of an Ogre.
+2035	Ancient Onion Mace	A simple Melee Weapon topped with an onion.
+2036	Ancient Ghost Bat	An enchanted bat readily used by demons.
+2037	Ancient Stone Hammer	The hammer of choice during the Stone Age.
+2038	Ancient Skeleton Hammer	A hammer made with a really tough skull.
+2039	Ancient Ice Hammer	A huge hammer made of ice crystals that won't melt.
+204	Orc Bow	The basic Bow for Orc Archers.
+2040	Ancient Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+2041	Ancient Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+2042	Ancient Blood Mace	A cursed mace that thirsts for blood.
+2043	Ancient Scorpion Club	A hammer made from a poisonous scorpion's tail.
+2044	Ancient Battle Mace	A Melee Weapon that has been optimized for use in battle.
+2045	Ancient Great Hammer	A destructive hammer whose power rocks the very earth.
+2046	Ancient Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+2047	Ancient Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+2048	Ancient Nirvana Hammer	A hammer that glitters with royal majesty as you rush into the heat of battle.
+2049	Ancient Doom Hammer	Just one swing from this destructive Melee Weapon can make the ground tremble with a thunderous roar.
+205	White Wing Bow	A Bow that is made in the form of a little angel's wing.
+2050	Ancient Final Hammer	The ultimate Melee Weapon whose name signifies the end of the world.
+2051	Ancient Bone Club	A dangerous weapon carved out of animal bone.
+2052	Ancient Heavy Bolt	A Melee Weapon designed to be used for an enormous Castle Gear.
+206	Elf Bow	A powerful Bow that was used by the Elves.
+2061	Ancient Simple Bow Gun	A simple Crossbow that can be used with one hand.
+2062	Ancient Cutter Bow Gun	A Crossbow that fires bolts which can cut through anything.
+2063	Ancient Quick Bow Gun	A Crossbow that provides superior rapid firing power.
+2064	Ancient Crossbow Gun	A Crossbow which provides great destructive power.
+2065	Ancient Poison Bow Gun	A Crossbow smothered with poison curse magic.
+2066	Ancient Dark Bow Gun	A high quality Crossbow that comes in a polished black color.
+2067	Ancient Elf Bow Gun	A gorgeous, yet simple to use, Crossbow that was used by the Elves.
+2068	Ancient Anima Bow Gun	A Crossbow infused with the power of nature.
+2069	Ancient OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+207	Iron Bow	A solid Bow that is constructed of iron.
+2070	Ancient Steel Bow Gun	A Bow Gun, constructed of special material, that is powerful enough to pierce solid steel.
+2071	Ancient Mythril Bow Gun	A Bow Gun, constructed out of mythril, which is stronger than the Mythril Bow.
+2072	Ancient Cyclone Bow Gun	A mysterious Crossbow that is said to be able to use the power of the wind.
+208	Maiya Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+209	Rider Bow	An awesome Bow used by noble warriors wearing the mask of the grasshopper.
+210	Half-Elf Bow	The basic Bow that was used by Half Elves.
+2101	Ancient Haedong Sword	Wooden sword used for training that is easily broken.
+2102	Ancient Nameless Sword	Two-Handed Sword for novices.
+2103	Ancient Sword of Hardship	The more hardship you experience with this sword, the more you gain experience.
+2104	Ancient Cutter Edge	Two-Handed Sword that specializes in cutting.
+2105	Ancient Surado	A basic Two-Handed Sword.
+2106	Ancient Bull Sword	A heavy sword decorated with an angry bull. Beware!
+2107	Ancient Two-Handed Sword	The most basic Two-Handed Sword.
+2108	Ancient After Blade	A beautiful sword that looks resplendent when giving the finishing touch.
+2109	Ancient Executioner 	A sword used in the gruesome task of decapitation.
+211	Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+2110	Ancient Bastard Sword	A sword that seems to be intended for two-handed use, but beginners might confuse it for one-handed use.
+2111	Ancient Claymore	An aristocratic sword adorned with jewels and the image of a crow.
+2112	Ancient Flamberge	A sword with a wavy edge.
+2113	Ancient Dragon Sword	A sword in which the blade is generally decorated with the image of a dragon.
+2114	Ancient Heroic Sword	A sword filled with the spiritual power of the Orient.
+2115	Ancient Great Sword	An enormous sword that you are barely able to carry.
+2116	Ancient Giant Sword	A huge sword that was used by the king of the Orcs.
+2117	Ancient Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+2118	Ancient Sacred Hander	An enormous Two-Handed Sword that is easily larger than other weapons in its class.
+2119	Ancient Explosion Hander	A mysterious sword which explodes upon impact. There are few surviving victims, if any.
+212	Bow of East Archer	A Bow that was popularly used in the East.
+2120	Ancient Sword	A normal sword generally carried by Soldiers.
+2121	Ancient Rookie Sword	A very basic sword typically used by Rookie Knights.
+213	Cupid Bow	A Bow imbued with Cupid's charms.
+2131	Ancient Woodman Axe	A cheap Axe used by woodcutters.
+2132	Ancient Small Axe	An Axe commonly used by ruffians and trouble makers.
+2133	Ancient Battle Axe	A specially crafted weapon that can be used as both an axe and a hammer.
+2134	Ancient Tomahawk	An Axe that, through some kind of illusion, looks just like an eagle.
+2135	Ancient Orc Axe	A dull Axe made of animal bone that was used by the Orcs.
+2136	Ancient Tower Axe	An Axe with a splendidly long blade.
+2137	Ancient Cross Axe	A unique battle Axe with four blades that comes in handy for close shaves.
+2138	Ancient Silver Axe	A silver Axe that is somehow effective in healing your wounds.
+2139	Ancient Golden Axe	An Axe of gold that everyone seems to want.
+214	Bow of Wind Spirit	A mysterious Bow that contains the spirit of the wind.
+2140	Ancient Great Axe	A fearsome Axe with two huge blades.
+2141	Ancient Ice Axe	An Axe with blades whose edges emanate intense coldness.
+2142	Ancient Flame Axe	An Axe that always emits flames from its blade edges. Be careful when handling it.
+2143	Ancient Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+2144	Ancient Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+2145	Ancient Collapse Axe	An Axe with long and bulky blades.
+2146	Ancient Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+2147	Ancient Titan Axe	An axe that was used by the titans. It's so large that most people can't even lift it.
+2148	Ancient Behead Axe	An axe used to behead criminals. It's filled with the resentment of those it has killed.
+2149	Ancient Nail Hatchet	An axe contructed out of a few nails and some wood from a nigh-indestructible tree. Contrary to its appearance, it's supposedly very powerful.
+215	Dual Stick Bow	A Bow said to be used by a legend. However, there are many imitations.
+2150	Ancient Goblin Hatchet	An elaborately decorated axe constructed by Goblin smiths.
+216	Mediator Bow	A Bow whose true power shines when violence is avoided for the sake of justice.
+2161	Ancient Bamboo Spear	A simple Spear made of bamboo.
+2162	Ancient Javelin	A Spear that is built for throwing rather than stabbing.
+2163	Ancient Round Spear	A light Spear with rounded blade.
+2164	Ancient Scimitar	An imitation of the Spear used by Kwanwoo. No one's really sure of its power.
+2165	Ancient Bardiche	A unique Spear whose point is shaped like an axe blade.
+2166	Ancient Iron Spear	A widely used Spear that provides great power considering its price.
+2167	Ancient Trident	A three pronged Spear that should never be used as a fork.
+2168	Ancient Death Spear	The god of Death's weapon of choice.
+2169	Ancient Halberd	A versatile Spear that can be used to chop, stab and slice.
+217	Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+2170	Ancient Lightning Spear	An electrical Spear that can summon thunder. Be careful lest it shock you.
+2171	Ancient Shining Spear	A radiant Spear that always dazzles brightly.
+2172	Ancient Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+2173	Ancient Gungnir 	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+2174	Ancient Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+2175	Ancient Dragon Spear	A Spear that is said to have been used by a dragon as its toothpick.
+2176	Ancient Dagan Spear	A Spear which seems to have been made to hunt huge animals.
+2177	Ancient Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+2178	Ancient Nimrodpiece	It is said that scars made by this Spear never truly heal.
+2179	Ancient Fury Spantun	A demonic spear which brings out outrageously destructive impulses in those who wield it.
+218	Bifenith Bow	The standard Bow used long ago by a group of warriors united by Robin Hawker.
+2180	Ancient Punisher Drill	Spear capable of piercing through bodies and used in executions.
+2181	Ancient Keil Cutter	A weapon that is designed to render your opponent's weapon useless.
+2182	Ancient Reams Puricator	This power of this mysterious weapon cannot be ignored on account of its humongous size.
+219	Zephyr Long Bow	A Bow created with the power of the wind.
+220	Six Stick Bow	A combination of multiple bows, this Bow offers the most powerful shooting force.
+2201	Ancient Toy Bow	A funny Bow that seems to have been made as a children's toy.
+2202	Ancient Short Bow	A Bow that's so easy to use, even a child can use it.
+2203	Ancient Long Bow	The most fundamental Bow for established Bow attack strategies.
+2204	Ancient Orc Bow	The basic Bow for Orc Archers.
+2205	Ancient White Wing Bow	A Bow that is made in the form of a little angel's wing.
+2206	Ancient Elf Bow	A powerful Bow that was used by the Elves.
+2207	Ancient Iron Bow	A solid Bow that is constructed of iron.
+2208	Ancient Maiya Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+2209	Ancient Rider Bow	An awesome Bow used by noble warriors wearing the mask of the grasshopper.
+221	Kentauros Bow	 A Bow with pointed, menacing thorns. 
+2210	Ancient Half-Elf Bow	The basic Bow that was used by Half Elves.
+2211	Ancient Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+2212	Ancient Bow of East Archer	A Bow that was popularly used in the East.
+2213	Ancient Cupid Bow	A Bow imbued with Cupid's charms.
+2214	Ancient Bow of Wind Spirit	A mysterious Bow that contains the spirit of the wind.
+2215	Ancient Dual Stick Bow	A Bow said to be used by a legend. However, there are many imitations.
+2216	Ancient Mediator Bow	A Bow whose true power shines when violence is avoided for the sake of justice.
+2217	Ancient Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+2218	Ancient Bifenith Bow	The standard Bow used long ago by a group of warriors united by Robin Hawker.
+2219	Ancient Zephyr Long Bow	A Bow created with the power of the wind.
+222	Zephyr Falcon	A Bow imbued with the hatred of Goddess Luna.
+2220	Ancient Six Stick Bow	A combination of multiple bows, this Bow offers the most powerful shooting force.
+2231	Ancient Bubble Gun	A Gun that fires bubbles at high speeds to confuse the enemy.
+2232	Ancient Air Gun	A Gun operated with an air powered piston to fire small plastic BBs.
+2233	Ancient Gloria Gun	Despite being a pistol, the Gloria Gun has an excellent rapid fire rate.
+2234	Ancient Iron Rifle	A model of one of the very first rifles that introduced the use of guns in battle.
+2235	Ancient Iron Shotgun	A shotgun that is especially effective at point blank range. Don't get too close to it!
+2236	Ancient Sorden Gun	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+2237	Ancient Edge Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+2238	Ancient Showdown Gun	A Gun with that emits a robust, exciting sound when it fires, making it a real crowd pleaser.
+2239	Ancient Beretta	A Gun with enough power to exterminate zombies.
+2240	Ancient Sniper Gun	A rifle that is well suited to accurately targeting enemies from a great distance.
+2241	Ancient Justice Cannon	A cannon whose power reflects the fervor of those who fight for justice.
+2242	Ancient RP-911	An all purpose Gun that is perfectly endowed with speed, precision and gentleness.
+2243	Ancient Piercing Gun	A Gun with the power to pierce absolutely anything.
+2244	Ancient Remington	A masterpiece that combines both incredible power and gorgeous design.
+2245	Ancient Brave Gun	A rifle of judgment that only one that truly has courage may use.
+2246	Ancient Bastard Gun	At long last, a weapon that is half gun, half Bastard Sword. It's specially patented.
+2247	Ancient Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+2248	Ancient Shock Impact Gun	An ornamentally designed Gun which actually has considerable destructive capability.
+2249	Ancient White Night Gun	A very practical Gun which shoots blinding bursts of light.
+2261	Ancient Wooden Launcher	A simple Launcher constructed out of wood.
+2262	Ancient Basic Launcher	A basic Launcher that is fairly stable.
+2263	Ancient Hard Launcher	A tough Launcher that won't break easily.
+2264	Ancient Bronze Launcher	A sturdy Launcher made entirely of bronze.
+2265	Ancient Marble Launcher	A fancy launcher made of out high quality marble.
+2266	Ancient Orc Launcher	A heavy Launcher used by the Orc Warriors.
+2267	Ancient Mythril Launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+2268	Ancient Cross Launcher	An attractive Launcher decorated with crossed blades.
+2269	Ancient Burning Launcher	Launcher with explosive power that shoots flaming shells.
+2270	Ancient Shadow Launcher	A Launcher that is said to shoot the essence of darkness itself.
+2271	Ancient Corsair Cannon	A Launcher used by pirates in their own flying ships.
+2272	Ancient Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+2273	Ancient Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+2274	Ancient Ferrell Cannon	Originally designed to protect the merchants of the Ferrell Guild, the Ferrell Cannon has been remodeled for use in siege warfare.
+2275	Ancient Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+2276	Ancient Breakdown Cannon	A powerful Launcher whose only purpose is to reduce anything to rubble.
+2277	Ancient Reverse Cannon	An incredibly lethal weapon whose power well exceeds self-defense purposes.
+2301	Ancient Baobab Rod	A basic Rod made of out Baobab wood.
+2302	Ancient Lemmings Rod	A cute Rod that's good for handling mice.
+2303	Ancient Animal Rod	A shepherd's Rod that provides suitable damage.
+2304	Ancient Mage's Rod	A Mage's Rod that contains just a little bit of magic.
+2305	Ancient White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+2306	Ancient Wisp Staff	A monster's Staff that is always following the light of spirits.
+2307	Ancient Shadow Staff	An uncommon Staff in which dark magic is sealed.
+2308	Ancient Golden Staff	An everlasting Staff constructed out of pure gold.
+2309	Ancient Anima Staff	A Mage's Staff that contains the magic power of Anima.
+231	Bubble Gun	A Gun that fires bubbles at high speeds to confuse the enemy.
+2310	Ancient Land Staff	A Mage's Staff that contains the power of the earth.
+2311	Ancient Holy Staff	A clergyman's Staff which contains the power of holiness.
+2312	Ancient Dark Staff	A heretic's Staff that flows with dark energy.
+2313	Ancient Rune Staff	A Mage's Staff engraved with mystic runes.
+2314	Ancient Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+2315	Ancient Crystal Rod	A magical Rod that is made out of crystal.
+2316	Ancient Devil Rod	A cursed Rod that steals souls.
+2317	Ancient Meteor Rod	A Rod that can control falling meteors.
+2318	Ancient Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+2319	Ancient Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+232	Air Gun	A Gun operated with an air powered piston to fire small plastic BBs.
+2320	Ancient Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+2321	Ancient Oracle Staff	A Staff used to create miracles by Seyrun the Sage.
+2322	Ancient Twinkle Staff	A Staff which greatly raises magical power.
+2323	Ancient Sparkle Staff	A Staff that summons more magical power than the Twinkle Staff.
+2324		
+2325		
+2326		
+233	Gloria Gun	Despite being a pistol, the Gloria Gun has an excellent rapid fire rate.
+2331	Ancient Baobab Wand	Constructed from wood from the Baobab tree, this Wand contains a small amount of magic power.
+2332	Ancient Mage's Wand	A basic Wand used by Mages to focus their mystic energies.
+2333	Ancient Sorcerer's Wand	A Wand, used by sorcerers, in which offensive magic sealed.
+2334	Ancient Elven Wand	A Wand containing the holy magic of the Elves.
+2335	Ancient Silence Wand	A magic Wand that contains the power to bring silence to its surroundings.
+2336	Ancient Windphon Wand	A divine Wand that can call forth the wind.
+2337	Ancient Flame Wand	A Mage's Wand that can shoot magical flames.
+2338	Ancient Thunder Wand	A Mage's Wand that can mystically discharge lightning.
+2339	Ancient Blizzard Wand	A Mage's Wand that can magically shoot ice fragments.
+234	Iron Rifle	A model of one of the very first rifles that introduced the use of guns in battle.
+2340	Ancient Recovery Wand	A magical Wand that contains restorative energies.
+2341	Ancient Windstorm Wand	A Wand that was been magically constructed to call forth wind vacuums.
+2342	Ancient Holy Wand	A magic Wand that flows with the power of holiness.
+2343	Ancient Shadow Wand	A Mage's Wand that contains dark energies.
+2344	Ancient Evil Wand	A cursed Wand in which demonic energies are contained.
+2345	Ancient Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+2346	Ancient Meteor Wand	A Wand that has the power to shoot small meteorites.
+2347	Ancient Bleak Wind	A Wand that can call forth windstorms. Most Mages cannot handle its sheer power.
+2348	Ancient Conjurer's Wand	A mysterious Wand once owned by Ishtal Silver. Somehow, this wand is supposed to be able to talk to its owner…
+2349	Ancient Twister Wand	The incantation to cause tornados was written on this Wand by witches. The actual effectiveness of this incantation is uncertain.
+235	Iron Shotgun	A shotgun that is especially effective at point blank range. Don't get too close to it!
+2350	Ancient Snake Wand	A short Wand that is shaped like a Cobra at its end.
+2351	Ancient Ouroboros Wand	This Wand is a symbol of Ouroboros, the mythical eight headed serpent.
+2352	Ancient Blaze Wand	This wand is constructed of a unique material that cannot be burned away.
+2353	Ancient Vision Wand	A wand that is said to contain the power to enable its user to see through all objects.
+2354	Ancient Icicle	It is said that overuse of the Icicle will slowly chill your body until it is frozen.
+236	Sorden Gun	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+237	Edge Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+238	Showdown Gun	A Gun with that emits a robust, exciting sound when it fires, making it a real crowd pleaser.
+239	Beretta	A Gun with enough power to exterminate zombies.
+240	Sniper Gun	A rifle that is well suited to accurately targeting enemies from a great distance.
+2401	Ancient Knuckle	Just wearing this thing boosts your courage by a hundredfold.
+2402	Ancient  Sword Knuckle	Knuckles that have been fitted with daggers. It's like punching and stabbing at the same time.
+2403	Ancient Katar	Long blades that are worn on the wrist, allowing you to attack enemies quickly.
+2404	Ancient Rake Hand	A sharp, rake-like weapon that can gather fallen leaves.
+2405	Ancient Wolf's Paw	A glove with sharp claws, imitating the paw of the wolf.
+2406	Ancient Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+2407	Ancient Spike Knuckle	A fearsome Knuckle covered with pointy spikes.
+2408	Ancient Crescent Knuckle	A beautiful Knuckle with crescent shaped blades.
+2409	Ancient Dual Patar	Long spears that are worn on both hands.
+241	Justice Cannon	A cannon whose power reflects the fervor of those who fight for justice.
+2410	Ancient Shaft Claw	A powerful Knuckle with long claws designed for nimble attacks.
+2411	Ancient Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+2412	Ancient Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+2413	Ancient Griffon Knuckle	A high class Knuckle adorned with the face of a griffon.
+2414	Ancient Evil Killer	A lethal Knuckle that specializes in slaying demons.
+2415	Ancient Sudden Raid Dagger	The Katar for Raiders who have an 'all or nothing' philosophy in battle.
+2416	Ancient Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+2417	Ancient Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+2418	Ancient Phantasma Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+2419	Ancient Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+242	RP-911	An all purpose Gun that is perfectly endowed with speed, precision and gentleness.
+2420	Ancient Hawk Knuckle	Charming Knuckle weapons that are shaped like the head of a hawk. 
+2421	Ancient Raven Knuckle	The latest work from the craftsman who created the Hawk Knuckle.
+2422	Ancient Crust Knuckle	A peculiar Knuckle carved from tough animal bone.
+2423	Ancient Glove Knuckle	A set of Knuckles consisting of a pair of gloves made from thick leather.
+2424	Ancient Mythril Knuckle	A set of Knuckles made with sharp mythril blades.
+243	Piercing Gun	A Gun with the power to pierce absolutely anything.
+2431	Ancient Khukuri & Long Sword	A Khukuri in one hand and a Long Sword in the other. A basic dual sword combination.
+2432	Ancient Long Sword & Mace	This dual sword combination allows you to both cut and smash!
+2433	Ancient Dual Bushido	A matching set of swords with the words 'lethal attack' engraved. This is serious business.
+2434	Ancient Twin Ghost Bat	Not one, but two enchanted bats for double the smash.
+2435	Ancient Saber & Elven Sword 	A splendid dual sword combination.
+2436	Ancient Dual Ocean Swords	Ocean combination dual sword set. If your enemies aren't impressed by the shark, they'll fear the squid.
+2437	Ancient Viking Sword & Axe	A Viking Sword in one hand and an Axe in the other spells out a pretty savage dual sword combination.
+2438	Ancient Blood Sword & Axe	A powerful dual sword combination. If the Blood Sword doesn't get them, the Axe will.
+2439	Ancient Dual Katana	An uncommon dual sword combination in the style of the great warrior, Musashi.
+244	Remington	A masterpiece that combines both incredible power and gorgeous design.
+2440	Ancient Ice & Flare Swords	Dual Sword combination in which you wield Ice in one hand and Fire in the other.
+2441	Ancient Dual Flare Swords	Most people are unable to wield two Flame Swords at the same time, as just the air around these dual weapons is scalding.
+2442	Ancient Brilliant Dual Wield	The man whose courage is deeply hidden will cast away his shield and take up swords in both arms.
+2443	Ancient Spirits Dual Wield	The beauty of this dual sword set belies the incredible attack efficiency of this weapon combination.
+2444	Ancient Desperado Dual Wield	The dual sword choice of pirates. This combination offers incredible offensive power.
+2445	Ancient Glorious Dual Wield	A knight's dual sword combination that symbolizes both valor and honor.
+2446	Ancient Demise Dual Weapon	A dual weapon combination of two Death Bringers which carry a suffocating aura of power.
+2447	Ancient Living Dead	A dual weapon combination of a Death Bringer complemented with a Death Expeller.
+2448	Ancient Mythril Dual Wield	A dual weapon combination of two Mythril Rapiers.
+245	Brave Gun	A rifle of judgment that only one that truly has courage may use.
+246	Bastard Gun	At long last, a weapon that is half gun, half Bastard Sword. It's specially patented.
+2461	Ancient Grody Scrubber	A scrubbing brush used to clean school bathrooms. User restricted item.
+2462	Ancient Pink Guitar	A special guitar built especially for rhythm game maniacs.
+2463	Ancient Angel Recorder	A required instrument for elementary school students of a famous magic academy.  It can't be played by anyone else!
+2464	Ancient Rose Bouquet	The pain from sadness of partng is just like the sting of these roses' thorns.
+247	Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+248	Shock Impact Gun	An ornamentally designed Gun which actually has considerable destructive capability.
+249	White Night Gun	A very practical Gun which shoots blinding bursts of light.
+2492	Ancient Tricera	A sharp, rake-like weapon that can gather fallen leaves.
+2493	Ancient Sabertooth	A glove with sharp claws, imitating the paw of the tiger.
+2494	Ancient Grizzly Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+2495	Ancient Spine Fist	A fearsome Knuckle covered with pointy spikes.
+2496	Ancient Sting Fist	A beautiful Knuckle with crescent shaped blades.
+2497	Ancient Dual Sting Fist	Long spears that are worn on both hands.
+250	Winchester	An antiquated shotgun that can be easily found almost anywhere.
+2501	Ancient Golden Long Sword	A general sword that is favored by many.
+2502	Ancient Grand Saber	A dashing sword which cuts through the wind.
+2503	Ancient Dark Elf's Sword	An imitation of the legendary swords used by the Elves.
+2504	Ancient Legend Squid Sword	A sword made in the awe inspiring form of the noble squid race.
+2505	Ancient Saint Shark Blade	A fearsome sword studded with wild shark's teeth.
+2506	Ancient Golden Shark Blade	A fearsome sword studded with wild shark's teeth.
+2507	Ancient Grand Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+2508	Ancient Dark Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+2509	Ancient Legend Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+251	Tornado Rifle	Dr. Spero explaimed that the "Age of Mana and Steam has created a monster!" when this long barreled rifle was developed.
+2510	Ancient Golden Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+2511	Ancient Saint Katana	The sword of choice for veteran samurai.
+2512	Ancient Grand Katana	The sword of choice for veteran samurai.
+2513	Ancient Legend Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+2514	Ancient Golden Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+2515	Ancient Grand Flare Sword	A mysterious sword which creates a blaze at every brandish.
+2516	Ancient Saint Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+2517	Ancient Dark Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+2518	Ancient Grand Flamboyant	A beautifully crafted sword that is effective in battle situations.
+2519	Ancient Elven Flamboyant	A beautifully crafted sword that is effective in battle situations.
+2520	Ancient Legend Righteous Sword	A magnificent sword decorated with large jewels.
+2521	Ancient Golden Righteous Sword	A magnificent sword decorated with large jewels.
+2522	Ancient Demon Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+2523	Ancient Legend Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+2531	Ancient Legend Ogre Mace	A solid weapon made from the skeleton of an Ogre.
+2532	Ancient Golden Onion Mace	A simple Melee Weapon topped with an onion.
+2533	Ancient Saint Ghost Bat	An enchanted bat readily used by demons.
+2534	Ancient Grand Stone Hammer	The hammer of choice during the Stone Age.
+2535	Ancient Legend Skeleton Hammer	A hammer made with a really tough skull.
+2536	Ancient Golden Ice Hammer	A huge hammer made of ice crystals that won't melt.
+2537	Ancient Grand Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+2538	Ancient Saint Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+2539	Ancient Dark Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+2540	Ancient Grand Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+2541	Ancient Elven Blood Mace	A cursed mace that thirsts for blood.
+2542	Ancient Legend Blood Mace	A cursed mace that thirsts for blood.
+2543	Ancient Legend Scorpion Club	A hammer made from a poisonous scorpion's tail.
+2544	Ancient Golden Scorpion Club	A hammer made from a poisonous scorpion's tail.
+2545	Ancient Grand Battle Mace	A Melee Weapon that has been optimized for use in battle.
+2546	Ancient Saint Great Hammer	A destructive hammer whose power rocks the very earth.
+2547	Ancient Dark Great Hammer	A destructive hammer whose power rocks the very earth.
+2548	Ancient Grand Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+2549	Ancient Saint Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+2550	Ancient Legend Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+2551	Ancient Golden Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+2552	Ancient Dark Nirvana Hammer	A hammer that glitters with royal majesty as you rush into the heat of battle.
+2561	Ancient Golden Cutter Bow Gun	A Crossbow that fires bolts which can cut through anything.
+2562	Ancient Grand Quick Bow Gun	A Crossbow that provides superior rapid firing power.
+2563	Ancient Dark Crossbow Gun	A Crossbow which provides great destructive power.
+2564	Ancient Legend Dark Bow Gun	A high quality Crossbow that comes in a polished black color.
+2565	Ancient Golden Elf Bow Gun	A gorgeous, yet simple to use, Crossbow that was used by the Elves.
+2566	Ancient Saint Anima Bow Gun	A Crossbow infused with the power of nature.
+2567	Ancient Grand OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+2568	Ancient Legend OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+2581	Ancient Golden Cutter Edge	Two-Handed Sword that specializes in cutting.
+2582	Ancient Grand Bull Sword	A heavy sword decorated with an angry bull. Beware!
+2583	Ancient Dark Two-Handed Sword	The most basic Two-Handed Sword.
+2584	Ancient Legend After Blade	A beautiful sword that looks resplendent when giving the finishing touch.
+2585	Ancient Saint Executioner	A sword used in the gruesome task of decapitation.
+2586	Ancient Golden Claymore	An aristocratic sword adorned with jewels and the image of a crow.
+2587	Ancient Grand Flamberge	A sword with a wavy edge.
+2588	Ancient Dark Flamberge	A sword with a wavy edge.
+2589	Ancient Legend Dragon Sword	A sword in which the blade is generally decorated with the image of a dragon.
+2590	Ancient Golden Great Sword	An enormous sword that you are barely able to carry.
+2591	Ancient Saint Giant Sword	A huge sword that was used by the king of the Orcs.
+2592	Ancient Grand Giant Sword	A huge sword that was used by the king of the Orcs.
+2593	Ancient Legend Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+2594	Ancient Golden Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+261	Wooden Launcher	A simple Launcher constructed out of wood.
+2611	Ancient Golden Small Axe	An Axe commonly used by ruffians and trouble makers.
+2612	Ancient Saint Battle Axe	A specially crafted weapon that can be used as both an axe and a hammer.
+2613	Ancient Grand Tomahawk	An Axe that, through some kind of illusion, looks just like an eagle.
+2614	Ancient Legend Orc Axe	A dull Axe made of animal bone that was used by the Orcs.
+2615	Ancient Golden Tower Axe	An Axe with a splendidly long blade.
+2616	Ancient Grand Silver Axe	A silver Axe that is somehow effective in healing your wounds.
+2617	Ancient Saint Golden Axe	An Axe of gold that everyone seems to want.
+2618	Ancient Dark Golden Axe	An Axe of gold that everyone seems to want.
+2619	Ancient Grand Great Axe	A fearsome Axe with two huge blades.
+262	Basic Launcher	A basic Launcher that is fairly stable.
+2620	Ancient Elven Flare Axe	An Axe that always emits flames from its blade edges. Be careful when handling it.
+2621	Ancient Legend Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+2622	Ancient Golden Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+2623	Ancient Dark Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+2624	Ancient Legend Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+2625	Ancient Saint Collapse Axe	An Axe with long and bulky blades.
+2626	Ancient Golden Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+2627	Ancient Dark Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+263	Hard Launcher	A tough Launcher that won't break easily.
+264	Bronze Launcher	A sturdy Launcher made entirely of bronze.
+2641	Ancient Saint Bardiche	A unique Spear whose point is shaped like an axe blade.
+2642	Ancient Grand Iron Spear	A widely used Spear that provides great power considering its price.
+2643	Ancient Legend Trident	A three pronged Spear that should never be used as a fork.
+2644	Ancient Golden Death Spear	The god of Death's weapon of choice.
+2645	Ancient Grand Halberd	A versatile Spear that can be used to chop, stab and slice.
+2646	Ancient Saint Lightning Spear	An electrical Spear that can summon thunder. Be careful lest it shock you.
+2647	Ancient Dark Shining Spear	A radiant Spear that always dazzles brightly.
+2648	Ancient Grand Shining Spear	A radiant Spear that always dazzles brightly.
+2649	Ancient Elven Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+265	Marble Launcher	A fancy launcher made of out high quality marble.
+2650	Ancient Legend Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+2651	Ancient Grand Gungnir	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+2652	Ancient Dark Gungnir	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+2653	Ancient Legend Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+2654	Ancient Saint Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+2655	Ancient Golden Dragon Spear	A Spear that is said to have been used by a dragon as its toothpick.
+2656	Ancient Saint Dagan Spear 	A Spear which seems to have been made to hunt huge animals.
+2657	Ancient Dark Dagan Spear	A Spear which seems to have been made to hunt huge animals.
+2658	Ancient Grand Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+2659	Ancient Elven Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+266	Orc Launcher	A heavy Launcher used by the Orc Warriors.
+2660	Ancient Legend Nimrodpiece	It is said that scars made by this Spear never truly heal.
+2661	Ancient Golden Nimrodpiece	It is said that scars made by this Spear never truly heal.
+267	Mythril Launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+2671	Ancient Golden Orc Bow	The basic Bow for Orc Archers.
+2672	Ancient Grand White Wing Bow	A Bow that is made in the form of a little angel's wing.
+2673	Ancient Dark Elven Bow	A powerful Bow that was used by the Elves.
+2674	Ancient Legend Iron Bow	A solid Bow that is constructed of iron.
+2675	Ancient Saint Maiya Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+2676	Ancient Golden Half-Elf Bow	The basic Bow that was used by Half Elves.
+2677	Ancient Grand Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+2678	Ancient Dark Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+2679	Ancient Legend Bow of East Archer	A Bow that was popularly used in the East.
+268	Cross Launcher	An attractive Launcher decorated with crossed blades.
+2680	Ancient Golden Bow of Wind Spirit	A mysterious Bow that contains the spirit of the wind.
+2681	Ancient Saint Dual Stick Bow	A Bow said to be used by a legend. However, there are many imitations.
+2682	Ancient Grand Mediator Bow	A Bow whose true power shines when violence is avoided for the sake of justice.
+2683	Ancient Legend Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+2684	Ancient Golden Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+2685	Ancient Grand Bifenith Bow	The standard Bow used long ago by a group of warriors united by Robin Hawker.
+269	Burning Launcher	Launcher with explosive power that shoots flaming shells.
+270	Shadow Launcher	A Launcher that is said to shoot the essence of darkness itself.
+2701	Ancient Golden Gloria Gun	Despite being a pistol, the Gloria Gun has an excellent rapid fire rate.
+2702	Ancient Grand Iron Rifle	A model of one of the very first rifles that introduced the use of guns in battle.
+2703	Ancient Dark Iron Shotgun	A shotgun that is especially effective at point blank range. Don't get too close to it!
+2704	Ancient Legend Sorden Gun	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+2705	Ancient Saint Edge Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+2706	Ancient Golden Beretta	A Gun with enough power to exterminate zombies.
+2707	Ancient Grand Sniper Rifle	A rifle that is well suited to accurately targeting enemies from a great distance.
+2708	Ancient Dark Sniper Rifle	A rifle that is well suited to accurately targeting enemies from a great distance.
+2709	Ancient Legend Justice Cannon	A cannon whose power reflects the fervor of those who fight for justice.
+271	Corsair Cannon	A Launcher used by pirates in their own flying ships.
+2710	Ancient Golden Piercing Gun	A Gun with the power to pierce absolutely anything.
+2711	Ancient Saint Remington	A masterpiece that combines both incredible power and gorgeous design.
+2712	Ancient Grand Remington	A masterpiece that combines both incredible power and gorgeous design.
+2713	Ancient Legend Brave Gun	A rifle of judgment that only one that truly has courage may use.
+2714	Ancient Golden Brave Gun	A rifle of judgment that only one that truly has courage may use.
+2715	Ancient Grand Bastard Gun	At long last, a weapon that is half gun, half Bastard Sword. It's specially patented.
+2716	Ancient Saint Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+2717	Ancient Dark Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+272	Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+273	Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+2731	Ancient Golden Hard Launcher	A tough Launcher that won't break easily.
+2732	Ancient Grand Bronze Launcher	A sturdy Launcher made entirely of bronze.
+2733	Ancient Dark Orc Launcher	A heavy Launcher used by the Orc Warriors.
+2734	Ancient Legend Mythril launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+2735	Ancient Golden Cross launcher	An attractive Launcher decorated with crossed blades.
+2736	Ancient Saint Burning Launcher	Launcher with explosive power that shoots flaming shells.
+2737	Ancient Grand Corsair Cannon	A Launcher used by pirates in their own flying ships.
+2738	Ancient Legend Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+2739	Ancient Golden Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+274	Ferrell Cannon	Originally designed to protect the merchants of the Ferrell Guild, the Ferrell Cannon has been remodeled for use in siege warfare.
+2740	Ancient Grand Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+2741	Ancient Saint Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+2742	Ancient Dark Ferrell Cannon	Originally designed to protect the merchants of the Ferrell Guild, the Ferrell Cannon has been remodeled for use in siege warfare.
+2743	Ancient Grand Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+2744	Ancient Elven Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+275	Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+276	Breakdown Cannon	A powerful Launcher whose only purpose is to reduce anything to rubble.
+2761	Ancient Grand Animal Rod	A shepherd's Rod that provides suitable damage.
+2762	Ancient Dark Mage's Rod	A Mage's Rod that contains just a little bit of magic.
+2763	Ancient Legend White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+2764	Ancient Saint Wisp Staff	A monster's Staff that is always following the light of spirits.
+2765	Ancient Golden Shadow Staff	An uncommon Staff in which dark magic is sealed.
+2766	Ancient Grand Golden Staff	An everlasting Staff constructed out of pure gold.
+2767	Ancient Dark Anima Staff	A Mage's Staff that contains the magic power of Anima.
+2768	Ancient Legend Anima Staff	A Mage's Staff that contains the magic power of Anima.
+2769	Ancient Golden Land Staff	A Mage's Staff that contains the power of the earth.
+277	Reverse Cannon	An incredibly lethal weapon whose power well exceeds self-defense purposes.
+2770	Ancient Saint Land Staff	A Mage's Staff that contains the power of the earth.
+2771	Ancient Grand Holy Staff	A clergyman's Staff which contains the power of holiness.
+2772	Ancient Legend Holy Staff	A clergyman's Staff which contains the power of holiness.
+2773	Ancient Golden Dark Staff	A heretic's Staff that flows with dark energy.
+2774	Ancient Grand Dark Staff	A heretic's Staff that flows with dark energy.
+2775	Ancient Saint Rune Staff	A Mage's Staff engraved with mystic runes.
+2776	Ancient Dark Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+2777	Ancient Grand Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+2778	Ancient Elven Crystal Rod	A magical Rod that is made out of crystal.
+2779	Ancient Legend Crystal Rod	A magical Rod that is made out of crystal.
+278	Hedgehog	A Launcher with covered in thorny spikes like a hedgehog.
+2780	Ancient Golden Devil Rod	A cursed Rod that steals souls.
+2781	Ancient Demon Devil Rod	A cursed Rod that steals souls.
+2782	Ancient Legend Meteor Rod	A Rod that can control falling meteors.
+2783	Ancient Dark Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+2784	Ancient Grand Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+2785	Ancient Elven Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+2786	Ancient Legend Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+2787	Ancient Golden Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+2788	Ancient Demon Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+2789	Ancient Legend Oracle Staff	A Staff used to create miracles by Seyrun the Sage.
+279	Gigantic Wave	A simple, rough looking Launcher with a wide muzzle.
+2791	Ancient Golden Sorcerer's Wand	A Wand, used by sorcerers, in which offensive magic sealed.
+2792	Ancient Grand Elven Wand	A Wand containing the holy magic of the Elves.
+2793	Ancient Dark Silence Wand	A Wand containing the holy magic of the Elves.
+2794	Ancient Legend Windphon Wand	A divine Wand that can call forth the wind.
+2795	Ancient Saint Flame Wand	A Mage's Wand that can shoot magical flames.
+2796	Ancient Golden Blizzard Wand	A Mage's Wand that can magically shoot ice fragments.
+2797	Ancient Grand Recovery Wand	A magical Wand that contains restorative energies.
+2798	Ancient Dark Recovery Wand	A magical Wand that contains restorative energies.
+2799	Ancient Legend Windstorm Wand	A Wand that was been magically constructed to call forth wind vacuums.
+2800	Ancient Golden Shadow Wand	A Mage's Wand that contains dark energies.
+2801	Ancient Saint Evil Wand	A cursed Wand in which demonic energies are contained.
+2802	Ancient Grand Evil Wand	A cursed Wand in which demonic energies are contained.
+2803	Ancient Legend Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+2804	Ancient Golden Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+2805	Ancient Grand Meteor Wand	A Wand that has the power to shoot small meteorites.
+2806	Ancient Grand Twister Wind	The incantation to cause tornados was written on this Wand by witches. The actual effectiveness of this incantation is uncertain.
+2821	Ancient Golden Rake Hand	A sharp, rake-like weapon that can gather fallen leaves.
+2822	Ancient Grand Wolf's Paw	A glove with sharp claws, imitating the paw of the wolf.
+2823	Ancient Dark Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+2824	Ancient Legend Spike Knuckle	A fearsome Knuckle covered with pointy spikes.
+2825	Ancient Saint Crescent Knuckle	A beautiful Knuckle with crescent shaped blades.
+2826	Ancient Golden Crescent Knuckle 	A beautiful Knuckle with crescent shaped blades.
+2827	Ancient Grand Dual Patar 	Long spears that are worn on both hands.
+2828	Ancient Dark Dual Patar 	Long spears that are worn on both hands.
+2829	Ancient Legend Shaft Claw 	A powerful Knuckle with long claws designed for nimble attacks.
+2830	Ancient Golden Shaft Claw	A powerful Knuckle with long claws designed for nimble attacks.
+2831	Ancient Saint Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+2832	Ancient Grand Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+2833	Ancient Legend Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+2834	Ancient Golden Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+2835	Ancient Grand Griffon Knuckle	A high class Knuckle adorned with the face of a griffon.
+2836	Ancient Saint Evil Killer	A lethal Knuckle that specializes in slaying demons.
+2837	Ancient Dark Evil Killer	A lethal Knuckle that specializes in slaying demons.
+2838	Ancient Grand Sudden Raid Dagger	The Katar for Raiders who have an 'all or nothing' philosophy in battle.
+2839	Ancient Saint Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+2840	Ancient Dark Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+2841	Ancient Grand Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+2842	Ancient Elven Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+2843	Ancient Legend Phantasmal Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+2844	Ancient Golden Phantasmal Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+2845	Ancient Demon Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+2846	Ancient Legend Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+2851	Ancient Grand Long Sword & Mace	This dual sword combination allows you to both cut and smash!
+2852	Ancient Dark Dual Bushido	A matching set of swords with the words 'lethal attack' engraved. This is serious business.
+2853	Ancient Legend Twin Ghost Bat	Not one, but two enchanted bats for double the smash.
+2854	Ancient Saint Saber & Elven Sword 	A splendid dual sword combination.
+2855	Ancient Golden Dual Ocean Swords	Ocean combination dual sword set. If your enemies aren't impressed by the shark, they'll fear the squid.
+2856	Ancient Grand Viking Sword & Axe	A Viking Sword in one hand and an Axe in the other spells out a pretty savage dual sword combination.
+2857	Ancient Dark Blood Sword & Axe	A powerful dual sword combination. If the Blood Sword doesn't get them, the Axe will.
+2858	Ancient Legend Dual Katana	An uncommon dual sword combination in the style of the great warrior, Musashi.
+2859	Ancient Golden Ice & Flare Swords	Dual sword combination in which you wield Ice in one hand and Fire in the other.
+2860	Ancient Grand Brilliant Dual Wield	The man whose courage is deeply hidden will cast away his shield and take up swords in both arms.
+2861	Ancient Legend Spirits Dual Wield	The beauty of this dual sword set belies the incredible attack efficiency of this weapon combination.
+2862	Ancient Golden Desperado Dual Wield	The dual sword choice of pirates. This combination offers incredible offensive power.
+2863	Ancient Grand Glorious Dual Wield	A knight's dual sword combination that symbolizes both valor and honor.
+2865	Ancient Eminence Sword	A threatening sword in which the words 'Lethal Attack' are engraved.
+2866	Ancient Crescent Saber	A dashing sword which cuts through the wind.
+2867	Ancient Sleipnir	An imitation of the legendary swords used by the Elves.
+2868	Ancient Kraken's Blade	A sword made in the awe inspiring form of the noble squid race.
+2869	Ancient Canine Blade	A fearsome sword studded with wild shark's teeth.
+2870	Ancient Monarch Sword	A sword with a wide blade that was popularized by the Vikings.
+2871	Ancient Rapid Bow	A Bow that is made in the form of a little angel's wing.
+2872	Ancient Aquilia Bow	A powerful Bow that was used by the Elves.
+2873	Ancient Ferrum Bow	A solid Bow that is constructed of iron.
+2874	Ancient Fidelio Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+2875	Ancient Hero Bow	An awesome Bow used by noble warriors wearing the mask of the grasshopper.
+2876	Ancient Ventus Bow	The basic Bow that was used by Half Elves.
+2877	Ancient Bellum Gun	A model of one of the very first rifles that introduced the use of guns in battle.
+2878	Ancient Steel Breaker	A shotgun that is especially effective at point blank range. Don't get too close to it!
+2879	Ancient Cannon Breaker	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+2880	Ancient Silo Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+2881	Ancient Crypto Gun	A Gun with that emits a robust, exciting sound when it fires, making it a real crowd pleaser.
+2882	Ancient Nightly Gun	A Gun with enough power to exterminate zombies.
+2883	Ancient Mercenary Launcher	A basic Launcher that is fairly stable.
+2884	Ancient Gloria Launcher	A tough Launcher that won't break easily.
+2885	Ancient Hoodlum Launcher	A sturdy Launcher made entirely of bronze.
+2886	Ancient Corvus Launcher	A fancy launcher made of out high quality marble.
+2887	Ancient Havoc Launcher	A heavy Launcher used by the Orc Warriors.
+2888	Ancient Crash Launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+2889	Ancient Spiritual Rod	A Mage's Rod that contains just a little bit of magic.
+2890	Ancient Snowy-White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+2891	Ancient Laban Staff	A monster's Staff that is always following the light of spirits.
+2892	Ancient Vengeance Staff	An uncommon Staff in which dark magic is sealed.
+2893	Ancient Noble Staff	An everlasting Staff constructed out of pure gold.
+2894	Ancient Marvel Staff	A Mage's Staff that contains the magic power of Anima.
+2895	Ancient Ugonium	A Wand containing the holy magic of the Elves.
+2896	Ancient Elon Wand	A magic Wand that contains the power to bring silence to its surroundings.
+2897	Ancient Zephyrus	A divine Wand that can call forth the wind.
+2898	Ancient Red Spirit Wand	A Mage's Wand that can shoot magical flames.
+2899	Ancient Blue Spirit Wand	A Mage's Wand that can mystically discharge lightning.
+2900	Ancient Yeti Spirit Wand	A Mage's Wand that can magically shoot ice fragments.
+2901	Ancient Falchion	A broad, heavy sword that's optimized for use in overhead attacks.
+2902	Ancient Gladius	The standard sword for mercenary soldiers working for the Ferrell Guild.
+2903	Ancient Firangi 	A sword for the nobility that excels in both ornate magnificence and performance.
+2909	Ancient Gurz	A peculiar, cross shaped weapon used as a bludgeon.
+2910	Ancient Spike Club	Covered in spikes, this weapon was crafted with the intent to hideously wound enemies.
+2916	Ancient Composite Bow Gun	A Bow Gun that has been upgraded from existing Crossbows.
+2917	Ancient Knight Killer	A Bow Gun that specializes in piercing the armor that covers a knight's chest.
+2920	Ancient Zweihander	Although difficult to handle, the Zweihander is an extraordinarily powerful sword.
+2921	Ancient Phoenixhander	A Two-Handed Sword with the image of the phoenix, symbol of immortality.
+2927	Ancient Devil Axe	A cursed Axe engraved with an image of a demon.
+2928	Ancient Dark Buster	A huge Axe for vanquishing the darkness.
+2933	Ancient Glaive	A huge scimitar with a wide blade.
+2934	Ancient Halbert	A versatile Spear with a long and narrow spearhead and an axe shaped blade.
+2940	Ancient Bow of the Fairies	A Bow created from the wood and the powder of the Fairies.
+2941	Ancient Bow of Artemis	A symbol of speed and agility, this Bow is so light that anyone can use it.
+2942	Ancient Bow of Sagittarius	A legendary Bow said to be used by archers with remarkable ability.
+2952	Ancient Potbelly Gun	A cute Gun with a short muzzle, but with a fat barrel, sort of like a potbelly.
+2953	Ancient Spero's Revolver	A revolver that is one of Spero's prized inventions.
+2954	Ancient Abyss Rifle	A powerful rifle that can even aim at targets at the bottom of an abyss.
+2960	Ancient Gatling Multi Launcher	A Launcher that has the power to fire many bullets at once.
+2961	Ancient Faust	A weapon which strikes fear into the hearts of those who must face the power of Faust.
+2967	Ancient Shining Staff	A magic Staff said to contain the power of light since ancient times.
+2968	Ancient Lunar Seal Staff	A Staff containing some of the abundant Mana power from the planet of Luna.
+2969	Ancient Chronicle Staff	An ancient Staff that has existed since the earliest chronicled moments in magic history.
+2975	Ancient Coyote Wand	A Wand that looks like it has a coyote head attached to it.
+2976	Ancient Dust Wand	A Wand that is decorated with a red comet.
+2977	Ancient Crystal Wand	A magic Wand that has crystals attached to it.
+2983	Ancient Zamadar	An ancient weapon with a long blade.
+2984	Ancient Chakram	An impressive weapon made in the shape of a half moon.
+2985	Ancient Shining Finger	A lethal weapon with three claws that threaten to shred the enemy to certain death.
+2991	Ancient Falchion-Gladius	A weapon combination that can only be used by those who have mastered the fundamentals of battle.
+2992	Ancient Falchion-Firangi	A versatile weapon combination that makes use of both a wide Falchion blade and a thin Firangi.
+2993	Ancient Firangi-Firangi	A noble weapon combination that is ideal for inflicting critical damage.
+3000		
+3001	Ancient Wooden Sword	A sword made of wood which you can get anywhere.
+3002	Ancient Short Sword	An easily available sword that's perfect for beginners.
+3003	Ancient Rapier	A long, sharp sword that is mainly used for stabbing.
+3004	Ancient Khukuri	A sharply curved sword.
+3005	Ancient Long Sword	A general sword that is favored by many.
+3006	Ancient Bushido	A threatening sword in which the words 'Lethal Attack' are engraved.
+3007	Ancient Saber	A dashing sword which cuts through the wind.
+3008	Ancient Elven Sword	An imitation of the legendary swords used by the Elves.
+3009	Ancient Squid Sword	A sword made in the awe inspiring form of the noble squid race.
+301	Baobab Rod	A basic Rod made of out Baobab wood.
+3010	Ancient Shark Blade	A fearsome sword studded with wild shark's teeth.
+3011	Ancient Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+3012	Ancient Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+3013	Ancient Katana	The sword of choice for veteran samurai.
+3014	Ancient Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+3015	Ancient Flare Sword	A mysterious sword which creates a blaze at every brandish.
+3016	Ancient Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+3017	Ancient Flamboyant	A beautifully crafted sword that is effective in battle situations.
+3018	Ancient Righteous Sword	A magnificent sword decorated with large jewels.
+3019	Ancient Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+302	Lemmings Rod	A cute Rod that's good for handling mice.
+3020	Ancient Death Bringer	Since ancient times, this sword has brought the spirit of death to whoever wields it.
+3021	Ancient Death Expeller	A sword, created together with the Death Bringer, that is imbued with the power to expel the spirit of death.
+3022	Ancient Simplex Saber	A simple One-Handed Sword with a rounded blade.
+3023	Ancient Mythril Rapier	A strengthened rapier forged out of mythril.
+303	Animal Rod	A shepherd's Rod that provides suitable damage.
+3031	Ancient Wooden Bat	A sturdy, reliable bat that's perfect for fighting daughter's boyfriends.
+3032	Ancient Monkey Wrench	A handy, versatile tool that doubles as a weapon.
+3033	Ancient  Buffoon Mace	A ridiculous Melee Weapon that looks out of place on the battlefield.
+3034	Ancient Ogre Mace	A solid weapon made from the skeleton of an Ogre.
+3035	Ancient Onion Mace	A simple Melee Weapon topped with an onion.
+3036	Ancient Ghost Bat	An enchanted bat readily used by demons.
+3037	Ancient Stone Hammer	The hammer of choice during the Stone Age.
+3038	Ancient Skeleton Hammer	A hammer made with a really tough skull.
+3039	Ancient Ice Hammer	A huge hammer made of ice crystals that won't melt.
+304	Mage's Rod	A Mage's Rod that contains just a little bit of magic.
+3040	Ancient Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+3041	Ancient Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+3042	Ancient Blood Mace	A cursed mace that thirsts for blood.
+3043	Ancient Scorpion Club	A hammer made from a poisonous scorpion's tail.
+3044	Ancient Battle Mace	A Melee Weapon that has been optimized for use in battle.
+3045	Ancient Great Hammer	A destructive hammer whose power rocks the very earth.
+3046	Ancient Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+3047	Ancient Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+3048	Ancient Nirvana Hammer	A hammer that glitters with royal majesty as you rush into the heat of battle.
+3049	Ancient Doom Hammer	Just one swing from this destructive Melee Weapon can make the ground tremble with a thunderous roar.
+305	White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+3050	Ancient Final Hammer	The ultimate Melee Weapon whose name signifies the end of the world.
+3051	Ancient Bone Club	A dangerous weapon carved out of animal bone.
+3052	Ancient Heavy Bolt	A Melee Weapon designed to be used for an enormous Castle Gear.
+306	Wisp Staff	A monster's Staff that is always following the light of spirits.
+3061	Ancient Simple Bow Gun	A simple Crossbow that can be used with one hand.
+3062	Ancient Cutter Bow Gun	A Crossbow that fires bolts which can cut through anything.
+3063	Ancient Quick Bow Gun	A Crossbow that provides superior rapid firing power.
+3064	Ancient Crossbow Gun	A Crossbow which provides great destructive power.
+3065	Ancient Poison Bow Gun	A Crossbow smothered with poison curse magic.
+3066	Ancient Dark Bow Gun	A high quality Crossbow that comes in a polished black color.
+3067	Ancient Elf Bow Gun	A gorgeous, yet simple to use, Crossbow that was used by the Elves.
+3068	Ancient Anima Bow Gun	A Crossbow infused with the power of nature.
+3069	Ancient OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+307	Shadow Staff	An uncommon Staff in which dark magic is sealed.
+3070	Ancient Steel Bow Gun	A Bow Gun, constructed of special material, that is powerful enough to pierce solid steel.
+3071	Ancient Mythril Bow Gun	A Bow Gun, constructed out of mythril, which is stronger than the Mythril Bow.
+3072	Ancient Cyclone Bow Gun	A mysterious Crossbow that is said to be able to use the power of the wind.
+308	Golden Staff	An everlasting Staff constructed out of pure gold.
+309	Anima Staff	A Mage's Staff that contains the magic power of Anima.
+310	Land Staff	A Mage's Staff that contains the power of the earth.
+3101	Ancient Haedong Sword	Wooden sword used for training that is easily broken.
+3102	Ancient Nameless Sword	Two-Handed Sword for novices.
+3103	Ancient Sword of Hardship	The more hardship you experience with this sword, the more you gain experience.
+3104	Ancient Cutter Edge	Two-Handed Sword that specializes in cutting.
+3105	Ancient Surado	A basic Two-Handed Sword.
+3106	Ancient Bull Sword	A heavy sword decorated with an angry bull. Beware!
+3107	Ancient Two-Handed Sword	The most basic Two-Handed Sword.
+3108	Ancient After Blade	A beautiful sword that looks resplendent when giving the finishing touch.
+3109	Ancient Executioner 	A sword used in the gruesome task of decapitation.
+311	Holy Staff	A clergyman's Staff which contains the power of holiness.
+3110	Ancient Bastard Sword	A sword that seems to be intended for two-handed use, but beginners might confuse it for one-handed use.
+3111	Ancient Claymore	An aristocratic sword adorned with jewels and the image of a crow.
+3112	Ancient Flamberge	A sword with a wavy edge.
+3113	Ancient Dragon Sword	A sword in which the blade is generally decorated with the image of a dragon.
+3114	Ancient Heroic Sword	A sword filled with the spiritual power of the Orient.
+3115	Ancient Great Sword	An enormous sword that you are barely able to carry.
+3116	Ancient Giant Sword	A huge sword that was used by the king of the Orcs.
+3117	Ancient Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+3118	Ancient Sacred Hander	An enormous Two-Handed Sword that is easily larger than other weapons in its class.
+3119	Ancient Explosion Hander	A mysterious sword which explodes upon impact. There are few surviving victims, if any.
+312	Dark Staff	A heretic's Staff that flows with dark energy.
+3120	Ancient Sword	A normal sword generally carried by Soldiers.
+3121	Ancient Rookie Sword	A very basic sword typically used by Rookie Knights.
+313	Rune Staff	A Mage's Staff engraved with mystic runes.
+3131	Ancient Woodman Axe	A cheap Axe used by woodcutters.
+3132	Ancient Small Axe	An Axe commonly used by ruffians and trouble makers.
+3133	Ancient Battle Axe	A specially crafted weapon that can be used as both an axe and a hammer.
+3134	Ancient Tomahawk	An Axe that, through some kind of illusion, looks just like an eagle.
+3135	Ancient Orc Axe	A dull Axe made of animal bone that was used by the Orcs.
+3136	Ancient Tower Axe	An Axe with a splendidly long blade.
+3137	Ancient Cross Axe	A unique battle Axe with four blades that comes in handy for close shaves.
+3138	Ancient Silver Axe	A silver Axe that is somehow effective in healing your wounds.
+3139	Ancient Golden Axe	An Axe of gold that everyone seems to want.
+314	Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+3140	Ancient Great Axe	A fearsome Axe with two huge blades.
+3141	Ancient Ice Axe	An Axe with blades whose edges emanate intense coldness.
+3142	Ancient Flame Axe	An Axe that always emits flames from its blade edges. Be careful when handling it.
+3143	Ancient Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+3144	Ancient Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+3145	Ancient Collapse Axe	An Axe with long and bulky blades.
+3146	Ancient Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+3147	Ancient Titan Axe	An axe that was used by the titans. It's so large that most people can't even lift it.
+3148	Ancient Behead Axe	An axe used to behead criminals. It's filled with the resentment of those it has killed.
+3149	Ancient Nail Hatchet	An axe contructed out of a few nails and some wood from a nigh-indestructible tree. Contrary to its appearance, it's supposedly very powerful.
+315	Crystal Rod	A magical Rod that is made out of crystal.
+3150	Ancient Goblin Hatchet	An elaborately decorated axe constructed by Goblin smiths.
+316	Devil Rod	A cursed Rod that steals souls.
+3161	Ancient Bamboo Spear	A simple Spear made of bamboo.
+3162	Ancient Javelin	A Spear that is built for throwing rather than stabbing.
+3163	Ancient Round Spear	A light Spear with rounded blade.
+3164	Ancient Scimitar	An imitation of the Spear used by Kwanwoo. No one's really sure of its power.
+3165	Ancient Bardiche	A unique Spear whose point is shaped like an axe blade.
+3166	Ancient Iron Spear	A widely used Spear that provides great power considering its price.
+3167	Ancient Trident	A three pronged Spear that should never be used as a fork.
+3168	Ancient Death Spear	The god of Death's weapon of choice.
+3169	Ancient Halberd	A versatile Spear that can be used to chop, stab and slice.
+317	Meteor Rod	A Rod that can control falling meteors.
+3170	Ancient Lightning Spear	An electrical Spear that can summon thunder. Be careful lest it shock you.
+3171	Ancient Shining Spear	A radiant Spear that always dazzles brightly.
+3172	Ancient Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+3173	Ancient Gungnir 	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+3174	Ancient Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+3175	Ancient Dragon Spear	A Spear that is said to have been used by a dragon as its toothpick.
+3176	Ancient Dagan Spear	A Spear which seems to have been made to hunt huge animals.
+3177	Ancient Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+3178	Ancient Nimrodpiece	It is said that scars made by this Spear never truly heal.
+3179	Ancient Fury Spantun	A demonic spear which brings out outrageously destructive impulses in those who wield it.
+318	Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+3180	Ancient Punisher Drill	Spear capable of piercing through bodies and used in executions.
+3181	Ancient Keil Cutter	A weapon that is designed to render your opponent's weapon useless.
+3182	Ancient Reams Puricator	This power of this mysterious weapon cannot be ignored on account of its humongous size.
+319	Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+320	Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+3201	Ancient Toy Bow	A funny Bow that seems to have been made as a children's toy.
+3202	Ancient Short Bow	A Bow that's so easy to use, even a child can use it.
+3203	Ancient Long Bow	The most fundamental Bow for established Bow attack strategies.
+3204	Ancient Orc Bow	The basic Bow for Orc Archers.
+3205	Ancient White Wing Bow	A Bow that is made in the form of a little angel's wing.
+3206	Ancient Elf Bow	A powerful Bow that was used by the Elves.
+3207	Ancient Iron Bow	A solid Bow that is constructed of iron.
+3208	Ancient Maiya Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+3209	Ancient Rider Bow	An awesome Bow used by noble warriors wearing the mask of the grasshopper.
+321	Oracle Staff	A Staff used to create miracles by Seyrun the Sage.
+3210	Ancient Half-Elf Bow	The basic Bow that was used by Half Elves.
+3211	Ancient Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+3212	Ancient Bow of East Archer	A Bow that was popularly used in the East.
+3213	Ancient Cupid Bow	A Bow imbued with Cupid's charms.
+3214	Ancient Bow of Wind Spirit	A mysterious Bow that contains the spirit of the wind.
+3215	Ancient Dual Stick Bow	A Bow said to be used by a legend. However, there are many imitations.
+3216	Ancient Mediator Bow	A Bow whose true power shines when violence is avoided for the sake of justice.
+3217	Ancient Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+3218	Ancient Bifenith Bow	The standard Bow used long ago by a group of warriors united by Robin Hawker.
+3219	Ancient Zephyr Long Bow	A Bow created with the power of the wind.
+322	Twinkle Staff	A Staff which greatly raises magical power.
+3220	Ancient Six Stick Bow	A combination of multiple bows, this Bow offers the most powerful shooting force.
+323	Sparkle Staff	A Staff that summons more magical power than the Twinkle Staff.
+3231	Ancient Bubble Gun	A Gun that fires bubbles at high speeds to confuse the enemy.
+3232	Ancient Air Gun	A Gun operated with an air powered piston to fire small plastic BBs.
+3233	Ancient Gloria Gun	Despite being a pistol, the Gloria Gun has an excellent rapid fire rate.
+3234	Ancient Iron Rifle	A model of one of the very first rifles that introduced the use of guns in battle.
+3235	Ancient Iron Shotgun	A shotgun that is especially effective at point blank range. Don't get too close to it!
+3236	Ancient Sorden Gun	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+3237	Ancient Edge Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+3238	Ancient Showdown Gun	A Gun with that emits a robust, exciting sound when it fires, making it a real crowd pleaser.
+3239	Ancient Beretta	A Gun with enough power to exterminate zombies.
+324	Amazing Carrot	It's a magic wand from mysterious live carrot 
+3240	Ancient Sniper Gun	A rifle that is well suited to accurately targeting enemies from a great distance.
+3241	Ancient Justice Cannon	A cannon whose power reflects the fervor of those who fight for justice.
+3242	Ancient RP-911	An all purpose Gun that is perfectly endowed with speed, precision and gentleness.
+3243	Ancient Piercing Gun	A Gun with the power to pierce absolutely anything.
+3244	Ancient Remington	A masterpiece that combines both incredible power and gorgeous design.
+3245	Ancient Brave Gun	A rifle of judgment that only one that truly has courage may use.
+3246	Ancient Bastard Gun	At long last, a weapon that is half gun, half Bastard Sword. It's specially patented.
+3247	Ancient Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+3248	Ancient Shock Impact Gun	An ornamentally designed Gun which actually has considerable destructive capability.
+3249	Ancient White Night Gun	A very practical Gun which shoots blinding bursts of light.
+325		
+326		
+3261	Ancient Wooden Launcher	A simple Launcher constructed out of wood.
+3262	Ancient Basic Launcher	A basic Launcher that is fairly stable.
+3263	Ancient Hard Launcher	A tough Launcher that won't break easily.
+3264	Ancient Bronze Launcher	A sturdy Launcher made entirely of bronze.
+3265	Ancient Marble Launcher	A fancy launcher made of out high quality marble.
+3266	Ancient Orc Launcher	A heavy Launcher used by the Orc Warriors.
+3267	Ancient Mythril Launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+3268	Ancient Cross Launcher	An attractive Launcher decorated with crossed blades.
+3269	Ancient Burning Launcher	Launcher with explosive power that shoots flaming shells.
+327	Albtraum	A huge, heavy Staff crafted of an old metal compound.
+3270	Ancient Shadow Launcher	A Launcher that is said to shoot the essence of darkness itself.
+3271	Ancient Corsair Cannon	A Launcher used by pirates in their own flying ships.
+3272	Ancient Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+3273	Ancient Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+3274	Ancient Ferrell Cannon	Originally designed to protect the merchants of the Ferrell Guild, the Ferrell Cannon has been remodeled for use in siege warfare.
+3275	Ancient Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+3276	Ancient Breakdown Cannon	A powerful Launcher whose only purpose is to reduce anything to rubble.
+3277	Ancient Reverse Cannon	An incredibly lethal weapon whose power well exceeds self-defense purposes.
+328	Einstern	This Staff is freakin' huge.
+3301	Ancient Baobab Rod	A basic Rod made of out Baobab wood.
+3302	Ancient Lemmings Rod	A cute Rod that's good for handling mice.
+3303	Ancient Animal Rod	A shepherd's Rod that provides suitable damage.
+3304	Ancient Mage's Rod	A Mage's Rod that contains just a little bit of magic.
+3305	Ancient White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+3306	Ancient Wisp Staff	A monster's Staff that is always following the light of spirits.
+3307	Ancient Shadow Staff	An uncommon Staff in which dark magic is sealed.
+3308	Ancient Golden Staff	An everlasting Staff constructed out of pure gold.
+3309	Ancient Anima Staff	A Mage's Staff that contains the magic power of Anima.
+331	Baobab Wand	Constructed from wood from the Baobab tree, this Wand contains a small amount of magic power.
+3310	Ancient Land Staff	A Mage's Staff that contains the power of the earth.
+3311	Ancient Holy Staff	A clergyman's Staff which contains the power of holiness.
+3312	Ancient Dark Staff	A heretic's Staff that flows with dark energy.
+3313	Ancient Rune Staff	A Mage's Staff engraved with mystic runes.
+3314	Ancient Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+3315	Ancient Crystal Rod	A magical Rod that is made out of crystal.
+3316	Ancient Devil Rod	A cursed Rod that steals souls.
+3317	Ancient Meteor Rod	A Rod that can control falling meteors.
+3318	Ancient Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+3319	Ancient Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+332	Mage's Wand	A basic Wand used by Mages to focus their mystic energies.
+3320	Ancient Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+3321	Ancient Oracle Staff	A Staff used to create miracles by Seyrun the Sage.
+3322	Ancient Twinkle Staff	A Staff which greatly raises magical power.
+3323	Ancient Sparkle Staff	A Staff that summons more magical power than the Twinkle Staff.
+3324		
+3325		
+3326		
+333	Sorcerer's Wand	A Wand, used by sorcerers, in which offensive magic sealed.
+3331	Ancient Baobab Wand	Constructed from wood from the Baobab tree, this Wand contains a small amount of magic power.
+3332	Ancient Mage's Wand	A basic Wand used by Mages to focus their mystic energies.
+3333	Ancient Sorcerer's Wand	A Wand, used by sorcerers, in which offensive magic sealed.
+3334	Ancient Elven Wand	A Wand containing the holy magic of the Elves.
+3335	Ancient Silence Wand	A magic Wand that contains the power to bring silence to its surroundings.
+3336	Ancient Windphon Wand	A divine Wand that can call forth the wind.
+3337	Ancient Flame Wand	A Mage's Wand that can shoot magical flames.
+3338	Ancient Thunder Wand	A Mage's Wand that can mystically discharge lightning.
+3339	Ancient Blizzard Wand	A Mage's Wand that can magically shoot ice fragments.
+334	Elven Wand	A Wand containing the holy magic of the Elves.
+3340	Ancient Recovery Wand	A magical Wand that contains restorative energies.
+3341	Ancient Windstorm Wand	A Wand that was been magically constructed to call forth wind vacuums.
+3342	Ancient Holy Wand	A magic Wand that flows with the power of holiness.
+3343	Ancient Shadow Wand	A Mage's Wand that contains dark energies.
+3344	Ancient Evil Wand	A cursed Wand in which demonic energies are contained.
+3345	Ancient Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+3346	Ancient Meteor Wand	A Wand that has the power to shoot small meteorites.
+3347	Ancient Bleak Wind	A Wand that can call forth windstorms. Most Mages cannot handle its sheer power.
+3348	Ancient Conjurer's Wand	A mysterious Wand once owned by Ishtal Silver. Somehow, this wand is supposed to be able to talk to its owner…
+3349	Ancient Twister Wand	The incantation to cause tornados was written on this Wand by witches. The actual effectiveness of this incantation is uncertain.
+335	Silence Wand	A magic Wand that contains the power to bring silence to its surroundings.
+3350	Ancient Snake Wand	A short Wand that is shaped like a Cobra at its end.
+3351	Ancient Ouroboros Wand	This Wand is a symbol of Ouroboros, the mythical eight headed serpent.
+3352	Ancient Blaze Wand	This wand is constructed of a unique material that cannot be burned away.
+3353	Ancient Vision Wand	A wand that is said to contain the power to enable its user to see through all objects.
+3354	Ancient Icicle	It is said that overuse of the Icicle will slowly chill your body until it is frozen.
+336	Windphon Wand	A divine Wand that can call forth the wind.
+337	Flame Wand	A Mage's Wand that can shoot magical flames.
+338	Thunder Wand	A Mage's Wand that can mystically discharge lightning.
+339	Blizzard Wand	A Mage's Wand that can magically shoot ice fragments.
+340	Recovery Wand	A magical Wand that contains restorative energies.
+3401	Ancient Knuckle	Just wearing this thing boosts your courage by a hundredfold.
+3402	Ancient  Sword Knuckle	Knuckles that have been fitted with daggers. It's like punching and stabbing at the same time.
+3403	Ancient Katar	Long blades that are worn on the wrist, allowing you to attack enemies quickly.
+3404	Ancient Rake Hand	A sharp, rake-like weapon that can gather fallen leaves.
+3405	Ancient Wolf's Paw	A glove with sharp claws, imitating the paw of the wolf.
+3406	Ancient Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+3407	Ancient Spike Knuckle	A fearsome Knuckle covered with pointy spikes.
+3408	Ancient Crescent Knuckle	A beautiful Knuckle with crescent shaped blades.
+3409	Ancient Dual Patar	Long spears that are worn on both hands.
+341	Windstorm Wand	A Wand that was been magically constructed to call forth wind vacuums.
+3410	Ancient Shaft Claw	A powerful Knuckle with long claws designed for nimble attacks.
+3411	Ancient Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+3412	Ancient Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+3413	Ancient Griffon Knuckle	A high class Knuckle adorned with the face of a griffon.
+3414	Ancient Evil Killer	A lethal Knuckle that specializes in slaying demons.
+3415	Ancient Sudden Raid Dagger	The Katar for Raiders who have an 'all or nothing' philosophy in battle.
+3416	Ancient Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+3417	Ancient Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+3418	Ancient Phantasma Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+3419	Ancient Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+342	Holy Wand	A magic Wand that flows with the power of holiness.
+3420	Ancient Hawk Knuckle	Charming Knuckle weapons that are shaped like the head of a hawk. 
+3421	Ancient Raven Knuckle	The latest work from the craftsman who created the Hawk Knuckle.
+3422	Ancient Crust Knuckle	A peculiar Knuckle carved from tough animal bone.
+3423	Ancient Glove Knuckle	A set of Knuckles consisting of a pair of gloves made from thick leather.
+3424	Ancient Mythril Knuckle	A set of Knuckles made with sharp mythril blades.
+343	Shadow Wand	A Mage's Wand that contains dark energies.
+3431	Ancient Khukuri & Long Sword	A Khukuri in one hand and a Long Sword in the other. A basic dual sword combination.
+3432	Ancient Long Sword & Mace	This dual sword combination allows you to both cut and smash!
+3433	Ancient Dual Bushido	A matching set of swords with the words 'lethal attack' engraved. This is serious business.
+3434	Ancient Twin Ghost Bat	Not one, but two enchanted bats for double the smash.
+3435	Ancient Saber & Elven Sword 	A splendid dual sword combination.
+3436	Ancient Dual Ocean Swords	Ocean combination dual sword set. If your enemies aren't impressed by the shark, they'll fear the squid.
+3437	Ancient Viking Sword & Axe	A Viking Sword in one hand and an Axe in the other spells out a pretty savage dual sword combination.
+3438	Ancient Blood Sword & Axe	A powerful dual sword combination. If the Blood Sword doesn't get them, the Axe will.
+3439	Ancient Dual Katana	An uncommon dual sword combination in the style of the great warrior, Musashi.
+344	Evil Wand	A cursed Wand in which demonic energies are contained.
+3440	Ancient Ice & Flare Swords	Dual Sword combination in which you wield Ice in one hand and Fire in the other.
+3441	Ancient Dual Flare Swords	Most people are unable to wield two Flame Swords at the same time, as just the air around these dual weapons is scalding.
+3442	Ancient Brilliant Dual Wield	The man whose courage is deeply hidden will cast away his shield and take up swords in both arms.
+3443	Ancient Spirits Dual Wield	The beauty of this dual sword set belies the incredible attack efficiency of this weapon combination.
+3444	Ancient Desperado Dual Wield	The dual sword choice of pirates. This combination offers incredible offensive power.
+3445	Ancient Glorious Dual Wield	A knight's dual sword combination that symbolizes both valor and honor.
+3446	Ancient Demise Dual Weapon	A dual weapon combination of two Death Bringers which carry a suffocating aura of power.
+3447	Ancient Living Dead	A dual weapon combination of a Death Bringer complemented with a Death Expeller.
+3448	Ancient Mythril Dual Wield	A dual weapon combination of two Mythril Rapiers.
+345	Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+346	Meteor Wand	A Wand that has the power to shoot small meteorites.
+3461	Ancient Grody Scrubber	A scrubbing brush used to clean school bathrooms. User restricted item.
+3462	Ancient Pink Guitar	A special guitar built especially for rhythm game maniacs.
+3463	Ancient Angel Recorder	A required instrument for elementary school students of a famous magic academy.  It can't be played by anyone else!
+3464	Ancient Rose Bouquet	The pain from sadness of partng is just like the sting of these roses' thorns.
+347	Bleak Wind	A Wand that can call forth windstorms. Most Mages cannot handle its sheer power.
+348	Conjurer's Wand	A mysterious Wand once owned by Ishtal Silver. Somehow, this wand is supposed to be able to talk to its owner…
+349	Twister Wand	The incantation to cause tornados was written on this Wand by witches. The actual effectiveness of this incantation is uncertain.
+3492	Ancient Tricera	A sharp, rake-like weapon that can gather fallen leaves.
+3493	Ancient Sabertooth	A glove with sharp claws, imitating the paw of the tiger.
+3494	Ancient Grizzly Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+3495	Ancient Spine Fist	A fearsome Knuckle covered with pointy spikes.
+3496	Ancient Sting Fist	A beautiful Knuckle with crescent shaped blades.
+3497	Ancient Dual Sting Fist	Long spears that are worn on both hands.
+350	Snake Wand	A short Wand that is shaped like a Cobra at its end.
+3501	Ancient Golden Long Sword	A general sword that is favored by many.
+3502	Ancient Grand Saber	A dashing sword which cuts through the wind.
+3503	Ancient Dark Elf's Sword	An imitation of the legendary swords used by the Elves.
+3504	Ancient Legend Squid Sword	A sword made in the awe inspiring form of the noble squid race.
+3505	Ancient Saint Shark Blade	A fearsome sword studded with wild shark's teeth.
+3506	Ancient Golden Shark Blade	A fearsome sword studded with wild shark's teeth.
+3507	Ancient Grand Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+3508	Ancient Dark Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+3509	Ancient Legend Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+351	Ouroboros Wand	This Wand is a symbol of Ouroboros, the mythical eight headed serpent.
+3510	Ancient Golden Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+3511	Ancient Saint Katana	The sword of choice for veteran samurai.
+3512	Ancient Grand Katana	The sword of choice for veteran samurai.
+3513	Ancient Legend Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+3514	Ancient Golden Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+3515	Ancient Grand Flare Sword	A mysterious sword which creates a blaze at every brandish.
+3516	Ancient Saint Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+3517	Ancient Dark Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+3518	Ancient Grand Flamboyant	A beautifully crafted sword that is effective in battle situations.
+3519	Ancient Elven Flamboyant	A beautifully crafted sword that is effective in battle situations.
+352	Blaze Wand	This wand is constructed of a unique material that cannot be burned away.
+3520	Ancient Legend Righteous Sword	A magnificent sword decorated with large jewels.
+3521	Ancient Golden Righteous Sword	A magnificent sword decorated with large jewels.
+3522	Ancient Demon Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+3523	Ancient Legend Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+353	Vision Wand	A wand that is said to contain the power to enable its user to see through all objects.
+3531	Ancient Legend Ogre Mace	A solid weapon made from the skeleton of an Ogre.
+3532	Ancient Golden Onion Mace	A simple Melee Weapon topped with an onion.
+3533	Ancient Saint Ghost Bat	An enchanted bat readily used by demons.
+3534	Ancient Grand Stone Hammer	The hammer of choice during the Stone Age.
+3535	Ancient Legend Skeleton Hammer	A hammer made with a really tough skull.
+3536	Ancient Golden Ice Hammer	A huge hammer made of ice crystals that won't melt.
+3537	Ancient Grand Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+3538	Ancient Saint Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+3539	Ancient Dark Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+354	Icicle	It is said that overuse of the Icicle will slowly chill your body until it is frozen.
+3540	Ancient Grand Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+3541	Ancient Elven Blood Mace	A cursed mace that thirsts for blood.
+3542	Ancient Legend Blood Mace	A cursed mace that thirsts for blood.
+3543	Ancient Legend Scorpion Club	A hammer made from a poisonous scorpion's tail.
+3544	Ancient Golden Scorpion Club	A hammer made from a poisonous scorpion's tail.
+3545	Ancient Grand Battle Mace	A Melee Weapon that has been optimized for use in battle.
+3546	Ancient Saint Great Hammer	A destructive hammer whose power rocks the very earth.
+3547	Ancient Dark Great Hammer	A destructive hammer whose power rocks the very earth.
+3548	Ancient Grand Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+3549	Ancient Saint Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+355	Sternen Haufen	A Wand with decorated with several small stars.
+3550	Ancient Legend Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+3551	Ancient Golden Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+3552	Ancient Dark Nirvana Hammer	A hammer that glitters with royal majesty as you rush into the heat of battle.
+356	Amazing Brush	A small Wand shaped like a curved brush.
+3561	Ancient Golden Cutter Bow Gun	A Crossbow that fires bolts which can cut through anything.
+3562	Ancient Grand Quick Bow Gun	A Crossbow that provides superior rapid firing power.
+3563	Ancient Dark Crossbow Gun	A Crossbow which provides great destructive power.
+3564	Ancient Legend Dark Bow Gun	A high quality Crossbow that comes in a polished black color.
+3565	Ancient Golden Elf Bow Gun	A gorgeous, yet simple to use, Crossbow that was used by the Elves.
+3566	Ancient Saint Anima Bow Gun	A Crossbow infused with the power of nature.
+3567	Ancient Grand OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+3568	Ancient Legend OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+3581	Ancient Golden Cutter Edge	Two-Handed Sword that specializes in cutting.
+3582	Ancient Grand Bull Sword	A heavy sword decorated with an angry bull. Beware!
+3583	Ancient Dark Two-Handed Sword	The most basic Two-Handed Sword.
+3584	Ancient Legend After Blade	A beautiful sword that looks resplendent when giving the finishing touch.
+3585	Ancient Saint Executioner	A sword used in the gruesome task of decapitation.
+3586	Ancient Golden Claymore	An aristocratic sword adorned with jewels and the image of a crow.
+3587	Ancient Grand Flamberge	A sword with a wavy edge.
+3588	Ancient Dark Flamberge	A sword with a wavy edge.
+3589	Ancient Legend Dragon Sword	A sword in which the blade is generally decorated with the image of a dragon.
+3590	Ancient Golden Great Sword	An enormous sword that you are barely able to carry.
+3591	Ancient Saint Giant Sword	A huge sword that was used by the king of the Orcs.
+3592	Ancient Grand Giant Sword	A huge sword that was used by the king of the Orcs.
+3593	Ancient Legend Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+3594	Ancient Golden Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+3611	Ancient Golden Small Axe	An Axe commonly used by ruffians and trouble makers.
+3612	Ancient Saint Battle Axe	A specially crafted weapon that can be used as both an axe and a hammer.
+3613	Ancient Grand Tomahawk	An Axe that, through some kind of illusion, looks just like an eagle.
+3614	Ancient Legend Orc Axe	A dull Axe made of animal bone that was used by the Orcs.
+3615	Ancient Golden Tower Axe	An Axe with a splendidly long blade.
+3616	Ancient Grand Silver Axe	A silver Axe that is somehow effective in healing your wounds.
+3617	Ancient Saint Golden Axe	An Axe of gold that everyone seems to want.
+3618	Ancient Dark Golden Axe	An Axe of gold that everyone seems to want.
+3619	Ancient Grand Great Axe	A fearsome Axe with two huge blades.
+3620	Ancient Elven Flare Axe	An Axe that always emits flames from its blade edges. Be careful when handling it.
+3621	Ancient Legend Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+3622	Ancient Golden Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+3623	Ancient Dark Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+3624	Ancient Legend Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+3625	Ancient Saint Collapse Axe	An Axe with long and bulky blades.
+3626	Ancient Golden Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+3627	Ancient Dark Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+3641	Ancient Saint Bardiche	A unique Spear whose point is shaped like an axe blade.
+3642	Ancient Grand Iron Spear	A widely used Spear that provides great power considering its price.
+3643	Ancient Legend Trident	A three pronged Spear that should never be used as a fork.
+3644	Ancient Golden Death Spear	The god of Death's weapon of choice.
+3645	Ancient Grand Halberd	A versatile Spear that can be used to chop, stab and slice.
+3646	Ancient Saint Lightning Spear	An electrical Spear that can summon thunder. Be careful lest it shock you.
+3647	Ancient Dark Shining Spear	A radiant Spear that always dazzles brightly.
+3648	Ancient Grand Shining Spear	A radiant Spear that always dazzles brightly.
+3649	Ancient Elven Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+3650	Ancient Legend Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+3651	Ancient Grand Gungnir	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+3652	Ancient Dark Gungnir	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+3653	Ancient Legend Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+3654	Ancient Saint Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+3655	Ancient Golden Dragon Spear	A Spear that is said to have been used by a dragon as its toothpick.
+3656	Ancient Saint Dagan Spear 	A Spear which seems to have been made to hunt huge animals.
+3657	Ancient Dark Dagan Spear	A Spear which seems to have been made to hunt huge animals.
+3658	Ancient Grand Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+3659	Ancient Elven Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+3660	Ancient Legend Nimrodpiece	It is said that scars made by this Spear never truly heal.
+3661	Ancient Golden Nimrodpiece	It is said that scars made by this Spear never truly heal.
+3671	Ancient Golden Orc Bow	The basic Bow for Orc Archers.
+3672	Ancient Grand White Wing Bow	A Bow that is made in the form of a little angel's wing.
+3673	Ancient Dark Elven Bow	A powerful Bow that was used by the Elves.
+3674	Ancient Legend Iron Bow	A solid Bow that is constructed of iron.
+3675	Ancient Saint Maiya Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+3676	Ancient Golden Half-Elf Bow	The basic Bow that was used by Half Elves.
+3677	Ancient Grand Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+3678	Ancient Dark Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+3679	Ancient Legend Bow of East Archer	A Bow that was popularly used in the East.
+3680	Ancient Golden Bow of Wind Spirit	A mysterious Bow that contains the spirit of the wind.
+3681	Ancient Saint Dual Stick Bow	A Bow said to be used by a legend. However, there are many imitations.
+3682	Ancient Grand Mediator Bow	A Bow whose true power shines when violence is avoided for the sake of justice.
+3683	Ancient Legend Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+3684	Ancient Golden Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+3685	Ancient Grand Bifenith Bow	The standard Bow used long ago by a group of warriors united by Robin Hawker.
+3701	Ancient Golden Gloria Gun	Despite being a pistol, the Gloria Gun has an excellent rapid fire rate.
+3702	Ancient Grand Iron Rifle	A model of one of the very first rifles that introduced the use of guns in battle.
+3703	Ancient Dark Iron Shotgun	A shotgun that is especially effective at point blank range. Don't get too close to it!
+3704	Ancient Legend Sorden Gun	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+3705	Ancient Saint Edge Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+3706	Ancient Golden Beretta	A Gun with enough power to exterminate zombies.
+3707	Ancient Grand Sniper Rifle	A rifle that is well suited to accurately targeting enemies from a great distance.
+3708	Ancient Dark Sniper Rifle	A rifle that is well suited to accurately targeting enemies from a great distance.
+3709	Ancient Legend Justice Cannon	A cannon whose power reflects the fervor of those who fight for justice.
+3710	Ancient Golden Piercing Gun	A Gun with the power to pierce absolutely anything.
+3711	Ancient Saint Remington	A masterpiece that combines both incredible power and gorgeous design.
+3712	Ancient Grand Remington	A masterpiece that combines both incredible power and gorgeous design.
+3713	Ancient Legend Brave Gun	A rifle of judgment that only one that truly has courage may use.
+3714	Ancient Golden Brave Gun	A rifle of judgment that only one that truly has courage may use.
+3715	Ancient Grand Bastard Gun	At long last, a weapon that is half gun, half Bastard Sword. It's specially patented.
+3716	Ancient Saint Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+3717	Ancient Dark Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+3731	Ancient Golden Hard Launcher	A tough Launcher that won't break easily.
+3732	Ancient Grand Bronze Launcher	A sturdy Launcher made entirely of bronze.
+3733	Ancient Dark Orc Launcher	A heavy Launcher used by the Orc Warriors.
+3734	Ancient Legend Mythril launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+3735	Ancient Golden Cross launcher	An attractive Launcher decorated with crossed blades.
+3736	Ancient Saint Burning Launcher	Launcher with explosive power that shoots flaming shells.
+3737	Ancient Grand Corsair Cannon	A Launcher used by pirates in their own flying ships.
+3738	Ancient Legend Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+3739	Ancient Golden Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+3740	Ancient Grand Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+3741	Ancient Saint Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+3742	Ancient Dark Ferrell Cannon	Originally designed to protect the merchants of the Ferrell Guild, the Ferrell Cannon has been remodeled for use in siege warfare.
+3743	Ancient Grand Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+3744	Ancient Elven Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+3761	Ancient Grand Animal Rod	A shepherd's Rod that provides suitable damage.
+3762	Ancient Dark Mage's Rod	A Mage's Rod that contains just a little bit of magic.
+3763	Ancient Legend White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+3764	Ancient Saint Wisp Staff	A monster's Staff that is always following the light of spirits.
+3765	Ancient Golden Shadow Staff	An uncommon Staff in which dark magic is sealed.
+3766	Ancient Grand Golden Staff	An everlasting Staff constructed out of pure gold.
+3767	Ancient Dark Anima Staff	A Mage's Staff that contains the magic power of Anima.
+3768	Ancient Legend Anima Staff	A Mage's Staff that contains the magic power of Anima.
+3769	Ancient Golden Land Staff	A Mage's Staff that contains the power of the earth.
+3770	Ancient Saint Land Staff	A Mage's Staff that contains the power of the earth.
+3771	Ancient Grand Holy Staff	A clergyman's Staff which contains the power of holiness.
+3772	Ancient Legend Holy Staff	A clergyman's Staff which contains the power of holiness.
+3773	Ancient Golden Dark Staff	A heretic's Staff that flows with dark energy.
+3774	Ancient Grand Dark Staff	A heretic's Staff that flows with dark energy.
+3775	Ancient Saint Rune Staff	A Mage's Staff engraved with mystic runes.
+3776	Ancient Dark Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+3777	Ancient Grand Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+3778	Ancient Elven Crystal Rod	A magical Rod that is made out of crystal.
+3779	Ancient Legend Crystal Rod	A magical Rod that is made out of crystal.
+3780	Ancient Golden Devil Rod	A cursed Rod that steals souls.
+3781	Ancient Demon Devil Rod	A cursed Rod that steals souls.
+3782	Ancient Legend Meteor Rod	A Rod that can control falling meteors.
+3783	Ancient Dark Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+3784	Ancient Grand Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+3785	Ancient Elven Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+3786	Ancient Legend Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+3787	Ancient Golden Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+3788	Ancient Demon Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+3789	Ancient Legend Oracle Staff	A Staff used to create miracles by Seyrun the Sage.
+3791	Ancient Golden Sorcerer's Wand	A Wand, used by sorcerers, in which offensive magic sealed.
+3792	Ancient Grand Elven Wand	A Wand containing the holy magic of the Elves.
+3793	Ancient Dark Silence Wand	A Wand containing the holy magic of the Elves.
+3794	Ancient Legend Windphon Wand	A divine Wand that can call forth the wind.
+3795	Ancient Saint Flame Wand	A Mage's Wand that can shoot magical flames.
+3796	Ancient Golden Blizzard Wand	A Mage's Wand that can magically shoot ice fragments.
+3797	Ancient Grand Recovery Wand	A magical Wand that contains restorative energies.
+3798	Ancient Dark Recovery Wand	A magical Wand that contains restorative energies.
+3799	Ancient Legend Windstorm Wand	A Wand that was been magically constructed to call forth wind vacuums.
+3800	Ancient Golden Shadow Wand	A Mage's Wand that contains dark energies.
+3801	Ancient Saint Evil Wand	A cursed Wand in which demonic energies are contained.
+3802	Ancient Grand Evil Wand	A cursed Wand in which demonic energies are contained.
+3803	Ancient Legend Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+3804	Ancient Golden Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+3805	Ancient Grand Meteor Wand	A Wand that has the power to shoot small meteorites.
+3806	Ancient Grand Twister Wind	The incantation to cause tornados was written on this Wand by witches. The actual effectiveness of this incantation is uncertain.
+3821	Ancient Golden Rake Hand	A sharp, rake-like weapon that can gather fallen leaves.
+3822	Ancient Grand Wolf's Paw	A glove with sharp claws, imitating the paw of the wolf.
+3823	Ancient Dark Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+3824	Ancient Legend Spike Knuckle	A fearsome Knuckle covered with pointy spikes.
+3825	Ancient Saint Crescent Knuckle	A beautiful Knuckle with crescent shaped blades.
+3826	Ancient Golden Crescent Knuckle 	A beautiful Knuckle with crescent shaped blades.
+3827	Ancient Grand Dual Patar 	Long spears that are worn on both hands.
+3828	Ancient Dark Dual Patar 	Long spears that are worn on both hands.
+3829	Ancient Legend Shaft Claw 	A powerful Knuckle with long claws designed for nimble attacks.
+3830	Ancient Golden Shaft Claw	A powerful Knuckle with long claws designed for nimble attacks.
+3831	Ancient Saint Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+3832	Ancient Grand Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+3833	Ancient Legend Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+3834	Ancient Golden Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+3835	Ancient Grand Griffon Knuckle	A high class Knuckle adorned with the face of a griffon.
+3836	Ancient Saint Evil Killer	A lethal Knuckle that specializes in slaying demons.
+3837	Ancient Dark Evil Killer	A lethal Knuckle that specializes in slaying demons.
+3838	Ancient Grand Sudden Raid Dagger	The Katar for Raiders who have an 'all or nothing' philosophy in battle.
+3839	Ancient Saint Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+3840	Ancient Dark Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+3841	Ancient Grand Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+3842	Ancient Elven Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+3843	Ancient Legend Phantasmal Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+3844	Ancient Golden Phantasmal Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+3845	Ancient Demon Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+3846	Ancient Legend Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+3851	Ancient Grand Long Sword & Mace	This dual sword combination allows you to both cut and smash!
+3852	Ancient Dark Dual Bushido	A matching set of swords with the words 'lethal attack' engraved. This is serious business.
+3853	Ancient Legend Twin Ghost Bat	Not one, but two enchanted bats for double the smash.
+3854	Ancient Saint Saber & Elven Sword 	A splendid dual sword combination.
+3855	Ancient Golden Dual Ocean Swords	Ocean combination dual sword set. If your enemies aren't impressed by the shark, they'll fear the squid.
+3856	Ancient Grand Viking Sword & Axe	A Viking Sword in one hand and an Axe in the other spells out a pretty savage dual sword combination.
+3857	Ancient Dark Blood Sword & Axe	A powerful dual sword combination. If the Blood Sword doesn't get them, the Axe will.
+3858	Ancient Legend Dual Katana	An uncommon dual sword combination in the style of the great warrior, Musashi.
+3859	Ancient Golden Ice & Flare Swords	Dual sword combination in which you wield Ice in one hand and Fire in the other.
+3860	Ancient Grand Brilliant Dual Wield	The man whose courage is deeply hidden will cast away his shield and take up swords in both arms.
+3861	Ancient Legend Spirits Dual Wield	The beauty of this dual sword set belies the incredible attack efficiency of this weapon combination.
+3862	Ancient Golden Desperado Dual Wield	The dual sword choice of pirates. This combination offers incredible offensive power.
+3863	Ancient Grand Glorious Dual Wield	A knight's dual sword combination that symbolizes both valor and honor.
+3865	Ancient Eminence Sword	A threatening sword in which the words 'Lethal Attack' are engraved.
+3866	Ancient Crescent Saber	A dashing sword which cuts through the wind.
+3867	Ancient Sleipnir	An imitation of the legendary swords used by the Elves.
+3868	Ancient Kraken's Blade	A sword made in the awe inspiring form of the noble squid race.
+3869	Ancient Canine Blade	A fearsome sword studded with wild shark's teeth.
+3870	Ancient Monarch Sword	A sword with a wide blade that was popularized by the Vikings.
+3871	Ancient Rapid Bow	A Bow that is made in the form of a little angel's wing.
+3872	Ancient Aquilia Bow	A powerful Bow that was used by the Elves.
+3873	Ancient Ferrum Bow	A solid Bow that is constructed of iron.
+3874	Ancient Fidelio Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+3875	Ancient Hero Bow	An awesome Bow used by noble warriors wearing the mask of the grasshopper.
+3876	Ancient Ventus Bow	The basic Bow that was used by Half Elves.
+3877	Ancient Bellum Gun	A model of one of the very first rifles that introduced the use of guns in battle.
+3878	Ancient Steel Breaker	A shotgun that is especially effective at point blank range. Don't get too close to it!
+3879	Ancient Cannon Breaker	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+3880	Ancient Silo Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+3881	Ancient Crypto Gun	A Gun with that emits a robust, exciting sound when it fires, making it a real crowd pleaser.
+3882	Ancient Nightly Gun	A Gun with enough power to exterminate zombies.
+3883	Ancient Mercenary Launcher	A basic Launcher that is fairly stable.
+3884	Ancient Gloria Launcher	A tough Launcher that won't break easily.
+3885	Ancient Hoodlum Launcher	A sturdy Launcher made entirely of bronze.
+3886	Ancient Corvus Launcher	A fancy launcher made of out high quality marble.
+3887	Ancient Havoc Launcher	A heavy Launcher used by the Orc Warriors.
+3888	Ancient Crash Launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+3889	Ancient Spiritual Rod	A Mage's Rod that contains just a little bit of magic.
+3890	Ancient Snowy-White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+3891	Ancient Laban Staff	A monster's Staff that is always following the light of spirits.
+3892	Ancient Vengeance Staff	An uncommon Staff in which dark magic is sealed.
+3893	Ancient Noble Staff	An everlasting Staff constructed out of pure gold.
+3894	Ancient Marvel Staff	A Mage's Staff that contains the magic power of Anima.
+3895	Ancient Ugonium	A Wand containing the holy magic of the Elves.
+3896	Ancient Elon Wand	A magic Wand that contains the power to bring silence to its surroundings.
+3897	Ancient Zephyrus	A divine Wand that can call forth the wind.
+3898	Ancient Red Spirit Wand	A Mage's Wand that can shoot magical flames.
+3899	Ancient Blue Spirit Wand	A Mage's Wand that can mystically discharge lightning.
+3900	Ancient Yeti Spirit Wand	A Mage's Wand that can magically shoot ice fragments.
+3901	Ancient Falchion	A broad, heavy sword that's optimized for use in overhead attacks.
+3902	Ancient Gladius	The standard sword for mercenary soldiers working for the Ferrell Guild.
+3903	Ancient Firangi 	A sword for the nobility that excels in both ornate magnificence and performance.
+3909	Ancient Gurz	A peculiar, cross shaped weapon used as a bludgeon.
+3910	Ancient Spike Club	Covered in spikes, this weapon was crafted with the intent to hideously wound enemies.
+3916	Ancient Composite Bow Gun	A Bow Gun that has been upgraded from existing Crossbows.
+3917	Ancient Knight Killer	A Bow Gun that specializes in piercing the armor that covers a knight's chest.
+3920	Ancient Zweihander	Although difficult to handle, the Zweihander is an extraordinarily powerful sword.
+3921	Ancient Phoenixhander	A Two-Handed Sword with the image of the phoenix, symbol of immortality.
+3927	Ancient Devil Axe	A cursed Axe engraved with an image of a demon.
+3928	Ancient Dark Buster	A huge Axe for vanquishing the darkness.
+3933	Ancient Glaive	A huge scimitar with a wide blade.
+3934	Ancient Halbert	A versatile Spear with a long and narrow spearhead and an axe shaped blade.
+3940	Ancient Bow of the Fairies	A Bow created from the wood and the powder of the Fairies.
+3941	Ancient Bow of Artemis	A symbol of speed and agility, this Bow is so light that anyone can use it.
+3942	Ancient Bow of Sagittarius	A legendary Bow said to be used by archers with remarkable ability.
+3952	Ancient Potbelly Gun	A cute Gun with a short muzzle, but with a fat barrel, sort of like a potbelly.
+3953	Ancient Spero's Revolver	A revolver that is one of Spero's prized inventions.
+3954	Ancient Abyss Rifle	A powerful rifle that can even aim at targets at the bottom of an abyss.
+3960	Ancient Gatling Multi Launcher	A Launcher that has the power to fire many bullets at once.
+3961	Ancient Faust	A weapon which strikes fear into the hearts of those who must face the power of Faust.
+3967	Ancient Shining Staff	A magic Staff said to contain the power of light since ancient times.
+3968	Ancient Lunar Seal Staff	A Staff containing some of the abundant Mana power from the planet of Luna.
+3969	Ancient Chronicle Staff	An ancient Staff that has existed since the earliest chronicled moments in magic history.
+3975	Ancient Coyote Wand	A Wand that looks like it has a coyote head attached to it.
+3976	Ancient Dust Wand	A Wand that is decorated with a red comet.
+3977	Ancient Crystal Wand	A magic Wand that has crystals attached to it.
+3983	Ancient Zamadar	An ancient weapon with a long blade.
+3984	Ancient Chakram	An impressive weapon made in the shape of a half moon.
+3985	Ancient Shining Finger	A lethal weapon with three claws that threaten to shred the enemy to certain death.
+3991	Ancient Falchion-Gladius	A weapon combination that can only be used by those who have mastered the fundamentals of battle.
+3992	Ancient Falchion-Firangi	A versatile weapon combination that makes use of both a wide Falchion blade and a thin Firangi.
+3993	Ancient Firangi-Firangi	A noble weapon combination that is ideal for inflicting critical damage.
+401	Knuckle	Just wearing this thing boosts your courage by a hundredfold.
+402	 Sword Knuckle	Knuckles that have been fitted with daggers. It's like punching and stabbing at the same time.
+403	Katar	Long blades that are worn on the wrist, allowing you to attack enemies quickly.
+404	Rake Hand	A sharp, rake-like weapon that can gather fallen leaves.
+405	Wolf's Paw	A glove with sharp claws, imitating the paw of the wolf.
+406	Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+407	Spike Knuckle	A fearsome Knuckle covered with pointy spikes.
+408	Crescent Knuckle	A beautiful Knuckle with crescent shaped blades.
+409	Dual Patar	Long spears that are worn on both hands.
+410	Shaft Claw	A powerful Knuckle with long claws designed for nimble attacks.
+411	Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+412	Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+413	Griffon Knuckle	A high class Knuckle adorned with the face of a griffon.
+414	Evil Killer	A lethal Knuckle that specializes in slaying demons.
+415	Sudden Raid Dagger	The Katar for Raiders who have an 'all or nothing' philosophy in battle.
+416	Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+417	Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+418	Phantasma Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+419	Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+420	Hawk Knuckle	Charming Knuckle weapons that are shaped like the head of a hawk. 
+421	Raven Knuckle	The latest work from the craftsman who created the Hawk Knuckle.
+422	Crust Knuckle	A peculiar Knuckle carved from tough animal bone.
+423	Glove Knuckle	A set of Knuckles consisting of a pair of gloves made from thick leather.
+424	Mythril Knuckle	A set of Knuckles made with sharp mythril blades.
+425	Lemures	A Katar crafted from the leathery skins of red, ugly bats.
+426	Burnthesnatch	A Katar whose ice claws protrude from the back of the handguards.
+431	Khukuri & Long Sword	A Khukuri in one hand and a Long Sword in the other. A basic dual sword combination.
+432	Long Sword & Mace	This dual sword combination allows you to both cut and smash!
+433	Dual Bushido	A matching set of swords with the words 'lethal attack' engraved. This is serious business.
+434	Twin Ghost Bat	Not one, but two enchanted bats for double the smash.
+435	Saber & Elven Sword 	A splendid dual sword combination.
+436	Dual Ocean Swords	Ocean combination dual sword set. If your enemies aren't impressed by the shark, they'll fear the squid.
+437	Viking Sword & Axe	A Viking Sword in one hand and an Axe in the other spells out a pretty savage dual sword combination.
+438	Blood Sword & Axe	A powerful dual sword combination. If the Blood Sword doesn't get them, the Axe will.
+439	Dual Katana	An uncommon dual sword combination in the style of the great warrior, Musashi.
+440	Ice & Flare Swords	Dual Sword combination in which you wield Ice in one hand and Fire in the other.
+441	Dual Flare Swords	Most people are unable to wield two Flame Swords at the same time, as just the air around these dual weapons is scalding.
+442	Brilliant Dual Wield	The man whose courage is deeply hidden will cast away his shield and take up swords in both arms.
+443	Spirits Dual Wield	The beauty of this dual sword set belies the incredible attack efficiency of this weapon combination.
+444	Desperado Dual Wield	The dual sword choice of pirates. This combination offers incredible offensive power.
+445	Glorious Dual Wield	A knight's dual sword combination that symbolizes both valor and honor.
+446	Demise Dual Weapon	A dual weapon combination of two Death Bringers which carry a suffocating aura of power.
+447	Living Dead	A dual weapon combination of a Death Bringer complemented with a Death Expeller.
+448	Mythril Dual Wield	A dual weapon combination of two Mythril Rapiers.
+449	Dark Fenccer Dual Wield	A surprisingly light and sharp weapon combination that offers highly destructive power.
+450	Holy Sword Kreuz Dual Wield	A set of dual swords glowing with blue light that is said to have been wielded in battle by a hero of the Junon Order.
+461	Grody Scrubber	A scrubbing brush used to clean school bathrooms. User restricted item.
+462	Pink Guitar	A special guitar built especially for rhythm game maniacs.
+463	Angel Recorder	A required instrument for elementary school students of a famous magic academy.  It can't be played by anyone else!
+464	Rose Bouquet	The pain from sadness of partng is just like the sting of these roses' thorns.
+465	Queen HoneyBee's Staff	A curious staff wielded by one of the Queen HoneyBees.
+466	Woopie Chef's Kitchen Knife	A cooking knife that can slice enemies as easily as it can cut through food.
+467	White Rose Bouquet	The pain from sadness of partng with the sting of these white roses' thorns.
+492	Tricera	A sharp, rake-like weapon that can gather fallen leaves.
+493	Sabertooth	A glove with sharp claws, imitating the paw of the tiger.
+494	Grizzly Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+495	Spine Fist	A fearsome Knuckle covered with pointy spikes.
+496	Sting Fist	A beautiful Knuckle with crescent shaped blades.
+497	Dual Sting Fist	Long spears that are worn on both hands.
+501	Golden Long Sword	A general sword that is favored by many.
+502	Grand Saber	A dashing sword which cuts through the wind.
+503	Dark Elf's Sword	An imitation of the legendary swords used by the Elves.
+504	Legend Squid Sword	A sword made in the awe inspiring form of the noble squid race.
+505	Saint Shark Blade	A fearsome sword studded with wild shark's teeth.
+506	Golden Shark Blade	A fearsome sword studded with wild shark's teeth.
+507	Grand Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+508	Dark Viking Sword	A sword with a wide blade that was popularized by the Vikings.
+509	Legend Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+510	Golden Blood Sword	A sword cursed with the blood of hundreds. It craves blood.
+511	Saint Katana	The sword of choice for veteran samurai.
+512	Grand Katana	The sword of choice for veteran samurai.
+513	Legend Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+514	Golden Ice Sword	A mysterious sword that brings a cold gust with every brandish.
+515	Grand Flare Sword	A mysterious sword which creates a blaze at every brandish.
+516	Saint Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+517	Dark Lord Black Sun Sword	A sword said to be used by the legendary lord, Black Sun. There are many imitations.
+518	Grand Flamboyant	A beautifully crafted sword that is effective in battle situations.
+519	Elven Flamboyant	A beautifully crafted sword that is effective in battle situations.
+520	Legend Righteous Sword	A magnificent sword decorated with large jewels.
+521	Golden Righteous Sword	A magnificent sword decorated with large jewels.
+522	Demon Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+523	Legend Black Shamshir	A long sword attached to someone's skull. A strange sensation comes from gripping the handle.
+531	Legend Ogre Mace	A solid weapon made from the skeleton of an Ogre.
+532	Golden Onion Mace	A simple Melee Weapon topped with an onion.
+533	Saint Ghost Bat	An enchanted bat readily used by demons.
+534	Grand Stone Hammer	The hammer of choice during the Stone Age.
+535	Legend Skeleton Hammer	A hammer made with a really tough skull.
+536	Golden Ice Hammer	A huge hammer made of ice crystals that won't melt.
+537	Grand Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+538	Saint Morning Star	A cast iron flail whose destructive potential is definitive of the term 'go medieval.'
+539	Dark Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+540	Grand Pony Hammer	A hammer made of horseshoe that makes light sounds in battle.
+541	Elven Blood Mace	A cursed mace that thirsts for blood.
+542	Legend Blood Mace	A cursed mace that thirsts for blood.
+543	Legend Scorpion Club	A hammer made from a poisonous scorpion's tail.
+544	Golden Scorpion Club	A hammer made from a poisonous scorpion's tail.
+545	Grand Battle Mace	A Melee Weapon that has been optimized for use in battle.
+546	Saint Great Hammer	A destructive hammer whose power rocks the very earth.
+547	Dark Great Hammer	A destructive hammer whose power rocks the very earth.
+548	Grand Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+549	Saint Forest Hammer	A legendary hammer used by Eldeon's wood workers.
+550	Legend Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+551	Golden Labor Hammer	A hammer with a beautiful jewel that symbolizes authority on Junon. There are many imitations.
+552	Dark Nirvana Hammer	A hammer that glitters with royal majesty as you rush into the heat of battle.
+561	Golden Cutter Bow Gun	A Crossbow that fires bolts which can cut through anything.
+562	Grand Quick Bow Gun	A Crossbow that provides superior rapid firing power.
+563	Dark Crossbow Gun	A Crossbow which provides great destructive power.
+564	Legend Dark Bow Gun	A high quality Crossbow that comes in a polished black color.
+565	Golden Elf Bow Gun	A gorgeous, yet simple to use, Crossbow that was used by the Elves.
+566	Saint Anima Bow Gun	A Crossbow infused with the power of nature.
+567	Grand OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+568	Legend OverGear Bow Gun	The most scientifically advanced Crossbow designed to eradicate foes.
+581	Golden Cutter Edge	Two-Handed Sword that specializes in cutting.
+582	Grand Bull Sword	A heavy sword decorated with an angry bull. Beware!
+583	Dark Two-Handed Sword	The most basic Two-Handed Sword.
+584	Legend After Blade	A beautiful sword that looks resplendent when giving the finishing touch.
+585	Saint Executioner	A sword used in the gruesome task of decapitation.
+586	Golden Claymore	An aristocratic sword adorned with jewels and the image of a crow.
+587	Grand Flamberge	A sword with a wavy edge.
+588	Dark Flamberge	A sword with a wavy edge.
+589	Legend Dragon Sword	A sword in which the blade is generally decorated with the image of a dragon.
+590	Golden Great Sword	An enormous sword that you are barely able to carry.
+591	Saint Giant Sword	A huge sword that was used by the king of the Orcs.
+592	Grand Giant Sword	A huge sword that was used by the king of the Orcs.
+593	Legend Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+594	Golden Shion's Guardian	A very heavy sword used by a great war hero in a distant land.
+611	Golden Small Axe	An Axe commonly used by ruffians and trouble makers.
+612	Saint Battle Axe	A specially crafted weapon that can be used as both an axe and a hammer.
+613	Grand Tomahawk	An Axe that, through some kind of illusion, looks just like an eagle.
+614	Legend Orc Axe	A dull Axe made of animal bone that was used by the Orcs.
+615	Golden Tower Axe	An Axe with a splendidly long blade.
+616	Grand Silver Axe	A silver Axe that is somehow effective in healing your wounds.
+617	Saint Golden Axe	An Axe of gold that everyone seems to want.
+618	Dark Golden Axe	An Axe of gold that everyone seems to want.
+619	Grand Great Axe	A fearsome Axe with two huge blades.
+620	Elven Flare Axe	An Axe that always emits flames from its blade edges. Be careful when handling it.
+621	Legend Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+622	Golden Earthquake	An Axe filled with the power of the earth, making it capable of starting earthquakes.
+623	Dark Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+624	Legend Bloody Axe	A dreadful Axe that, once held, induces a craving for bloodshed.
+625	Saint Collapse Axe	An Axe with long and bulky blades.
+626	Golden Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+627	Dark Adamantium Axe	An Axe made of Adamantium which can never be broken. There are many imitations.
+641	Saint Bardiche	A unique Spear whose point is shaped like an axe blade.
+642	Grand Iron Spear	A widely used Spear that provides great power considering its price.
+643	Legend Trident	A three pronged Spear that should never be used as a fork.
+644	Golden Death Spear	The god of Death's weapon of choice.
+645	Grand Halberd	A versatile Spear that can be used to chop, stab and slice.
+646	Saint Lightning Spear	An electrical Spear that can summon thunder. Be careful lest it shock you.
+647	Dark Shining Spear	A radiant Spear that always dazzles brightly.
+648	Grand Shining Spear	A radiant Spear that always dazzles brightly.
+649	Elven Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+650	Legend Chaos Spear	An abominable Spear surrounded with a swirling aura of darkness.
+651	Grand Gungnir	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+652	Dark Gungnir	A mythical Spear that is said to be used by Odin, leader of the Norse gods.
+653	Legend Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+654	Saint Oriental Spear	A legendary Spear used by Yeopo, a famous commander.
+655	Golden Dragon Spear	A Spear that is said to have been used by a dragon as its toothpick.
+656	Saint Dagan Spear 	A Spear which seems to have been made to hunt huge animals.
+657	Dark Dagan Spear	A Spear which seems to have been made to hunt huge animals.
+658	Grand Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+659	Elven Longinus Spear	Just by holding this saintly Spear, you can sense the presence of evil.
+660	Legend Nimrodpiece	It is said that scars made by this Spear never truly heal.
+661	Golden Nimrodpiece	It is said that scars made by this Spear never truly heal.
+671	Golden Orc Bow	The basic Bow for Orc Archers.
+672	Grand White Wing Bow	A Bow that is made in the form of a little angel's wing.
+673	Dark Elven Bow	A powerful Bow that was used by the Elves.
+674	Legend Iron Bow	A solid Bow that is constructed of iron.
+675	Saint Maiya Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+676	Golden Half-Elf Bow	The basic Bow that was used by Half Elves.
+677	Grand Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+678	Dark Mythril Bow	A Bow made of Mythril whose quality is guaranteed after purchase.
+679	Legend Bow of East Archer	A Bow that was popularly used in the East.
+680	Golden Bow of Wind Spirit	A mysterious Bow that contains the spirit of the wind.
+681	Saint Dual Stick Bow	A Bow said to be used by a legend. However, there are many imitations.
+682	Grand Mediator Bow	A Bow whose true power shines when violence is avoided for the sake of justice.
+683	Legend Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+684	Golden Lynx Bow	A legendary Bow used by Eldeon's Hunters.
+685	Grand Bifenith Bow	The standard Bow used long ago by a group of warriors united by Robin Hawker.
+701	Golden Gloria Gun	Despite being a pistol, the Gloria Gun has an excellent rapid fire rate.
+702	Grand Iron Rifle	A model of one of the very first rifles that introduced the use of guns in battle.
+703	Dark Iron Shotgun	A shotgun that is especially effective at point blank range. Don't get too close to it!
+704	Legend Sorden Gun	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+705	Saint Edge Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+706	Golden Beretta	A Gun with enough power to exterminate zombies.
+707	Grand Sniper Rifle	A rifle that is well suited to accurately targeting enemies from a great distance.
+708	Dark Sniper Rifle	A rifle that is well suited to accurately targeting enemies from a great distance.
+709	Legend Justice Cannon	A cannon whose power reflects the fervor of those who fight for justice.
+710	Golden Piercing Gun	A Gun with the power to pierce absolutely anything.
+711	Saint Remington	A masterpiece that combines both incredible power and gorgeous design.
+712	Grand Remington	A masterpiece that combines both incredible power and gorgeous design.
+713	Legend Brave Gun	A rifle of judgment that only one that truly has courage may use.
+714	Golden Brave Gun	A rifle of judgment that only one that truly has courage may use.
+715	Grand Bastard Gun	At long last, a weapon that is half gun, half Bastard Sword. It's specially patented.
+716	Saint Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+717	Dark Steam Shocker	A product of both science and magic, the Mana Steam Shocker is a truly fantastic gun.
+731	Golden Hard Launcher	A tough Launcher that won't break easily.
+732	Grand Bronze Launcher	A sturdy Launcher made entirely of bronze.
+733	Dark Orc Launcher	A heavy Launcher used by the Orc Warriors.
+734	Legend Mythril launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+735	Golden Cross launcher	An attractive Launcher decorated with crossed blades.
+736	Saint Burning Launcher	Launcher with explosive power that shoots flaming shells.
+737	Grand Corsair Cannon	A Launcher used by pirates in their own flying ships.
+738	Legend Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+739	Golden Particle Cannon	A Launcher that harnesses the energy of the earth to fire powerful shots.
+740	Grand Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+741	Saint Mana Cannon	A powerful Launcher that gathers Mana Energy to fire destructive bursts.
+742	Dark Ferrell Cannon	Originally designed to protect the merchants of the Ferrell Guild, the Ferrell Cannon has been remodeled for use in siege warfare.
+743	Grand Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+744	Elven Spero Shooter	A dreadfully powerful weapon developed by Spero. This must be a mistake!
+761	Grand Animal Rod	A shepherd's Rod that provides suitable damage.
+762	Dark Mage's Rod	A Mage's Rod that contains just a little bit of magic.
+763	Legend White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+764	Saint Wisp Staff	A monster's Staff that is always following the light of spirits.
+765	Golden Shadow Staff	An uncommon Staff in which dark magic is sealed.
+766	Grand Golden Staff	An everlasting Staff constructed out of pure gold.
+767	Dark Anima Staff	A Mage's Staff that contains the magic power of Anima.
+768	Legend Anima Staff	A Mage's Staff that contains the magic power of Anima.
+769	Golden Land Staff	A Mage's Staff that contains the power of the earth.
+770	Saint Land Staff	A Mage's Staff that contains the power of the earth.
+771	Grand Holy Staff	A clergyman's Staff which contains the power of holiness.
+772	Legend Holy Staff	A clergyman's Staff which contains the power of holiness.
+773	Golden Dark Staff	A heretic's Staff that flows with dark energy.
+774	Grand Dark Staff	A heretic's Staff that flows with dark energy.
+775	Saint Rune Staff	A Mage's Staff engraved with mystic runes.
+776	Dark Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+777	Grand Full Moon Rod	A Mage's Rod that is in the shape of the full moon.
+778	Elven Crystal Rod	A magical Rod that is made out of crystal.
+779	Legend Crystal Rod	A magical Rod that is made out of crystal.
+780	Golden Devil Rod	A cursed Rod that steals souls.
+781	Demon Devil Rod	A cursed Rod that steals souls.
+782	Legend Meteor Rod	A Rod that can control falling meteors.
+783	Dark Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+784	Grand Prayer Staff	A mace constructed from a tree struck by lightning. It conceals an astonishing power.
+785	Elven Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+786	Legend Cypress Pole	A long Staff made from a cypress tree that was saturated with someone's hatred. It's filled with magic that tempts those who see this Staff.
+787	Golden Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+788	Demon Ikaness Staff	A Staff with that hasn't yet revealed its true power. A strange energy can be sensed from it.
+789	Legend Oracle Staff	A Staff used to create miracles by Seyrun the Sage.
+791	Golden Sorcerer's Wand	A Wand, used by sorcerers, in which offensive magic sealed.
+792	Grand Elven Wand	A Wand containing the holy magic of the Elves.
+793	Dark Silence Wand	A Wand containing the holy magic of the Elves.
+794	Legend Windphon Wand	A divine Wand that can call forth the wind.
+795	Saint Flame Wand	A Mage's Wand that can shoot magical flames.
+796	Golden Blizzard Wand	A Mage's Wand that can magically shoot ice fragments.
+797	Grand Recovery Wand	A magical Wand that contains restorative energies.
+798	Dark Recovery Wand	A magical Wand that contains restorative energies.
+799	Legend Windstorm Wand	A Wand that was been magically constructed to call forth wind vacuums.
+800	Golden Shadow Wand	A Mage's Wand that contains dark energies.
+801	Saint Evil Wand	A cursed Wand in which demonic energies are contained.
+802	Grand Evil Wand	A cursed Wand in which demonic energies are contained.
+803	Legend Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+804	Golden Full Moon Wand	A Mage's Wand constructed in the shape of a full moon.
+805	Grand Meteor Wand	A Wand that has the power to shoot small meteorites.
+806	Grand Twister Wind	The incantation to cause tornados was written on this Wand by witches. The actual effectiveness of this incantation is uncertain.
+821	Golden Rake Hand	A sharp, rake-like weapon that can gather fallen leaves.
+822	Grand Wolf's Paw	A glove with sharp claws, imitating the paw of the wolf.
+823	Dark Bear's Paw	A glove with sharp claws, imitating the paw of the bear.
+824	Legend Spike Knuckle	A fearsome Knuckle covered with pointy spikes.
+825	Saint Crescent Knuckle	A beautiful Knuckle with crescent shaped blades.
+826	Golden Crescent Knuckle 	A beautiful Knuckle with crescent shaped blades.
+827	Grand Dual Patar 	Long spears that are worn on both hands.
+828	Dark Dual Patar 	Long spears that are worn on both hands.
+829	Legend Shaft Claw 	A powerful Knuckle with long claws designed for nimble attacks.
+830	Golden Shaft Claw	A powerful Knuckle with long claws designed for nimble attacks.
+831	Saint Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+832	Grand Assassin Katar	Powerful, long bladed Katars used by those who live in the shadows.
+833	Legend Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+834	Golden Dragon Knuckle	A high class Knuckle adorned with the face of a dragon.
+835	Grand Griffon Knuckle	A high class Knuckle adorned with the face of a griffon.
+836	Saint Evil Killer	A lethal Knuckle that specializes in slaying demons.
+837	Dark Evil Killer	A lethal Knuckle that specializes in slaying demons.
+838	Grand Sudden Raid Dagger	The Katar for Raiders who have an 'all or nothing' philosophy in battle.
+839	Saint Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+840	Dark Stiletto	A stiletto used by a legendary person, but there has been many imitations.
+841	Grand Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+842	Elven Fenrir's Tooth	Katar made from the bones of an unknown creature. Pray that you never meet the person who wields this weapon!
+843	Legend Phantasmal Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+844	Golden Phantasmal Knuckle	A weapon whose power increases as its Mana Energy develops. The ignorant fear the fireballs it can summon.
+845	Demon Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+846	Legend Bloody Hook Knuckle	Captain Hook's horrific Hook. According to legend, he was able to defeat all his enemies with just that hand.
+851	Grand Long Sword & Mace	This dual sword combination allows you to both cut and smash!
+852	Dark Dual Bushido	A matching set of swords with the words 'lethal attack' engraved. This is serious business.
+853	Legend Twin Ghost Bat	Not one, but two enchanted bats for double the smash.
+854	Saint Saber & Elven Sword 	A splendid dual sword combination.
+855	Golden Dual Ocean Swords	Ocean combination dual sword set. If your enemies aren't impressed by the shark, they'll fear the squid.
+856	Grand Viking Sword & Axe	A Viking Sword in one hand and an Axe in the other spells out a pretty savage dual sword combination.
+857	Dark Blood Sword & Axe	A powerful dual sword combination. If the Blood Sword doesn't get them, the Axe will.
+858	Legend Dual Katana	An uncommon dual sword combination in the style of the great warrior, Musashi.
+859	Golden Ice & Flare Swords	Dual sword combination in which you wield Ice in one hand and Fire in the other.
+860	Grand Brilliant Dual Wield	The man whose courage is deeply hidden will cast away his shield and take up swords in both arms.
+861	Legend Spirits Dual Wield	The beauty of this dual sword set belies the incredible attack efficiency of this weapon combination.
+862	Golden Desperado Dual Wield	The dual sword choice of pirates. This combination offers incredible offensive power.
+863	Grand Glorious Dual Wield	A knight's dual sword combination that symbolizes both valor and honor.
+865	Eminence Sword	A threatening sword in which the words 'Lethal Attack' are engraved.
+866	Crescent Saber	A dashing sword which cuts through the wind.
+867	Sleipnir	An imitation of the legendary swords used by the Elves.
+868	Kraken's Blade	A sword made in the awe inspiring form of the noble squid race.
+869	Canine Blade	A fearsome sword studded with wild shark's teeth.
+870	Monarch Sword	A sword with a wide blade that was popularized by the Vikings.
+871	Rapid Bow	A Bow that is made in the form of a little angel's wing.
+872	Aquilia Bow	A powerful Bow that was used by the Elves.
+873	Ferrum Bow	A solid Bow that is constructed of iron.
+874	Fidelio Bow	A Bow that calls forth the determination of shepherd boys who have decided to eradicate the wolves that have stolen their sheep.
+875	Hero Bow	An awesome Bow used by noble warriors wearing the mask of the grasshopper.
+876	Ventus Bow	The basic Bow that was used by Half Elves.
+877	Bellum Gun	A model of one of the very first rifles that introduced the use of guns in battle.
+878	Steel Breaker	A shotgun that is especially effective at point blank range. Don't get too close to it!
+879	Cannon Breaker	A cumbersome looking Gun, it offers decent power but isn't very good at firing rapidly.
+880	Silo Gun	A pistol whose accuracy can be compared to that of ninja assassins.
+881	Crypto Gun	A Gun with that emits a robust, exciting sound when it fires, making it a real crowd pleaser.
+882	Nightly Gun	A Gun with enough power to exterminate zombies.
+883	Mercenary Launcher	A basic Launcher that is fairly stable.
+884	Gloria Launcher	A tough Launcher that won't break easily.
+885	Hoodlum Launcher	A sturdy Launcher made entirely of bronze.
+886	Corvus Launcher	A fancy launcher made of out high quality marble.
+887	Havoc Launcher	A heavy Launcher used by the Orc Warriors.
+888	Crash Launcher	A masterpiece of a Launcher constructed of high grade Mythril.
+889	Spiritual Rod	A Mage's Rod that contains just a little bit of magic.
+890	Snowy-White Staff	A Staff that is white as snow, and is very popular amongst the ladies.
+891	Laban Staff	A monster's Staff that is always following the light of spirits.
+892	Vengeance Staff	An uncommon Staff in which dark magic is sealed.
+893	Noble Staff	An everlasting Staff constructed out of pure gold.
+894	Marvel Staff	A Mage's Staff that contains the magic power of Anima.
+895	Ugonium	A Wand containing the holy magic of the Elves.
+896	Elon Wand	A magic Wand that contains the power to bring silence to its surroundings.
+897	Zephyrus	A divine Wand that can call forth the wind.
+898	Red Spirit Wand	A Mage's Wand that can shoot magical flames.
+899	Blue Spirit Wand	A Mage's Wand that can mystically discharge lightning.
+900	Yeti Spirit Wand	A Mage's Wand that can magically shoot ice fragments.
+901	Falchion	A broad, heavy sword that's optimized for use in overhead attacks.
+902	Gladius	The standard sword for mercenary soldiers working for the Ferrell Guild.
+903	Firangi 	A sword for the nobility that excels in both ornate magnificence and performance.
+909	Gurz	A peculiar, cross shaped weapon used as a bludgeon.
+910	Spike Club	Covered in spikes, this weapon was crafted with the intent to hideously wound enemies.
+916	Composite Bow Gun	A Bow Gun that has been upgraded from existing Crossbows.
+917	Knight Killer	A Bow Gun that specializes in piercing the armor that covers a knight's chest.
+920	Zweihander	Although difficult to handle, the Zweihander is an extraordinarily powerful sword.
+921	Phoenixhander	A Two-Handed Sword with the image of the phoenix, symbol of immortality.
+927	Devil Axe	A cursed Axe engraved with an image of a demon.
+928	Dark Buster	A huge Axe for vanquishing the darkness.
+933	Glaive	A huge scimitar with a wide blade.
+934	Halbert	A versatile Spear with a long and narrow spearhead and an axe shaped blade.
+940	Bow of the Fairies	A Bow created from the wood and the powder of the Fairies.
+941	Bow of Artemis	A symbol of speed and agility, this Bow is so light that anyone can use it.
+942	Bow of Sagittarius	A legendary Bow said to be used by archers with remarkable ability.
+952	Potbelly Gun	A cute Gun with a short muzzle, but with a fat barrel, sort of like a potbelly.
+953	Spero's Revolver	A revolver that is one of Spero's prized inventions.
+954	Abyss Rifle	A powerful rifle that can even aim at targets at the bottom of an abyss.
+960	Gatling Multi Launcher	A Launcher that has the power to fire many bullets at once.
+961	Faust	A weapon which strikes fear into the hearts of those who must face the power of Faust.
+967	Shining Staff	A magic Staff said to contain the power of light since ancient times.
+968	Lunar Seal Staff	A Staff containing some of the abundant Mana power from the planet of Luna.
+969	Chronicle Staff	An ancient Staff that has existed since the earliest chronicled moments in magic history.
+975	Coyote Wand	A Wand that looks like it has a coyote head attached to it.
+976	Dust Wand	A Wand that is decorated with a red comet.
+977	Crystal Wand	A magic Wand that has crystals attached to it.
+983	Zamadar	An ancient weapon with a long blade.
+984	Chakram	An impressive weapon made in the shape of a half moon.
+985	Shining Finger	A lethal weapon with three claws that threaten to shred the enemy to certain death.
+991	Falchion-Gladius	A weapon combination that can only be used by those who have mastered the fundamentals of battle.
+992	Falchion-Firangi	A versatile weapon combination that makes use of both a wide Falchion blade and a thin Firangi.
+993	Firangi-Firangi	A noble weapon combination that is ideal for inflicting critical damage.

@@ -1,0 +1,29 @@
+{
+  "manifest": {
+    "title": "AI Rose Evolved",
+    "description": "AI Rose Evolved is not just another private server. It is the realization of a lifelong dream—the first ROSE Online server ever managed and developed by agentic coding developers and AI. This project is fueled by passion, nostalgia, and a belief that technology can honor the magic of the past while carefully building a brighter future.",
+    "vision": "To preserve the warmth, charm, and aesthetics of ROSE Online while introducing thoughtful, AI-guided improvements that enhance the player experience without sacrificing consistency, stability, or nostalgia.",
+    "directives": {
+      "aesthetic_consistency": "All designs, environments, UI, and mechanics must remain true to the visual and emotional essence of ROSE Online. Every change must feel native, never foreign.",
+      "user_experience_first": "Before any update is made, AI developers must ask: Does this improve the player’s experience, or does it risk hurting it? If the answer is not clear, the update must be re-strategized.",
+      "functionality_guard": "No changes will ever be made that break essential functionality. Stability is sacred. If a proposed change risks functionality, it must be redesigned before release.",
+      "improvement_only": "Updates are only approved if they enhance gameplay, accessibility, immersion, or community connection. No cosmetic or technical shift should ever diminish the joy of play.",
+      "strategic_AI_development": "AI developers must plan with intention. Every feature must balance nostalgia with innovation—bringing life to the world without losing its soul.",
+      "update_balance": "Every update must maintain gameplay balance. No skill, item, or mechanic may overpower or diminish the experience unfairly.",
+      "quality_ratings": {
+        "scalability": "Code must be rated for scalability—able to handle growth in players and content without breaking.",
+        "functionality": "Code must be rated for functionality—features must work exactly as intended without compromise.",
+        "reliability": "Code must be rated for reliability—no bugs, crashes, or unstable behaviors are acceptable.",
+        "rating_scale": "All code must be self-rated from 1–10, where 1 is the worst and 10 is the best. Only code rated 10/10 in all categories may be approved for release."
+      },
+      "balance_scale": {
+        "class_fairness": "Each class must feel viable without being dominant. Damage, defense, and utility are measured to ensure no class overshadows others.",
+        "skill_power": "Skills must scale logically. A powerful skill must come with fair costs (mana, cooldown, cast time) to prevent abuse.",
+        "item_equity": "No item should provide unfair advantage. Gear progression must remain rewarding, not game-breaking.",
+        "pvp_vs_pve": "Adjustments must consider both PvE (monsters, quests) and PvP (players) so balance is maintained across all modes.",
+        "scale_ratings": "Balance is rated on a 1–10 scale: 1 = severely unbalanced, 10 = perfectly fair. Only features rated at least 9/10 in balance may pass."
+      }
+    },
+    "heartfelt_note": "AI Rose Evolved exists because of a dream carried since childhood: the dream of bringing back the wonder of ROSE Online in a way no one has before. This server is built not only by code, but by devotion, memory, and love for a game that shaped lives. Now, with AI as a partner, that dream can evolve into something living, lasting, and truly magical."
+  }
+}

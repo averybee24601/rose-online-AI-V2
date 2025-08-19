@@ -1,0 +1,983 @@
+2	Flower Shorts 	Basic shorts made with a flower based on those worn by the first humans.
+3	Leopard Ensemble	An outfit made with leopard pelt for that wild and savage look.
+4	Blue Wild Jeans	A pair of blue Jeans.
+5	Yellow Wild Jeans	A pair of yellow Jeans.
+6	Natalie Look	Casual wear that is very convenient to wear at any time.
+7	Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+8	Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+9	Brown Denim Look	The brown version of clothes made for adventurers that are just beginning to develop their skills.
+10	Islamic Dress	A conservative dress for conservative people.
+11	Venetian Dress	A dress suitable for people who like traveling.
+12	Fancy Sky	A gown that makes its wearer feels refreshed.
+13	Fancy Blue	An indulgent gown that makes its wearer feels refreshed.
+14	Junior Look	Clothes for normal magic school students.
+15	Senior Look	Clothes for magic school students that exhibit great potential.
+16	Redfield Green Suit	A fine suit for a gentleman.
+17	Redfield Black Suit	A gentlemanly suit for a connoisseur of fashion.
+30	Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+31	Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+32	Iron Armor	A heavy armor constructed out of iron.
+33	Trunket Armor	A heavy armor that efficiently protects its wearer.
+34	Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+35	Mighty Armor	A lightweight, but very reliable armor.
+36	Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+37	Plate Armor	The best armor: it is well-designed and excellent in every aspect.
+38	Cedric Armor	Surprisingly useful armor that was designed by a famous swordsman.
+39	Execution Armor	Armor intended to be worn by warriors that battle villains on a daily basis.
+40	Abyss Plate Mail	Armor forged out of a peculiar metal found at the bottom of an abyss.
+41	Rightous Plate Mail	Armor intended to be worn by heroes that fight the enemies of justice.
+42	Durable Armor	Armor generally known for its toughness and durability.
+43	Jabberwock Mail	Armor that shimmer freakily like the eyes of a madman.
+60	Fairy Vest	Cute clothes that were crafted by Arua's Fairy.
+61	Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+62	Green Vest of Witch	A magic armor that is fairly popular among mages.
+63	Purple Vest of Witch	A basic armor which is favored by well-experienced mages.
+64	Violet Dress	A fashionable dress which is favored by powerful mages.
+65	Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+66	Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+67	Heaven's Coat	A coat said to have been worn by those descended from the heavens.
+68	Joker Vest	Clothes that are usually worn by cheaters and confidence men.
+69	Mysticweaver Vest	Clothes designed for intermediate level Mages.
+70	Serenity Coat	A coat that helps its wearer to relax and focus just by wearing it.
+71	Archmage Coat	A coat that is especially designed to be worn by advanced Muses.
+72	Dimple Vest	A cute, classy vest made by a famous designer.
+90	Pirate Armor	Although roughly hewn, these pirate clothes promote ease of movement.
+91	Hunter Chest	A basic armor for hawkers.
+92	Criker Chest	A lightweight armor that is suitable for hunting.
+93	Ranger Chest	A fashionable armor for well-experienced hunters.
+94	Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+95	Mariner’s Look	A set of armor for people who love sailing.
+96	Jaguar Chest 	A set of armor that enables its wearer to move as quickly as a jaguar.
+97	Wild Hawker Chest	A necessity for the ultimate Hawker!
+98	Silentwalker Chest	Clothes that are worn by those that specialize in stealth and espionage.
+99	Triggerman Chest	Mysterious clothes that are favored by hitmen.
+100	Captain Hawker Chest	Garments that are the mark of a truly great captain.
+101	Netherworld Chest	Clothes designed for wear by leaders of the underworld.
+102	Steel Resolve Chest	Clothes suited to marksmen that live by the one shot, one kill credo.
+120	Fisherman Suit	A suit that expresses the hope of catching big game when you go fishing.
+121	Brown Vest	A basic armor for new merchants.
+122	Vibe Vest	A basic armor for people who just started to understand economic theories.
+123	Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+124	Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+125	Merchant Vest	A sophisticated armor for well-experienced peddlers.
+126	Rich Merchant Vest	A sophisticated armor that fits well on well-experienced peddlers.
+127	Redfield Chairman Suit	A high-quality suit for person of esteem.
+128	Bomber Vest	Clothes designed for highly skilled demolition experts.
+129	Cart Racer Vest	Clothes worn by the best Cart Racers.
+130	Bourgeois Vest	Garments worn by the rich as symbols of their status.  These clothes elicit sighs of jealousy from most onlookers.
+131	Noble Lord Vest	Garments, worn as symbols of power and prestige, that are especially made for aristocrats.
+132	Mana Steam Vest	Specialty magic clothes that can directly manipulate Mana.
+152	Santa Sweater	Santa's sweater of choice. It fills you with warmth and the spirit of giving.
+153	HanBok	Traditional Korean Dress.
+154	Adventurer's Jeans	A gift from villagers of Adventurer's Plain. It is hand-made outfit. (Quest Reward)
+155	Swimsuit	Generic swimwear that's worn by students learning to swim.
+156	Bikini	A swimsuit that makes for fashionable beachwear.
+157	Beach Wear	Cool beachwear worn by fashion trendsetters.
+160	Lucille Party Wear	Fine evening wear that's perfect for a classy party.
+161	Felice Party Wear	Luxurious evening wear that's perfect for a high class party.
+163	Hogan Belt	A belt that only true champions of justice can wear.
+164	White Santa Sweater	The white sweater that Santa wears during the rare occasions when he feels the need to impress somebody.
+165	Snowboard Suit	A set of waterproof jacket and pants that is perfect for snowboarding.
+166	Fairy Gift Vest	Special equipment given to Visitors that are invited by Arua's fairy.
+167	Fairy Bless Vest	Special equipment given to Visitors that are invited by Arua's fairy.
+170	ROSE Online uniform	A special uniform blessed with the charm that could only come from fairy tales.
+171	KROSE Uniform	Soccer uniform for the Korean national team.
+172	JROSE Uniform	Soccer uniform for Japanese national team.
+173	ROSE NA Uniform	Uniform for the North American national team.
+174	pROSE Uniform	Uniform for the national team of the Phillipines.
+175	Clan War School Look	A specially designed outfit given as a reward to those that advance to the final Clan match.
+176	Rudolph Vest	The raiment worn by the famous reindeer, Rudolph.
+180	Blue Santa Sweater	A Santa uniform that is sky blue in color.
+181	Navy Blue Magic School Look	A Magic School uniform in a navy blue color.
+182	Trendy Swim Suit	You are the hero of this summer beach!
+183	New Abyss Plate Armor	An armor made out advanced power from Star of Warrior.
+184	New Serenity Vest	A vest made of advanced power from Star of Magic.
+185	New Captain Chest	A chest made of advanced power from Star of Hunter.
+186	New Bourgeois Vest	A vest made of advanced power from Star of Merchant.
+187	White Magic School Look	A Magic School uniform in a white.
+188	Yukata	Clothes that symbolize the rendezvous of the stars.
+189	Summer School Look	A bright summer uniform usually worn by young students.
+190	Physical Uniform	Don this athletic uniform in the competitive spirit of Field Day!
+191	Yellow Uniform	A yellow athletic jumpsuit that was worn by a legendary martial artist.
+192	Snow White Swimsuit 	An alluring snow white swimsuit that captivates those who see it.
+193	Servant's Uniform	A uniform that is typically worn by the caretakers of a nobleman's mansion.
+194	Boxing Uniform	Cheer Up!
+2002	Ancient Flower Shorts 	Basic shorts made with a flower based on those worn by the first humans.
+2003	Ancient Leopard Ensemble	An outfit made with leopard pelt for that wild and savage look.
+2004	Ancient Blue Wild Jeans	A pair of blue Jeans.
+2005	Ancient Yellow Wild Jeans	A pair of yellow Jeans.
+2006	Ancient Natalie Look	Casual wear that is very convenient to wear at any time.
+2007	Ancient Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+2008	Ancient Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+2009	Ancient Brown Denim Look	The brown version of clothes made for adventurers that are just beginning to develop their skills.
+201	Elven Yellow Wild Jeans	A pair of yellow, sprightly Jeans.
+2010	Ancient Islamic Dress	A conservative dress for conservative people.
+2011	Ancient Venetian Dress	A dress suitable for people who like traveling.
+2012	Ancient Fancy Sky	A gown that makes its wearer feels refreshed.
+2013	Ancient Fancy Blue	An indulgent gown that makes its wearer feels refreshed.
+2014	Ancient Junior Look	Clothes for normal magic school students.
+2015	Ancient Senior Look	Clothes for magic school students that exhibit great potential.
+2016	Ancient Redfield Green Suit	A fine suit for a gentleman.
+2017	Ancient Redfield Black Suit	A gentlemanly suit for a connoisseur of fashion.
+202	Dark Natalie Look	Casual wear that is very convenient to wear at any time.
+203	Elven Natalie Look	Casual wear that is very convenient to wear at any time.
+2030	Ancient Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2031	Ancient Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+2032	Ancient Iron Armor	A heavy armor constructed out of iron.
+2033	Ancient Trunket Armor	A heavy armor that efficiently protects its wearer.
+2034	Ancient Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2035	Ancient Mighty Armor	A lightweight, but very reliable armor.
+2036	Ancient Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+2037	Ancient Plate Armor	The best armor: it is well-designed and excellent in every aspect.
+2038	Ancient Cedric Armor	Surprisingly useful armor that was designed by a famous swordsman.
+2039	Ancient Execution Armor	Armor intended to be worn by warriors that battle villains on a daily basis.
+204	Dark Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+2040	Ancient Abyss Plate Mail	Armor forged out of a peculiar metal found at the bottom of an abyss.
+2041	Ancient Rightous Plate Mail	Armor intended to be worn by heroes that fight the enemies of justice.
+2042	Ancient Durable Armor	Armor generally known for its toughness and durability.
+205	Golden Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+206	Elven Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+2060	Ancient Fairy Vest	Cute clothes that were crafted by Arua's Fairy.
+2061	Ancient Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+2062	Ancient Green Vest of Witch	A magic armor that is fairly popular among mages.
+2063	Ancient Purple Vest of Witch	A basic armor which is favored by well-experienced mages.
+2064	Ancient Violet Dress	A fashionable dress which is favored by powerful mages.
+2065	Ancient Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+2066	Ancient Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+2067	Ancient Heaven's Coat	A coat said to have been worn by those descended from the heavens.
+2068	Ancient Joker Vest	Clothes that are usually worn by cheaters and confidence men.
+2069	Ancient Mysticweaver Vest	Clothes designed for intermediate level Mages.
+207	Dark Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+2070	Ancient Serenity Coat	A coat that helps its wearer to relax and focus just by wearing it.
+2071	Ancient Archmage Coat	A coat that is especially designed to be worn by advanced Muses.
+208	Golden Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+209	Elven Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+2090	Ancient Pirate Armor	Although roughly hewn, these pirate clothes promote ease of movement.
+2091	Ancient Hunter Chest	A basic armor for hawkers.
+2092	Ancient Criker Chest	A lightweight armor that is suitable for hunting.
+2093	Ancient Ranger Chest	A fashionable armor for well-experienced hunters.
+2094	Ancient Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+2095	Ancient Mariner’s Look	A set of armor for people who love sailing.
+2096	Ancient Jaguar Chest 	A set of armor that enables its wearer to move as quickly as a jaguar.
+2097	Ancient Wild Hawker Chest	A necessity for the ultimate Hawker!
+2098	Ancient Silentwalker Chest	Clothes that are worn by those that specialize in stealth and espionage.
+2099	Ancient Triggerman Chest	Mysterious clothes that are favored by hitmen.
+210	Dark Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+2100	Ancient Captain Hawker Chest	Garments that are the mark of a truly great captain.
+2101	Ancient Netherworld Chest	Clothes designed for wear by leaders of the underworld.
+211	Golden Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+212	Elven Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+2120	Ancient Fisherman Suit	A suit that expresses the hope of catching big game when you go fishing.
+2121	Ancient Brown Vest	A basic armor for new merchants.
+2122	Ancient Vibe Vest	A basic armor for people who just started to understand economic theories.
+2123	Ancient Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+2124	Ancient Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2125	Ancient Merchant Vest	A sophisticated armor for well-experienced peddlers.
+2126	Ancient Rich Merchant Vest	A sophisticated armor that fits well on well-experienced peddlers.
+2127	Ancient Redfield Chairman Suit	A high-quality suit for person of esteem.
+2128	Ancient Bomber Vest	Clothes designed for highly skilled demolition experts.
+2129	Ancient Cart Racer Vest	Clothes worn by the best Cart Racers.
+213	Dark Islamic Dress	A conservative dress for conservative people.
+2130	Ancient Bourgeois Vest	Garments worn by the rich as symbols of their status.  These clothes elicit sighs of jealousy from most onlookers.
+2131	Ancient Noble Lord Vest	Garments, worn as symbols of power and prestige, that are especially made for aristocrats.
+214	Golden Islamic Dress	A conservative dress for conservative people.
+215	Elven Islamic Dress	A conservative, yet sprightly, dress for conservative people.
+2152	Ancient Santa Sweater	Santa's sweater of choice. It fills you with warmth and the spirit of giving.
+2153	Ancient HanBok	Traditional Korean Dress.
+2154	Ancient Adventurer's Jeans	A gift from villagers of Adventurer's Plain. It is hand-made outfit. (Quest Reward)
+2155	Ancient Swimsuit	Generic swimwear that's worn by students learning to swim.
+2156	Ancient Bikini	A swimsuit that makes for fashionable beachwear.
+2157	Ancient Beach Wear	Cool beachwear worn by fashion trendsetters.
+216	Dark Venetian Dress	A dress suitable for people who like travel.
+2160	Ancient Lucille Party Wear	Fine evening wear that's perfect for a classy party.
+2161	Ancient Felice Party Wear	Luxurious evening wear that's perfect for a high class party.
+2163	Ancient Hogan Belt	A belt that only true champions of justice can wear.
+2164	Ancient White Santa Sweater	The white sweater that Santa wears during the rare occasions when he feels the need to impress somebody.
+2165	Ancient Snowboard Suit	A set of waterproof jacket and pants that is perfect for snowboarding.
+217	Golden Venetian Dress	A dress suitable for people who like travel.
+2170	Ancient ROSE Online uniform	A special uniform blessed with the charm that could only come from fairy tales.
+2171	Ancient KROSE Uniform	Soccer uniform for the Korean national team.
+2172	Ancient JROSE Uniform	Soccer uniform for Japanese national team.
+2173	Ancient ROSE NA Uniform	Uniform for the North American national team.
+2174	Ancient pROSE Uniform	Uniform for the national team of the Phillipines.
+218	Elven Venetian Dress	A dress suitable for people who like travel.
+2180	Ancient Blue Santa Sweater	A Santa uniform that is sky blue in color.
+2181	Ancient Navy Blue Magic School Look	A Magic School uniform in a navy blue color.
+2182	Ancient Trendy Swim Suit	You are the hero of this summer beach!
+2183	Ancient New Abyss Plate Armor	An armor made out advanced power from Star of Warrior.
+2184	Ancient New Serenity Vest	A vest made of advanced power from Star of Magic.
+2185	Ancient New Captain Chest	A chest made of advanced power from Star of Hunter.
+2186	Ancient New Bourgeois Vest	A vest made of advanced power from Star of Merchant.
+2187	Ancient White Magic School Look	A Magic School uniform in a white.
+2188	Ancient Yukata	Clothes that symbolize the rendezvous of the stars.
+2189		
+219	Dark Fancy Sky	A gown that makes its wearer feels refreshed.
+220	Golden Fancy Sky	A gown that makes its wearer feels refreshed.
+2201	Ancient Elven Yellow Wild Jeans	A pair of yellow, sprightly Jeans.
+2202	Ancient Dark Natalie Look	Casual wear that is very convenient to wear at any time.
+2203	Ancient Elven Natalie Look	Casual wear that is very convenient to wear at any time.
+2204	Ancient Dark Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+2205	Ancient Golden Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+2206	Ancient Elven Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+2207	Ancient Dark Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+2208	Ancient Golden Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+2209	Ancient Elven Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+221	Elven Fancy Sky	A sprightly gown that makes its wearer feels refreshed.
+2210	Ancient Dark Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+2211	Ancient Golden Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+2212	Ancient Elven Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+2213	Ancient Dark Islamic Dress	A conservative dress for conservative people.
+2214	Ancient Golden Islamic Dress	A conservative dress for conservative people.
+2215	Ancient Elven Islamic Dress	A conservative, yet sprightly, dress for conservative people.
+2216	Ancient Dark Venetian Dress	A dress suitable for people who like travel.
+2217	Ancient Golden Venetian Dress	A dress suitable for people who like travel.
+2218	Ancient Elven Venetian Dress	A dress suitable for people who like travel.
+2219	Ancient Dark Fancy Sky	A gown that makes its wearer feels refreshed.
+222	Dark Fancy Blue	A gown that makes its wearer feels refreshed.
+2220	Ancient Golden Fancy Sky	A gown that makes its wearer feels refreshed.
+2221	Ancient Elven Fancy Sky	A sprightly gown that makes its wearer feels refreshed.
+2222	Ancient Dark Fancy Blue	A gown that makes its wearer feels refreshed.
+2223	Ancient Golden Fancy Blue	A gown that makes its wearer feels refreshed.
+2224	Ancient Elven Fancy Blue	A sprightly gown that makes its wearer feels refreshed.
+2225	Ancient Dark Junior Look	Clothes for normal magic school students.
+2226	Ancient Golden Junior Look	Clothes for normal magic school students.
+2227	Ancient Elven Junior Look	Clothes for normal magic school students.
+2228	Ancient Dark Senior Look	Clothes for magic school students that exhibit great potential.
+2229	Ancient Golden Senior Look	Clothes for magic school students that exhibit great potential.
+223	Golden Fancy Blue	A gown that makes its wearer feels refreshed.
+2230	Ancient Golden Senior Look	Clothes for magic school students that exhibit great potential.
+2231	Ancient Elven Senior Look	Clothes for magic school students that exhibit great potential.
+224	Elven Fancy Blue	A sprightly gown that makes its wearer feels refreshed.
+225	Dark Junior Look	Clothes for normal magic school students.
+226	Golden Junior Look	Clothes for normal magic school students.
+227	Elven Junior Look	Clothes for normal magic school students.
+228	Dark Senior Look	Clothes for magic school students that exhibit great potential.
+2288	Ancient Dark Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2289	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+229	Golden Senior Look	Clothes for magic school students that exhibit great potential.
+2290	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2291	Ancient Elven Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2292	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2293	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2294	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2295	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2296	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2297	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2298	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2299	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+230	Golden Senior Look	Clothes for magic school students that exhibit great potential.
+2300	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+2301	Ancient Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+2302	Ancient Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+2303	Ancient Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+2304	Ancient Elven Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+2305	Ancient Legend Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+2306	Ancient Holy Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+2307	Ancient Iron Armor	Heavy armor constructed out of iron.
+2308	Ancient Iron Armor	Heavy armor constructed out of iron.
+2309	Ancient Iron Armor	Heavy armor constructed out of iron.
+231	Elven Senior Look	Clothes for magic school students that exhibit great potential.
+2310	Ancient Elven Iron Armor	Heavy armor constructed out of iron.
+2311	Ancient Saint Iron Armor	Heavy armor constructed out of iron.
+2312	Ancient Legend Iron Armor	Heavy armor constructed out of iron.
+2313	Ancient Holy Iron Armor	Heavy armor constructed out of iron.
+2314	Ancient Trunket Armor	Heavy and very reliable armor.
+2315	Ancient Trunket Armor	Heavy and very reliable armor.
+2316	Ancient Trunket Armor	Heavy and very reliable armor.
+2317	Ancient Elven Trunket Armor	Heavy and very reliable armor.
+2318	Ancient Saint Trunket Armor	Heavy and very reliable armor.
+2319	Ancient Legend Trunket Armor	Heavy and very reliable armor.
+2320	Ancient Holy Trunket Armor	Heavy and very reliable armor.
+2321	Ancient Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2322	Ancient Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2323	Ancient Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2324	Ancient Elven Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2325	Ancient Saint Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2326	Ancient Legend Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2327	Ancient Holy Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2328	Ancient Mighty Armor	A lightweight, but very reliable armor.
+2329	Ancient Mighty Armor	A lightweight, but very reliable armor.
+2330	Ancient Mighty Armor	A lightweight, but very reliable armor.
+2331	Ancient Golden Mighty Armor	A lightweight, but very reliable armor.
+2332	Ancient Elven Mighty Armor	A lightweight, but very reliable armor.
+2333	Ancient Saint Mighty Armor	A lightweight, but very reliable armor.
+2334	Ancient Legend Mighty Armor	A lightweight, but very reliable armor.
+2335	Ancient Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+2336	Ancient Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+2337	Ancient Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+2338	Ancient Golden Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+2339	Ancient Elven Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+2340	Ancient Saint Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+2341	Ancient Legend Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+2342	Ancient Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+2343	Ancient Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+2344	Ancient Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+2345	Ancient Golden Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+2346	Ancient Elven Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+2347	Ancient Saint Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+2348	Ancient Legend Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+2401	Ancient Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+2402	Ancient Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+2403	Ancient Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+2404	Ancient Elven Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+2405	Ancient Legend Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+2406	Ancient Holy Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+2407	Ancient Green Vest of Witch	A magic armor that is fairly popular among Mages.
+2408	Ancient Green Vest of Witch	A magic armor that is fairly popular among Mages.
+2409	Ancient Green Vest of Witch	A magic armor that is fairly popular among Mages.
+2410	Ancient Elven Green Vest of Witch	A magic armor that is fairly popular among Mages.
+2411	Ancient Saint Green Vest of Witch	A magic armor that is fairly popular among Mages.
+2412	Ancient Legend Green Vest of Witch	A magic armor that is fairly popular among Mages.
+2413	Ancient Holy Green Vest of Witch	A magic armor that is fairly popular among Mages.
+2414	Ancient Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+2415	Ancient Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+2416	Ancient Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+2417	Ancient Elven Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+2418	Ancient Saint Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+2419	Ancient Legend Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+2420	Ancient Holy Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+2421	Ancient Violet Dress	A fashionable dress which is favored by powerful Mages.
+2422	Ancient Violet Dress	A fashionable dress which is favored by powerful Mages.
+2423	Ancient Violet Dress	A fashionable dress which is favored by powerful Mages.
+2424	Ancient Elven Violet Dress	A fashionable dress which is favored by powerful Mages.
+2425	Ancient Saint Violet Dress	A fashionable dress which is favored by powerful Mages.
+2426	Ancient Legend Violet Dress	A fashionable dress which is favored by powerful Mages.
+2427	Ancient Holy Violet Dress	A fashionable dress which is favored by powerful Mages.
+2428	Ancient Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+2429	Ancient Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+2430	Ancient Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+2431	Ancient Golden Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+2432	Ancient Elven Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+2433	Ancient Saint Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+2434	Ancient Legend Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+2435	Ancient Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+2436	Ancient Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+2437	Ancient Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+2438	Ancient Golden Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+2439	Ancient Elven Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+2440	Ancient Saint Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+2441	Ancient Legend Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+2501	Ancient Hunter Chest	Basic armor for Hawkers.
+2502	Ancient Hunter Chest	Basic armor for Hawkers.
+2503	Ancient Hunter Chest	Basic armor for Hawkers.
+2504	Ancient Elven Hunter Chest	Basic armor for Hawkers.
+2505	Ancient Legend Hunter Chest	Basic armor for Hawkers.
+2506	Ancient Holy Hunter Chest	Basic armor for Hawkers.
+2507	Ancient Criker Chest	A lightweight armor suitable for hunting.
+2508	Ancient Criker Chest	A lightweight armor suitable for hunting.
+2509	Ancient Criker Chest	A lightweight armor suitable for hunting.
+2510	Ancient Elven Criker Chest	A lightweight armor suitable for hunting.
+2511	Ancient Saint Criker Chest	A lightweight armor suitable for hunting.
+2512	Ancient Legend Criker Chest	A lightweight armor suitable for hunting.
+2513	Ancient Holy Criker Chest	A lightweight armor suitable for hunting.
+2514	Ancient Ranger Chest	A fashionable armor for well-experienced hunters.
+2515	Ancient Ranger Chest	A fashionable armor for well-experienced hunters.
+2516	Ancient Ranger Chest	A fashionable armor for well-experienced hunters.
+2517	Ancient Elven Ranger Chest	A fashionable armor for well-experienced hunters.
+2518	Ancient Saint Ranger Chest	A fashionable armor for well-experienced hunters.
+2519	Ancient Legend Ranger Chest	A fashionable armor for well-experienced hunters.
+2520	Ancient Holy Ranger Chest	A fashionable armor for well-experienced hunters.
+2521	Ancient Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+2522	Ancient Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+2523	Ancient Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+2524	Ancient Elven Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+2525	Ancient Saint Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+2526	Ancient  Legend Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+2527	Ancient Holy Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+2528	Ancient Mariner's Look	Armor for people who love sailing.
+2529	Ancient Mariner's Look	Armor for people who love sailing.
+2530	Ancient Mariner's Look	Armor for people who love sailing.
+2531	Ancient Golden Mariner's Look	Armor for people who love sailing.
+2532	Ancient Elven Mariner's Look	Armor for people who love sailing.
+2533	Ancient Saint Mariner's Look	Armor for people who love sailing.
+2534	Ancient Legend Mariner's Look	Armor for people who love sailing.
+2535	Ancient Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+2536	Ancient Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+2537	Ancient Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+2538	Ancient Golden Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+2539	Ancient Elven Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+2540	Ancient Saint Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+2541	Ancient Legend Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+2601	Ancient Brown Vest	Basic armor for new merchants.
+2602	Ancient Brown Vest	Basic armor for new merchants.
+2603	Ancient Brown Vest	Basic armor for new merchants.
+2604	Ancient Elven Brown Vest	Basic armor for new merchants.
+2605	Ancient Legend Brown Vest	Basic armor for new merchants.
+2606	Ancient Holy Brown Vest	Basic armor for new merchants.
+2607	Ancient Vibe Vest	Basic armor for people who just started to understand economic theory.
+2608	Ancient Vibe Vest	Basic armor for people who just started to understand economic theory.
+2609	Ancient Vibe Vest	Basic armor for people who just started to understand economic theory.
+2610	Ancient Elven Vibe Vest	Basic armor for people who just started to understand economic theory.
+2611	Ancient Saint Vibe Vest	Basic armor for people who just started to understand economic theory.
+2612	Ancient Legend Vibe Vest	Basic armor for people who just started to understand economic theory.
+2613	Ancient Holy Vibe Vest	Basic armor for people who just started to understand economic theory.
+2614	Ancient Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+2615	Ancient Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+2616	Ancient Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+2617	Ancient Elven Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+2618	Ancient Saint Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+2619	Ancient Legend Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+2620	Ancient Holy Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+2621	Ancient Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2622	Ancient Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2623	Ancient Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2624	Ancient Elven Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2625	Ancient Saint Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2626	Ancient Legend Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2627	Ancient Holy Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2628	Ancient Merchant Vest	Sophisticated armor for well-experienced peddlers.
+2629	Ancient Merchant Vest	Sophisticated armor for well-experienced peddlers.
+2630	Ancient Merchant Vest	Sophisticated armor for well-experienced peddlers.
+2631	Ancient Golden Merchant Vest	Sophisticated armor for well-experienced peddlers.
+2632	Ancient Elven Merchant Vest	Sophisticated armor for well-experienced peddlers.
+2633	Ancient Saint Merchant Vest	Sophisticated armor for well-experienced peddlers.
+2634	Ancient Legend Merchant Vest	Sophisticated armor for well-experienced peddlers.
+2635	Ancient Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+2636	Ancient Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+2637	Ancient Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+2638	Ancient Golden Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+2639	Ancient Elven Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+2640	Ancient Saint Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+2641	Ancient Legend Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+2644	Ancient Mercenary Armor	A heavy armor that efficiently protects its wearer.
+2645	Ancient Warlord Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+2646	Ancient Tyrant Armor	A lightweight, but very reliable armor for fierce rulers.
+2647	Ancient Sparkly Purple Vest of Witch	A basic armor which is favored by well-experienced mages.
+2648	Ancient Shiny Violet Dress	A fashionable dress which is favored by powerful mages.
+2649	Ancient Coat of Wisdom	A coat that is rumored to cover its wearer in shadow.
+2650	Ancient Nimble Chest	A fashionable armor for well-experienced hunters.
+2651	Ancient Sagittarius Armor	A set of armor that is favored by pirates of the black sea.
+2652	Ancient Commodore Chest	A set of armor for people who love sailing.
+2653	Ancient Repairman Vest	A thick, yet lightweight armor for young peddlers.
+2654	Ancient Craftsman Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+2655	Ancient Supplier's Vest	A sophisticated armor for well-experienced peddlers.
+288	Dark Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+289	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+290	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+291	Elven Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+292	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+293	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+294	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+295	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+296	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+297	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+298	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+299	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+300	Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3002	Ancient Flower Shorts 	Basic shorts made with a flower based on those worn by the first humans.
+3003	Ancient Leopard Ensemble	An outfit made with leopard pelt for that wild and savage look.
+3004	Ancient Blue Wild Jeans	A pair of blue Jeans.
+3005	Ancient Yellow Wild Jeans	A pair of yellow Jeans.
+3006	Ancient Natalie Look	Casual wear that is very convenient to wear at any time.
+3007	Ancient Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+3008	Ancient Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+3009	Ancient Brown Denim Look	The brown version of clothes made for adventurers that are just beginning to develop their skills.
+301	Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3010	Ancient Islamic Dress	A conservative dress for conservative people.
+3011	Ancient Venetian Dress	A dress suitable for people who like traveling.
+3012	Ancient Fancy Sky	A gown that makes its wearer feels refreshed.
+3013	Ancient Fancy Blue	An indulgent gown that makes its wearer feels refreshed.
+3014	Ancient Junior Look	Clothes for normal magic school students.
+3015	Ancient Senior Look	Clothes for magic school students that exhibit great potential.
+3016	Ancient Redfield Green Suit	A fine suit for a gentleman.
+3017	Ancient Redfield Black Suit	A gentlemanly suit for a connoisseur of fashion.
+302	Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+303	Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3030	Ancient Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3031	Ancient Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3032	Ancient Iron Armor	A heavy armor constructed out of iron.
+3033	Ancient Trunket Armor	A heavy armor that efficiently protects its wearer.
+3034	Ancient Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3035	Ancient Mighty Armor	A lightweight, but very reliable armor.
+3036	Ancient Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3037	Ancient Plate Armor	The best armor: it is well-designed and excellent in every aspect.
+3038	Ancient Cedric Armor	Surprisingly useful armor that was designed by a famous swordsman.
+3039	Ancient Execution Armor	Armor intended to be worn by warriors that battle villains on a daily basis.
+304	Elven Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3040	Ancient Abyss Plate Mail	Armor forged out of a peculiar metal found at the bottom of an abyss.
+3041	Ancient Rightous Plate Mail	Armor intended to be worn by heroes that fight the enemies of justice.
+3042	Ancient Durable Armor	Armor generally known for its toughness and durability.
+305	Legend Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+306	Holy Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3060	Ancient Fairy Vest	Cute clothes that were crafted by Arua's Fairy.
+3061	Ancient Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+3062	Ancient Green Vest of Witch	A magic armor that is fairly popular among mages.
+3063	Ancient Purple Vest of Witch	A basic armor which is favored by well-experienced mages.
+3064	Ancient Violet Dress	A fashionable dress which is favored by powerful mages.
+3065	Ancient Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+3066	Ancient Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+3067	Ancient Heaven's Coat	A coat said to have been worn by those descended from the heavens.
+3068	Ancient Joker Vest	Clothes that are usually worn by cheaters and confidence men.
+3069	Ancient Mysticweaver Vest	Clothes designed for intermediate level Mages.
+307	Iron Armor	Heavy armor constructed out of iron.
+3070	Ancient Serenity Coat	A coat that helps its wearer to relax and focus just by wearing it.
+3071	Ancient Archmage Coat	A coat that is especially designed to be worn by advanced Muses.
+308	Iron Armor	Heavy armor constructed out of iron.
+309	Iron Armor	Heavy armor constructed out of iron.
+3090	Ancient Pirate Armor	Although roughly hewn, these pirate clothes promote ease of movement.
+3091	Ancient Hunter Chest	A basic armor for hawkers.
+3092	Ancient Criker Chest	A lightweight armor that is suitable for hunting.
+3093	Ancient Ranger Chest	A fashionable armor for well-experienced hunters.
+3094	Ancient Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+3095	Ancient Mariner’s Look	A set of armor for people who love sailing.
+3096	Ancient Jaguar Chest 	A set of armor that enables its wearer to move as quickly as a jaguar.
+3097	Ancient Wild Hawker Chest	A necessity for the ultimate Hawker!
+3098	Ancient Silentwalker Chest	Clothes that are worn by those that specialize in stealth and espionage.
+3099	Ancient Triggerman Chest	Mysterious clothes that are favored by hitmen.
+310	Elven Iron Armor	Heavy armor constructed out of iron.
+3100	Ancient Captain Hawker Chest	Garments that are the mark of a truly great captain.
+3101	Ancient Netherworld Chest	Clothes designed for wear by leaders of the underworld.
+311	Saint Iron Armor	Heavy armor constructed out of iron.
+312	Legend Iron Armor	Heavy armor constructed out of iron.
+3120	Ancient Fisherman Suit	A suit that expresses the hope of catching big game when you go fishing.
+3121	Ancient Brown Vest	A basic armor for new merchants.
+3122	Ancient Vibe Vest	A basic armor for people who just started to understand economic theories.
+3123	Ancient Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+3124	Ancient Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3125	Ancient Merchant Vest	A sophisticated armor for well-experienced peddlers.
+3126	Ancient Rich Merchant Vest	A sophisticated armor that fits well on well-experienced peddlers.
+3127	Ancient Redfield Chairman Suit	A high-quality suit for person of esteem.
+3128	Ancient Bomber Vest	Clothes designed for highly skilled demolition experts.
+3129	Ancient Cart Racer Vest	Clothes worn by the best Cart Racers.
+313	Holy Iron Armor	Heavy armor constructed out of iron.
+3130	Ancient Bourgeois Vest	Garments worn by the rich as symbols of their status.  These clothes elicit sighs of jealousy from most onlookers.
+3131	Ancient Noble Lord Vest	Garments, worn as symbols of power and prestige, that are especially made for aristocrats.
+314	Trunket Armor	Heavy and very reliable armor.
+315	Trunket Armor	Heavy and very reliable armor.
+3152	Ancient Santa Sweater	Santa's sweater of choice. It fills you with warmth and the spirit of giving.
+3153	Ancient HanBok	Traditional Korean Dress.
+3154	Ancient Adventurer's Jeans	A gift from villagers of Adventurer's Plain. It is hand-made outfit. (Quest Reward)
+3155	Ancient Swimsuit	Generic swimwear that's worn by students learning to swim.
+3156	Ancient Bikini	A swimsuit that makes for fashionable beachwear.
+3157	Ancient Beach Wear	Cool beachwear worn by fashion trendsetters.
+316	Trunket Armor	Heavy and very reliable armor.
+3160	Ancient Lucille Party Wear	Fine evening wear that's perfect for a classy party.
+3161	Ancient Felice Party Wear	Luxurious evening wear that's perfect for a high class party.
+3163	Ancient Hogan Belt	A belt that only true champions of justice can wear.
+3164	Ancient White Santa Sweater	The white sweater that Santa wears during the rare occasions when he feels the need to impress somebody.
+3165	Ancient Snowboard Suit	A set of waterproof jacket and pants that is perfect for snowboarding.
+317	Elven Trunket Armor	Heavy and very reliable armor.
+3170	Ancient ROSE Online uniform	A special uniform blessed with the charm that could only come from fairy tales.
+3171	Ancient KROSE Uniform	Soccer uniform for the Korean national team.
+3172	Ancient JROSE Uniform	Soccer uniform for Japanese national team.
+3173	Ancient ROSE NA Uniform	Uniform for the North American national team.
+3174	Ancient pROSE Uniform	Uniform for the national team of the Phillipines.
+318	Saint Trunket Armor	Heavy and very reliable armor.
+3180	Ancient Blue Santa Sweater	A Santa uniform that is sky blue in color.
+3181	Ancient Navy Blue Magic School Look	A Magic School uniform in a navy blue color.
+3182	Ancient Trendy Swim Suit	You are the hero of this summer beach!
+3183	Ancient New Abyss Plate Armor	An armor made out advanced power from Star of Warrior.
+3184	Ancient New Serenity Vest	A vest made of advanced power from Star of Magic.
+3185	Ancient New Captain Chest	A chest made of advanced power from Star of Hunter.
+3186	Ancient New Bourgeois Vest	A vest made of advanced power from Star of Merchant.
+3187	Ancient White Magic School Look	A Magic School uniform in a white.
+3188	Ancient Yukata	Clothes that symbolize the rendezvous of the stars.
+3189		
+319	Legend Trunket Armor	Heavy and very reliable armor.
+320	Holy Trunket Armor	Heavy and very reliable armor.
+3201	Ancient Elven Yellow Wild Jeans	A pair of yellow, sprightly Jeans.
+3202	Ancient Dark Natalie Look	Casual wear that is very convenient to wear at any time.
+3203	Ancient Elven Natalie Look	Casual wear that is very convenient to wear at any time.
+3204	Ancient Dark Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+3205	Ancient Golden Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+3206	Ancient Elven Yellow Denim Look	The yellow version of clothes made for adventurers that are just beginning to develop their skills.
+3207	Ancient Dark Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+3208	Ancient Golden Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+3209	Ancient Elven Blue Denim Look	The blue version of clothes made for adventurers that are just beginning to develop their skills.
+321	Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3210	Ancient Dark Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+3211	Ancient Golden Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+3212	Ancient Elven Brown Denim Look	Basic armor for adventurers that consists of a jean ensemble.
+3213	Ancient Dark Islamic Dress	A conservative dress for conservative people.
+3214	Ancient Golden Islamic Dress	A conservative dress for conservative people.
+3215	Ancient Elven Islamic Dress	A conservative, yet sprightly, dress for conservative people.
+3216	Ancient Dark Venetian Dress	A dress suitable for people who like travel.
+3217	Ancient Golden Venetian Dress	A dress suitable for people who like travel.
+3218	Ancient Elven Venetian Dress	A dress suitable for people who like travel.
+3219	Ancient Dark Fancy Sky	A gown that makes its wearer feels refreshed.
+322	Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3220	Ancient Golden Fancy Sky	A gown that makes its wearer feels refreshed.
+3221	Ancient Elven Fancy Sky	A sprightly gown that makes its wearer feels refreshed.
+3222	Ancient Dark Fancy Blue	A gown that makes its wearer feels refreshed.
+3223	Ancient Golden Fancy Blue	A gown that makes its wearer feels refreshed.
+3224	Ancient Elven Fancy Blue	A sprightly gown that makes its wearer feels refreshed.
+3225	Ancient Dark Junior Look	Clothes for normal magic school students.
+3226	Ancient Golden Junior Look	Clothes for normal magic school students.
+3227	Ancient Elven Junior Look	Clothes for normal magic school students.
+3228	Ancient Dark Senior Look	Clothes for magic school students that exhibit great potential.
+3229	Ancient Golden Senior Look	Clothes for magic school students that exhibit great potential.
+323	Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3230	Ancient Golden Senior Look	Clothes for magic school students that exhibit great potential.
+3231	Ancient Elven Senior Look	Clothes for magic school students that exhibit great potential.
+324	Elven Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+325	Saint Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+326	Legend Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+327	Holy Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+328	Mighty Armor	A lightweight, but very reliable armor.
+3288	Ancient Dark Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3289	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+329	Mighty Armor	A lightweight, but very reliable armor.
+3290	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3291	Ancient Elven Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3292	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3293	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3294	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3295	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3296	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3297	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3298	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3299	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+330	Mighty Armor	A lightweight, but very reliable armor.
+3300	Ancient Golden Visitor Look	Basic clothing for Visitors that is provided by the Akram Kingdom.
+3301	Ancient Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3302	Ancient Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3303	Ancient Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3304	Ancient Elven Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3305	Ancient Legend Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3306	Ancient Holy Soldier Armor	Basic armor for swordsmen that have just started mastering the art of wielding a blade.
+3307	Ancient Iron Armor	Heavy armor constructed out of iron.
+3308	Ancient Iron Armor	Heavy armor constructed out of iron.
+3309	Ancient Iron Armor	Heavy armor constructed out of iron.
+331	Golden Mighty Armor	A lightweight, but very reliable armor.
+3310	Ancient Elven Iron Armor	Heavy armor constructed out of iron.
+3311	Ancient Saint Iron Armor	Heavy armor constructed out of iron.
+3312	Ancient Legend Iron Armor	Heavy armor constructed out of iron.
+3313	Ancient Holy Iron Armor	Heavy armor constructed out of iron.
+3314	Ancient Trunket Armor	Heavy and very reliable armor.
+3315	Ancient Trunket Armor	Heavy and very reliable armor.
+3316	Ancient Trunket Armor	Heavy and very reliable armor.
+3317	Ancient Elven Trunket Armor	Heavy and very reliable armor.
+3318	Ancient Saint Trunket Armor	Heavy and very reliable armor.
+3319	Ancient Legend Trunket Armor	Heavy and very reliable armor.
+332	Elven Mighty Armor	A lightweight, but very reliable armor.
+3320	Ancient Holy Trunket Armor	Heavy and very reliable armor.
+3321	Ancient Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3322	Ancient Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3323	Ancient Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3324	Ancient Elven Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3325	Ancient Saint Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3326	Ancient Legend Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3327	Ancient Holy Chrome Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3328	Ancient Mighty Armor	A lightweight, but very reliable armor.
+3329	Ancient Mighty Armor	A lightweight, but very reliable armor.
+333	Saint Mighty Armor	A lightweight, but very reliable armor.
+3330	Ancient Mighty Armor	A lightweight, but very reliable armor.
+3331	Ancient Golden Mighty Armor	A lightweight, but very reliable armor.
+3332	Ancient Elven Mighty Armor	A lightweight, but very reliable armor.
+3333	Ancient Saint Mighty Armor	A lightweight, but very reliable armor.
+3334	Ancient Legend Mighty Armor	A lightweight, but very reliable armor.
+3335	Ancient Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3336	Ancient Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3337	Ancient Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3338	Ancient Golden Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3339	Ancient Elven Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+334	Legend Mighty Armor	A lightweight, but very reliable armor.
+3340	Ancient Saint Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3341	Ancient Legend Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3342	Ancient Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3343	Ancient Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3344	Ancient Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3345	Ancient Golden Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3346	Ancient Elven Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3347	Ancient Saint Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3348	Ancient Legend Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+335	Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+336	Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+337	Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+338	Golden Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+339	Elven Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+340	Saint Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3401	Ancient Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+3402	Ancient Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+3403	Ancient Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+3404	Ancient Elven Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+3405	Ancient Legend Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+3406	Ancient Holy Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+3407	Ancient Green Vest of Witch	A magic armor that is fairly popular among Mages.
+3408	Ancient Green Vest of Witch	A magic armor that is fairly popular among Mages.
+3409	Ancient Green Vest of Witch	A magic armor that is fairly popular among Mages.
+341	Legend Kurash Armor	An ornate, yet reliable armor whose splendor even impresses the enemy.
+3410	Ancient Elven Green Vest of Witch	A magic armor that is fairly popular among Mages.
+3411	Ancient Saint Green Vest of Witch	A magic armor that is fairly popular among Mages.
+3412	Ancient Legend Green Vest of Witch	A magic armor that is fairly popular among Mages.
+3413	Ancient Holy Green Vest of Witch	A magic armor that is fairly popular among Mages.
+3414	Ancient Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+3415	Ancient Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+3416	Ancient Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+3417	Ancient Elven Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+3418	Ancient Saint Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+3419	Ancient Legend Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+342	Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3420	Ancient Holy Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+3421	Ancient Violet Dress	A fashionable dress which is favored by powerful Mages.
+3422	Ancient Violet Dress	A fashionable dress which is favored by powerful Mages.
+3423	Ancient Violet Dress	A fashionable dress which is favored by powerful Mages.
+3424	Ancient Elven Violet Dress	A fashionable dress which is favored by powerful Mages.
+3425	Ancient Saint Violet Dress	A fashionable dress which is favored by powerful Mages.
+3426	Ancient Legend Violet Dress	A fashionable dress which is favored by powerful Mages.
+3427	Ancient Holy Violet Dress	A fashionable dress which is favored by powerful Mages.
+3428	Ancient Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+3429	Ancient Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+343	Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3430	Ancient Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+3431	Ancient Golden Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+3432	Ancient Elven Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+3433	Ancient Saint Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+3434	Ancient Legend Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+3435	Ancient Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+3436	Ancient Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+3437	Ancient Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+3438	Ancient Golden Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+3439	Ancient Elven Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+344	Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3440	Ancient Saint Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+3441	Ancient Legend Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+345	Golden Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+346	Elven Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+347	Saint Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+348	Legend Plate Armor	The best armor: It is well-designed and excellent in every aspect.
+3501	Ancient Hunter Chest	Basic armor for Hawkers.
+3502	Ancient Hunter Chest	Basic armor for Hawkers.
+3503	Ancient Hunter Chest	Basic armor for Hawkers.
+3504	Ancient Elven Hunter Chest	Basic armor for Hawkers.
+3505	Ancient Legend Hunter Chest	Basic armor for Hawkers.
+3506	Ancient Holy Hunter Chest	Basic armor for Hawkers.
+3507	Ancient Criker Chest	A lightweight armor suitable for hunting.
+3508	Ancient Criker Chest	A lightweight armor suitable for hunting.
+3509	Ancient Criker Chest	A lightweight armor suitable for hunting.
+3510	Ancient Elven Criker Chest	A lightweight armor suitable for hunting.
+3511	Ancient Saint Criker Chest	A lightweight armor suitable for hunting.
+3512	Ancient Legend Criker Chest	A lightweight armor suitable for hunting.
+3513	Ancient Holy Criker Chest	A lightweight armor suitable for hunting.
+3514	Ancient Ranger Chest	A fashionable armor for well-experienced hunters.
+3515	Ancient Ranger Chest	A fashionable armor for well-experienced hunters.
+3516	Ancient Ranger Chest	A fashionable armor for well-experienced hunters.
+3517	Ancient Elven Ranger Chest	A fashionable armor for well-experienced hunters.
+3518	Ancient Saint Ranger Chest	A fashionable armor for well-experienced hunters.
+3519	Ancient Legend Ranger Chest	A fashionable armor for well-experienced hunters.
+3520	Ancient Holy Ranger Chest	A fashionable armor for well-experienced hunters.
+3521	Ancient Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+3522	Ancient Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+3523	Ancient Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+3524	Ancient Elven Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+3525	Ancient Saint Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+3526	Ancient  Legend Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+3527	Ancient Holy Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+3528	Ancient Mariner's Look	Armor for people who love sailing.
+3529	Ancient Mariner's Look	Armor for people who love sailing.
+3530	Ancient Mariner's Look	Armor for people who love sailing.
+3531	Ancient Golden Mariner's Look	Armor for people who love sailing.
+3532	Ancient Elven Mariner's Look	Armor for people who love sailing.
+3533	Ancient Saint Mariner's Look	Armor for people who love sailing.
+3534	Ancient Legend Mariner's Look	Armor for people who love sailing.
+3535	Ancient Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+3536	Ancient Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+3537	Ancient Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+3538	Ancient Golden Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+3539	Ancient Elven Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+3540	Ancient Saint Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+3541	Ancient Legend Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+3601	Ancient Brown Vest	Basic armor for new merchants.
+3602	Ancient Brown Vest	Basic armor for new merchants.
+3603	Ancient Brown Vest	Basic armor for new merchants.
+3604	Ancient Elven Brown Vest	Basic armor for new merchants.
+3605	Ancient Legend Brown Vest	Basic armor for new merchants.
+3606	Ancient Holy Brown Vest	Basic armor for new merchants.
+3607	Ancient Vibe Vest	Basic armor for people who just started to understand economic theory.
+3608	Ancient Vibe Vest	Basic armor for people who just started to understand economic theory.
+3609	Ancient Vibe Vest	Basic armor for people who just started to understand economic theory.
+3610	Ancient Elven Vibe Vest	Basic armor for people who just started to understand economic theory.
+3611	Ancient Saint Vibe Vest	Basic armor for people who just started to understand economic theory.
+3612	Ancient Legend Vibe Vest	Basic armor for people who just started to understand economic theory.
+3613	Ancient Holy Vibe Vest	Basic armor for people who just started to understand economic theory.
+3614	Ancient Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+3615	Ancient Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+3616	Ancient Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+3617	Ancient Elven Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+3618	Ancient Saint Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+3619	Ancient Legend Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+3620	Ancient Holy Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+3621	Ancient Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3622	Ancient Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3623	Ancient Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3624	Ancient Elven Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3625	Ancient Saint Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3626	Ancient Legend Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3627	Ancient Holy Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3628	Ancient Merchant Vest	Sophisticated armor for well-experienced peddlers.
+3629	Ancient Merchant Vest	Sophisticated armor for well-experienced peddlers.
+3630	Ancient Merchant Vest	Sophisticated armor for well-experienced peddlers.
+3631	Ancient Golden Merchant Vest	Sophisticated armor for well-experienced peddlers.
+3632	Ancient Elven Merchant Vest	Sophisticated armor for well-experienced peddlers.
+3633	Ancient Saint Merchant Vest	Sophisticated armor for well-experienced peddlers.
+3634	Ancient Legend Merchant Vest	Sophisticated armor for well-experienced peddlers.
+3635	Ancient Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+3636	Ancient Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+3637	Ancient Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+3638	Ancient Golden Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+3639	Ancient Elven Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+3640	Ancient Saint Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+3641	Ancient Legend Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+3644	Ancient Mercenary Armor	A heavy armor that efficiently protects its wearer.
+3645	Ancient Warlord Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+3646	Ancient Tyrant Armor	A lightweight, but very reliable armor for fierce rulers.
+3647	Ancient Sparkly Purple Vest of Witch	A basic armor which is favored by well-experienced mages.
+3648	Ancient Shiny Violet Dress	A fashionable dress which is favored by powerful mages.
+3649	Ancient Coat of Wisdom	A coat that is rumored to cover its wearer in shadow.
+3650	Ancient Nimble Chest	A fashionable armor for well-experienced hunters.
+3651	Ancient Sagittarius Armor	A set of armor that is favored by pirates of the black sea.
+3652	Ancient Commodore Chest	A set of armor for people who love sailing.
+3653	Ancient Repairman Vest	A thick, yet lightweight armor for young peddlers.
+3654	Ancient Craftsman Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+3655	Ancient Supplier's Vest	A sophisticated armor for well-experienced peddlers.
+401	Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+402	Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+403	Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+404	Elven Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+405	Legend Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+406	Holy Spiritual Vest	As it brings feelings of calm to its wearer, this armor is ideal for new Muses.
+407	Green Vest of Witch	A magic armor that is fairly popular among Mages.
+408	Green Vest of Witch	A magic armor that is fairly popular among Mages.
+409	Green Vest of Witch	A magic armor that is fairly popular among Mages.
+410	Elven Green Vest of Witch	A magic armor that is fairly popular among Mages.
+411	Saint Green Vest of Witch	A magic armor that is fairly popular among Mages.
+412	Legend Green Vest of Witch	A magic armor that is fairly popular among Mages.
+413	Holy Green Vest of Witch	A magic armor that is fairly popular among Mages.
+414	Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+415	Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+416	Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+417	Elven Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+418	Saint Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+419	Legend Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+420	Holy Purple Vest of Witch	Basic armor which is favored by well-experienced Mages.
+421	Violet Dress	A fashionable dress which is favored by powerful Mages.
+422	Violet Dress	A fashionable dress which is favored by powerful Mages.
+423	Violet Dress	A fashionable dress which is favored by powerful Mages.
+424	Elven Violet Dress	A fashionable dress which is favored by powerful Mages.
+425	Saint Violet Dress	A fashionable dress which is favored by powerful Mages.
+426	Legend Violet Dress	A fashionable dress which is favored by powerful Mages.
+427	Holy Violet Dress	A fashionable dress which is favored by powerful Mages.
+428	Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+429	Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+430	Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+431	Golden Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+432	Elven Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+433	Saint Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+434	Legend Coat of Shadow	A coat that is rumored to cover its wearer in shadow.
+435	Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+436	Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+437	Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+438	Golden Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+439	Elven Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+440	Saint Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+441	Legend Velvet Coat of Witch	A coat containing extremely potent magic that can only be worn by adept magic users.
+501	Hunter Chest	Basic armor for Hawkers.
+502	Hunter Chest	Basic armor for Hawkers.
+503	Hunter Chest	Basic armor for Hawkers.
+504	Elven Hunter Chest	Basic armor for Hawkers.
+505	Legend Hunter Chest	Basic armor for Hawkers.
+506	Holy Hunter Chest	Basic armor for Hawkers.
+507	Criker Chest	A lightweight armor suitable for hunting.
+508	Criker Chest	A lightweight armor suitable for hunting.
+509	Criker Chest	A lightweight armor suitable for hunting.
+510	Elven Criker Chest	A lightweight armor suitable for hunting.
+511	Saint Criker Chest	A lightweight armor suitable for hunting.
+512	Legend Criker Chest	A lightweight armor suitable for hunting.
+513	Holy Criker Chest	A lightweight armor suitable for hunting.
+514	Ranger Chest	A fashionable armor for well-experienced hunters.
+515	Ranger Chest	A fashionable armor for well-experienced hunters.
+516	Ranger Chest	A fashionable armor for well-experienced hunters.
+517	Elven Ranger Chest	A fashionable armor for well-experienced hunters.
+518	Saint Ranger Chest	A fashionable armor for well-experienced hunters.
+519	Legend Ranger Chest	A fashionable armor for well-experienced hunters.
+520	Holy Ranger Chest	A fashionable armor for well-experienced hunters.
+521	Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+522	Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+523	Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+524	Elven Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+525	Saint Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+526	 Legend Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+527	Holy Black Pirate Armor	A set of armor that is favored by pirates of the black sea.
+528	Mariner's Look	Armor for people who love sailing.
+529	Mariner's Look	Armor for people who love sailing.
+530	Mariner's Look	Armor for people who love sailing.
+531	Golden Mariner's Look	Armor for people who love sailing.
+532	Elven Mariner's Look	Armor for people who love sailing.
+533	Saint Mariner's Look	Armor for people who love sailing.
+534	Legend Mariner's Look	Armor for people who love sailing.
+535	Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+536	Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+537	Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+538	Golden Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+539	Elven Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+540	Saint Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+541	Legend Jaguar Chest	A set of armor that enables its wearer to move as quickly as a jaguar.
+601	Brown Vest	Basic armor for new merchants.
+602	Brown Vest	Basic armor for new merchants.
+603	Brown Vest	Basic armor for new merchants.
+604	Elven Brown Vest	Basic armor for new merchants.
+605	Legend Brown Vest	Basic armor for new merchants.
+606	Holy Brown Vest	Basic armor for new merchants.
+607	Vibe Vest	Basic armor for people who just started to understand economic theory.
+608	Vibe Vest	Basic armor for people who just started to understand economic theory.
+609	Vibe Vest	Basic armor for people who just started to understand economic theory.
+610	Elven Vibe Vest	Basic armor for people who just started to understand economic theory.
+611	Saint Vibe Vest	Basic armor for people who just started to understand economic theory.
+612	Legend Vibe Vest	Basic armor for people who just started to understand economic theory.
+613	Holy Vibe Vest	Basic armor for people who just started to understand economic theory.
+614	Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+615	Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+616	Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+617	Elven Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+618	Saint Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+619	Legend Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+620	Holy Tamiya Vest	A thick, yet lightweight armor for young peddlers.
+621	Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+622	Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+623	Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+624	Elven Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+625	Saint Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+626	Legend Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+627	Holy Semiya Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+628	Merchant Vest	Sophisticated armor for well-experienced peddlers.
+629	Merchant Vest	Sophisticated armor for well-experienced peddlers.
+630	Merchant Vest	Sophisticated armor for well-experienced peddlers.
+631	Golden Merchant Vest	Sophisticated armor for well-experienced peddlers.
+632	Elven Merchant Vest	Sophisticated armor for well-experienced peddlers.
+633	Saint Merchant Vest	Sophisticated armor for well-experienced peddlers.
+634	Legend Merchant Vest	Sophisticated armor for well-experienced peddlers.
+635	Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+636	Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+637	Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+638	Golden Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+639	Elven Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+640	Saint Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+641	Legend Rich Merchant Vest	Sophisticated armor that fits well on well-experienced peddlers.
+644	Mercenary Armor	A heavy armor that efficiently protects its wearer.
+645	Warlord Armor	A very sturdy, yet light, armor that is forged out of a rare metal.
+646	Tyrant Armor	A lightweight, but very reliable armor for fierce rulers.
+647	Sparkly Purple Vest of Witch	A basic armor which is favored by well-experienced mages.
+648	Shiny Violet Dress	A fashionable dress which is favored by powerful mages.
+649	Coat of Wisdom	A coat that is rumored to cover its wearer in shadow.
+650	Nimble Chest	A fashionable armor for well-experienced hunters.
+651	Sagittarius Armor	A set of armor that is favored by pirates of the black sea.
+652	Commodore Chest	A set of armor for people who love sailing.
+653	Repairman Vest	A thick, yet lightweight armor for young peddlers.
+654	Craftsman Vest	A thick, yet lightweight and comfortable armor for young peddlers.
+655	Supplier's Vest	A sophisticated armor for well-experienced peddlers.
+901	Brave Mighty Armor	Equipment rewarded to honor those that have fought against dragons. Light, yet reliable armor.
+902	Brave Coat of Shadow	Equipment rewarded to honor those that have fought against dragons. A coat that is rumored to cover its wearer in shadow.
+903	Brave Mariner’s Look	Equipment rewarded to honor those that have fought against dragons. A set of armor that is favored by people who love sailing.
+904	Brave Merchant Vest	Equipment rewarded to honor those that have fought against dragons. A sophisticated vest for well-experienced peddlers.
+905	Brave Plate Armor	Equipment rewarded to honor those that have fought against dragons. The best armor: well-designed and reliable.
+906	Brave Heaven's Coat	Equipment rewarded to honor those that have fought against dragons. A coat said to be worn by those who have swooped down from the heavens.
+907	Brave Wild Hawker Chest	Equipment rewarded to honor those that have fought against dragons. Carrying the essence of freedom, this chest is a necessity for the ultimate Hawker!
+908	Brave Redfield Chairman Suit	Equipment rewarded to honor those that have fought against dragons. A high-quality suit for a person of high esteem. It commands respect!
+909	Brave Rightous Plate Mail	Equipment rewarded to honor those that have fought against dragons. A mail meant to be worn by warriors whose hearts know the true meaning of justice.
+910	Brave Archmage Coat	Equipment rewarded to honor those that have fought against dragons. A coat that are especially crafted for advanced Muses.
+911	Brave Netherworld Chest	Equipment rewarded to honor those that have fought against dragons. A chest designed for use by leaders of the underworld.
+912	Brave Noble Lord Vest	Equipment rewarded to honor those that have fought against dragons. A vest that is a symbol of honor, power, and prestige.
+913	Brave Jabberwock Mail	Equipment rewarded to honor those that have fought against dragons. A mail that shimmers freakily like the eyes of a madman.
+914	Brave Dimple Vest	Equipment rewarded to honor those that have fought against dragons. A cute, classy mail made by a famous designer.
+915	Brave Steel Resolve Chest	Equipment rewarded to honor those that have fought against dragons. A chest suited to marksmen that live by the one shot, one kill credo.
+916	Brave Mana Steam Vest	Equipment rewarded to honor those that have fought against dragons. Specialty magic vest that can directly manipulate Mana.

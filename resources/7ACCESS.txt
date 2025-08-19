@@ -1,0 +1,163 @@
+1	Shining Ring	A shining ring that attracts people's attention and admiration.
+2	Heavy Ring	A heavy ring that requires a little bit of strength to wear on your finger.
+3	Faint Ring	A ring that does not clearly appear to the eyes at first.
+4	Fine Ring	A thin ring that must be handled carefully.
+5	Pierced Ring	A ring that has a hole in it, aside from the one you put your finger through.
+6	Smooth Ring	A very smooth, polished looking ring.
+7	Amulet Ring	A grotesque looking ring that is said to have some kind of effect when it is burned and its ashes are eaten…
+8	Glass Ring	A ring made out of glass that looks very fragile.
+9	Pointed Ring	A ring that is pointed at the top.
+10	Solid Ring	A stout ring that looks indestructible.
+11	Glamour Ring	A mysterious ring that is rumored to enhance its wearer's beauty.
+12	Charming Ring	A beautifully crafted ring that attracts people with but a glance.
+13	Talisman Ring	A magical ring that wards off evil.
+14	Recovery Ring	A ring that aids its wearer in restoring HP faster.
+15	Meditation Ring	A ring that aids its wearer in spiritual training.
+16	Precision Ring	A ring that increases accuracy.
+17	Alluring Ring	A ring that is rumored to work perfectly in seduction.
+18	Fascinating Ring	A magically enhanced ring that is rumored to attract people.
+19	Ring of Magic	A ring made from a magical stone that wards off evil from its wearer.
+20	Lizard Ring	A ring made out of a lizard's tail.
+21	Crackshot Ring	A ring that is rumored to be worn by William Tell, the legendary archer.
+22	Mage Ring	A ring usually worn by Mages. You'd have the complete set if you had the Mage Earring and Mage Necklace.
+23	Gorgeous Ring	A ring that is beautifully engraved and attracts people.
+24	Dazzling Ring	A ring shining with a mysterious light that attracts people.
+25	Dark Ring	A ring made out of materials stored in a dark place longer than 100 days. It's good at warding off evil.
+26	Cure Ring	A ring shining with a mysterious light that heals the wounded.
+27	Sage Ring	A ring that is rumored to be worn by sages. It's better than the Mage Ring.
+28	Deadshot Ring	A ring that is rumored to be worn by Robin Hood, the legendary archer.
+29	Sunset Ring	A ring that shines with red light just like a sunset. Those who see it feel a sense of romantic loss.
+30	Full Moon Ring	Rumored to be crafted under a full moon, this ring shines with a suspicious light.
+31	Warrior Ring	A ring specially crafted by the Arumics that improves one's combat prowess.
+81	Shining Necklace	A beautiful necklace that sparkles with light.
+82	Light Necklace	A necklace that is so light, you might forget that you're wearing it.
+83	Textual Necklace	A necklace with characters written on it. It's textually stimulating.
+84	Fine Necklace	Made from an incredibly thin thread, you've got to handle this necklace carefully lest you accidentally break it.
+85	Pierced Necklace	A necklace with a hole in it, aside from the one you put your head through.
+86	Glass Necklace	A fragile glass necklace that looks like it could break at any time. Handle with tender, loving care.
+87	Smooth Necklace	A silky smooth necklace for silky smooth people.
+88	Pointed Necklace	A necklace with a tapered point that looks unsafe.
+89	Solid Necklace	A necklace so tough, even smashing it with a stone wouldn't crack it.
+90	Amulet Necklace	A grotesque looking necklace that is said to have some kind of effect when it is burned and its ashes are eaten…
+91	Glamour Necklace	A necklace that lends an air of glamorous beauty.
+92	Charming Necklace	This necklace's pretty craftsmanship is sure to lure the attraction of others.
+93	Talisman Necklace	A necklace that offers protection from the forces of evil.
+94	Recovery Necklace	A necklace that helps speed recovery from your wounds when worn.
+95	Meditation Necklace	A necklace which raises one's will and emotional strength.
+96	Evasion Necklace	A necklace that contains a power which helps you to evade enemy attacks.
+97	Alluring Necklace	It is said that wearing this necklace makes one more alluring to the opposite sex.
+98	Fascinating Necklace	A necklace that is enchanted to capture the fascination of those who see it.
+99	Necklace of Magic	A necklace made from a magical stone that will protect you from evil.
+100	Lizard Necklace	A necklace that is, in essence, a lizard's tail.
+101	Mage Necklace	A necklace for Mages. If you had the Mage Ring and Mage Earrings, you'd have the complete set.
+102	Lucky Necklace	Necklace that many warriors are said to wear to escape enemy attack.
+103	Gorgeous Necklace	A showy necklace that commands attention.
+104	Dazzling Necklace	A necklace that dazzles with a strange light.
+105	Dark Necklace	A necklace made of materials placed in darkness for 100 days. Somehow, it offers protection from evil.
+106	Cure Necklace	A necklace that glows with the light of healing.
+107	Sage Necklace	A necklace for sages that is more effective than the Mage Necklace.
+108	Shadow Necklace	A necklace that helps you to hide in the shadows.
+109	Sunset Necklace	During the sunset, this necklace creates an illusion of two young lovers facing each other.
+110	Full Moon Necklace	A necklace that was crafted under a full moon, and shines with a suspicious light.
+151	Shining Earring	Beautiful earrings that glimmer with attractive light.
+152	Light Earring	Earrings that are so light, you forget you're wearing them.
+153	Textual Earring	Earrings with writing on them that's textually attractive.
+154	Heavy Earring	Heavy earrings that might place a strain on weaker earlobes.
+155	Pierced Earring	Earrings with holes in them.
+156	Glass Earring	Fragile looking earrings that should be carefully handled.
+157	Smooth Earring	Sleek, smooth earrings for sleek, smooth people.
+158	Pointed Earring	Earrings that are tapered to sharp points.
+159	Solid Earring	Earrings that won't break if you smash them up with rocks.
+160	Amulet Earring	Strange looking earrings that are said to have some kind of effect when burned and the ashes are eaten…
+161	Glamour Earring	Earrings that lend an aura of glamour to the wearer.
+162	Charming Earring	Charmingly crafted earrings which bring delight to those who see them.
+163	Talisman Earring	Earrings that offer protection from the forces of evil.
+164	Recovery Earring	Earrings that help speed recovery from your wounds when worn.
+165	Meditation Earring	Earrings which help raise one's will and emotional strength.
+166	Critical Earring	When worn, these earrings raise the probability of inflicting critical attacks.
+167	Alluring Earring	It is said that wearing these earrings makes one more alluring to the opposite sex.
+168	Fascinating Earring	Enchanted earrings that capture the fascination of those who see them.
+169	Earring of Magic	Earrings made from magical stone that will protect you from evil.
+170	Lizard Earring	Earrings colored with the blood of lizards.
+171	Mage Earring	Earrings usually worn by Mages. If you had the Mage Ring and Mage Necklace, you'd have the complete set.
+172	Deadly Earring	Earrings that many warriors are said to wear to escape enemy attack.
+173	Gorgeous Earring	Showy earrings that command attention.
+174	Dazzling Earring	Earrings that dazzle with a strange light.
+175	Dark Earring	Earrings made of materials placed in darkness for 100 days. Somehow, they offer protection from evil.
+176	Cure Earring	Earrings that glow with the light of healing.
+177	Sage Earring	Earrings for sages that are more effective that Mage Earrings.
+178	Assassin Earring	Earrings worn by assassins to help them quickly slay their victims.
+179	Noble Lady's Earring	Earrings that carry an air of refinement and elegance.
+180	Angel Earring	Wearing these earrings is said to raise one's heroic glamour.
+181	Holy Earring	Sacred earrings that were created using holy water.
+182	Tranquil Earring	Earrings that bring a sense of peace and tranquility to the wearer.
+183	Silence Earring	Earrings that bring silence around its wearer's surroundings.
+184	One-Shot Earring	Earrings created by a bowman who lived by the battle cry, 'one shot, one kill.'
+185	Twinkling	Earrings created to make someone fall in love with you just by looking at them.
+186	Siren's Song	Earrings in which the siren's song of temptation has been sealed.
+187	Silver Earring	Earrings constructed from silver crystal that has been purified for 1,000 days.
+188	Holy Spirit's Earring	Earrings constructed of blessed stone.
+189	Saint's Earring	Earrings made with saintly power which bring stability to a troubled soul.
+190	Death Blow	Earrings enchanted with the curse of death. It's said that the breath of the dead rests on these earrings.
+201	Ring of River	A ring that is endowed with the power of a flowing river.
+202	Ring of Gale	A ring that is imbued with the power of a gale.
+203	Ring of Stone	A ring that resonates with stones and rocks.
+204	Ring of Flame	A ring that contains the power of flame.
+205	Ring of the Sea	A ring that resonates with the waters of the sea.
+206	Ring of Typhoon	A ring that is enchanted with the power of a typhoon.
+207	Ring of Cliff	A ring that resonates with steep, rocky cliffs.
+208	Ring of Lava	A ring that possesses the power of lava.
+209	Arua Ring	A ring that has been blessed by the goddess Arua.
+211	Necklace of River	A necklace that is endowed with the power of a flowing river.
+212	Necklace of Gale	A necklace that is imbued with the power of a gale.
+213	Necklace of Stone	A necklace that resonates with stones and rocks.
+214	Necklace of Flame	A necklace that contains the power of flame.
+215	Necklace of the Sea	A necklace that resonates with the waters of the sea.
+216	Necklace of Typhoon	A necklace that is enchanted with the power of a typhoon.
+217	Necklace of Cliff	A necklace that resonates with steep, rocky cliffs.
+218	Necklace of Lava	A necklace that possesses the power of lava.
+219	Arua Necklace	A necklace that has been blessed by the goddess Arua.
+221	Earring of River	Earrings that are endowed with the power of a flowing river.
+222	Earring of Gale	Earrings that are imbued with the power of a gale.
+223	Earring of Stone	Earrings that resonate with stones and rocks.
+224	Earring of Flame	Earrings that contain the power of flame.
+225	Earring of the Sea	Earrings that resonate with the waters of the sea.
+226	Earring of Typhoon	Earrings that are enchanted with the power of a typhoon.
+227	Earring of Cliff	Earrings that resonate with steep, rocky cliffs.
+228	Earring of Lava	Earrings that possess the power of lava.
+229	Arua Earring	Earrings that have been blessed by the goddess Arua.
+251	Socket Ring	There's a socket in this ring where you can insert a Gem.
+252	Advanced Socket Ring	An advanced ring with a socket in which you can insert a Gem.
+261	Socket Necklace	There's a socket in this necklace where you can insert a Gem.
+262	Advanced Socket Necklace	An advanced necklace with a socket in which you can insert a Gem.
+271	Socket Earring	There's a socket in these earrings where you can insert a Gem.
+272	Advanced Socket Earring	An advanced earring with a socket in which you can insert a Gem.
+281	Cornell's Necklace	A gift from Cornell. (Quest Reward)
+282	Lena's Earring	A gift from Lena. (Quest Reward)
+283	Keenu's Ring	A gift from Keenu. (Quest Reward)
+284	Full Moon Necklace	A necklace that was crafted under a full moon, and shines with a suspicious light. (Quest Reward)
+285	Silence Earring	Earrings that brings silence to its wearer's surroundings. (Quest Reward)
+301	Battle Knuckle Ring	A ring of power that you can purchase with Clan Points.
+302	Battle Necklace	A necklace of power that you can purchase with Clan Points.
+303	Battle Earring	An earring of power that you can purchase with Clan Points.
+304	Portable Finder Ring	A ring of dexterity that you can purchase with Clan Points.
+305	Portable Neck Mask	A necklace of dexterity that you can purchase with Clan Points.
+306	Portable Antenna Earring	An earring of dexterity that you can purchase with Clan Points.
+307	Nature Ring	A ring of intelligence that you can purchase with Clan Points.
+308	Nature Necklace	A necklace of intelligence that you can purchase with Clan Points.
+309	Nature Earring	An earring of intelligence that you can purchase with Clan Points.
+310	Luxury Ruby Ring	A ring of concentration that you can purchase with Clan Points.
+311	Luxury Ruby Necklace	A necklace of concentration that you can purchase with Clan Points.
+312	Luxury Ruby Earring	An earring of concentration that you can purchase with Clan Points.
+313	Combat Knuckle Ring	A ring of power and concentration that you can purchase with Clan Points.
+314	Combat Necklace	A necklace of power and concentration that you can purchase with Clan Points.
+315	Combat Earring	An earring of power and concentration that you can purchase with Clan Points.
+316	Portable Detector Ring	A ring of dexterity and concentration that you can purchase with Clan Points.
+317	Portable Sensor Mask	A necklace of dexterity and concentration that you can purchase with Clan Points.
+318	Portable Radar Earring	An earring of dexterity and concentration that you can purchase with Clan Points.
+319	Nature Force Ring	A ring of intelligence and power that you can purchase with Clan Points.
+320	Nature Force Necklace	A necklace of of intelligence and power that you can purchase with Clan Points.
+321	Nature Force Earring	An earring of intelligence and power that you can purchase with Clan Points.
+322	Luxury Diamond Ring	A ring of concentration and power that you can purchase with Clan Points.
+323	Luxury Diamond Necklace	A necklace of concentration and power that you can purchase with Clan Points.
+324	Luxury Diamond Earring	An earring of concentration and power that you can purchase with Clan Points.

@@ -1,0 +1,76 @@
+1	Wooden Frame	A basic frame, the first and only one available during the days when the Cart was just invented.
+2	Wooden Carbon Frame	An upgraded Wooden Frame that has increased stability and higher quality.
+3	Colmandy Frame	A frame with improved durability with the addition of iron plates.
+4	Colmanju Frame	An upgraded Colmandy Frame that demonstrates further advances in frame durability.
+5	Sporty Frame	A frame designed by Anthony Motors which opened up the era of racing.
+6	Sporty R Frame	The red version of the popular Cart Frame designed by Anthony Motors.
+21	P.I.G. Frame	A rotund, portly frame that is blessed with pig's luck.
+31	Wooden Stock Core	The first model that appeared when the theory of Castle Gear was initially realized.
+32	Reinforced Stock Core	Upgraded model from the Wooden Stock Core.
+33	Vajalak Core	
+34	Kilenju Core	
+35	Saintner Core	
+101	First Engine	The very first engine designed for Cart use.
+102	Second Engine	An improvement of the First Engine that provides more power.
+103	Dural Engine	An engine built to emphasize structure and durability.
+104	Chase Engine	An engine that emphasizes speed output.
+105	Tricky Engine	An engine that emphasizes performance rather than speed.
+106	Jet Engine	The greatest engine of this era.
+121	P.I.G. Engine	An specially made P.I.G. Cart engine that seems to generate good fortune.
+131	Fornef Engine	One of the first generators based on the rudimentary Mana Theory.
+132	Sheft Engine	An improved version of the Fornef Engine.
+133	Luxem Engine	A recently invented generator whose design is based on the latest studies on Mana generation.
+201	Wooden Wheels	Wooden wheels that offer poor durability.
+202	Carbon Wheels	Wooden wheels reinforced with carbon.
+203	Rapid Wheels	Wheels that enable faster driving with rubber tires which provide better traction.
+221	P.I.G. Wheels	Incredibly constructed P.I.G. Wheels endowed with the speed of the pig.
+231	Stand Leg	An older type of Castle Gear leg that is barely capable of walking.
+232	Runihol Leg	Castle Gear legs that are capable of movement, but aren't built efficiently enough for running.
+233	Prime Leg	
+301	Spare Tire B	
+302	Small Rear Carrier	
+303	Add On Chair	
+311	Battle Machine Gun	An exclusive Cart weapon that rapidly fires bullets.
+312	Battle Launcher	An exclusive Cart weapon that provides the advantage of long distance attack.
+321	P.I.G Balloon	P.I.G. Cart accessory that might bring good luck. If it doesn't, then at least it looks cute.
+331	Punch Arms	Basic Castle Gear weapon designed to punch.
+332	Drill Arms	Extremely noisy arm weapons designed to drill holes in castles or into the ground.
+333	Sword Wheel Arms	Arm weapons designed to raze castles or destroy huge trees.
+334	Cannon Arms	Arm cannons designed for long distance attacks.
+335	Spear Arms	Arm weapons that provide strong close range attacks with a spear, and defense with a shield.
+401	Spike Wheel	Wheels equipped with spikes for offensive purposes.
+402	Speed Wing	Aerodynamic Cart accessory that cuts through the wind at high speeds.
+403	Wind Booster	Basic equipment for Mana Turbo Tuning that allows for enjoyable cruising.
+404	Jet Booster	High quality booster for professional drivers who desire high speed.
+405	Sun Roof	Protective covering that blocks the glare of the sun.
+406	Coal Mine Moldie Sun Roof	A specially designed sunroof to meet the demand of Moldie fans around the world.
+407	Coal Mine Moldie Sun Roof P	A specially designed sunroof to meet the demand of Moldie fans around the world.
+421	Meister W Frame	A classic Cart body painted in a classy white color.
+422	Meister R Frame	A classic Cart body painted in a regal red color.
+423	Meister B Frame	A classic Cart body painted in an illustrious black color.
+424	Meister Y Frame	A classic Cart body painted in a flamboyant yellow color.
+425	Meister Pink Frame	A classic Cart body painted in a showy pink color.
+451	Chaser Engine	A high grade engine designed for the Meister Cart Frame.
+471	Meister Wheels	Classic, high grade wheels designed for the Meister Cart Frame.
+600	Wooden Backseat	A simple backseat made of wood that might make your backside sore if you sit in it for too long.
+601	Steel Backseat	A backseat made of steel with a downy cushion. It's actually quite comfortable.
+700	Stone Hammer	Weapon Part for Soldier Carts. A mace combined with two stone hammers.
+701	Doom Hammer	Weapon Part for Soldier Carts. No enemy can survive the impact from these two strong, iron hammers.
+702	Battle Bow	Weapon Part for Hawker Carts. A powerful crossbow for Cart based battle.
+703	Tarkion Bow	Weapon Part for Hawker Carts. A mighty bow endowed with the spirit of the Eagle.
+704	Battle Katar	Weapon Part for Hawker Carts. Its blades specialize in chopping down enemies.
+705	Battle Spear	Weapon Part for Hawker Carts. These powerful spears are capable of piercing enemies lined up in a row.
+706	Battle Mirror	Weapon Part for Muse Carts. This mirror focuses Mana power for assaults launched from Carts.
+707	Battle Crystal	Weapon Part for Muse Carts. This crystal amplifies Mana energy for assaults launched from Carts.
+708	Battle Machine Gun	Weapon Part for Dealer Carts. Boasts stronger attack power than regular guns.
+709	Battle Launcher	Weapon Part for Dealer Carts. A launcher that attacks enemies from a distance.
+800	Experimental Stone Hammer	An inefficient and experimental Cart Weapon Part (Melee Combat Weapon) that has high fuel consumption and offers little offensive power.
+801	Experimental Doom Hammer	Weapon Part for Soldier Carts. No enemy can survive the impact from these two strong, iron hammers.
+802	Experimental Battle Bow	An inefficient and experimental Cart Weapon Part (Bow Weapon) that has high fuel consumption and offers little offensive power.
+803	Experimental Tarkion Bow	Weapon Part for Hawker Carts. A mighty bow endowed with the spirit of the Eagle.
+804	Experimental Battle Katar	An inefficient and experimental Cart Weapon Part (Combat Weapon) that has high fuel consumption and offers little offensive power.
+805	Experimental Battle Spear	An inefficient and experimental Cart Weapon Part (Dual Wield Weapon) that has high fuel consumption and offers little offensive power.
+806	Experimental Battle Mirror	An inefficient and experimental Cart Weapon Part (Magic Staff Weapon) that has high fuel consumption and offers little offensive power.
+807	Experimental Battle Crystal	An inefficient and experimental Cart Weapon Part (Magic Tool Weapon) that has high fuel consumption and offers little offensive power.
+808	Experimental Battle Machine Gun	An inefficient and experimental Cart Weapon Part (Gun Weapon) that has high fuel consumption and offers little offensive power.
+809	Experimental Battle Launcher	An inefficient and experimental Cart Weapon Part ( Battle Launcher Weapon) that has high fuel consumption and offers little offensive power.

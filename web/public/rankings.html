@@ -1,0 +1,65 @@
+<!--
+  This file displays the game's leaderboards.
+  It fetches the data from the API and then populates the tables.
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Rose: Evolved — Rankings</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Rajdhani:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap">
+      <a class="brand" href="/"><span class="logo">AI</span><h1>AI Rose Evolved</h1></a>
+      <nav class="links">
+        <a href="/">Home</a>
+        <a href="/rankings" class="active">Rankings</a>
+        <a href="/status">Status</a>
+        <a href="/download">Download</a>
+        <a href="/login">Login</a>
+        <a href="/register" class="cta">Register</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="wrap">
+    <h2 style="font-family: 'Orbitron', sans-serif;">Leaderboards</h2>
+    <div class="grid">
+      <article class="card">
+        <h3>Top Level</h3>
+        <table id="levelTable" class="table"><thead><tr><th>#</th><th>Name</th><th>Level</th></tr></thead><tbody></tbody></table>
+      </article>
+      <article class="card">
+        <h3>Top Zulie</h3>
+        <table id="zulieTable" class="table"><thead><tr><th>#</th><th>Name</th><th>Zulie</th></tr></thead><tbody></tbody></table>
+      </article>
+      <article class="card">
+        <h3>Top PvP (Honor)</h3>
+        <table id="pvpTable" class="table"><thead><tr><th>#</th><th>Name</th><th>Honor</th><th>Valor</th></tr></thead><tbody></tbody></table>
+      </article>
+    </div>
+  </section>
+
+  <footer class="wrap foot">© <span id="year"></span> AI Rose: Evolved</footer>
+
+  <script>
+    document.getElementById('year').textContent=new Date().getFullYear();
+    async function loadRankings(){
+      const fill=(id,rows,map)=>{const tb=document.querySelector(`#${id} tbody`);tb.innerHTML=rows.map((r,i)=>`<tr>${map(r,i)}</tr>`).join('')};
+      const [a,b,c]=await Promise.all([fetch('/api/rankings/level'),fetch('/api/rankings/zulie'),fetch('/api/rankings/pvp')]);
+      const [lvl,zul,pvp]=await Promise.all([a.json(),b.json(),c.json()]);
+      fill('levelTable',lvl,(r,i)=>`<td>${i+1}</td><td>${r.char_name}</td><td>${r.level}</td>`);
+      fill('zulieTable',zul,(r,i)=>`<td>${i+1}</td><td>${r.char_name}</td><td>${Number(r.zuly).toLocaleString()}</td>`);
+      fill('pvpTable',pvp,(r,i)=>`<td>${i+1}</td><td>${r.char_name}</td><td>${r.honor}</td><td>${r.valor}</td>`);
+    }
+    loadRankings();
+  </script>
+</body>
+</html>
+

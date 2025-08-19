@@ -1,0 +1,351 @@
+1		
+2	Green Hat	A basic hat that is suitable for traveling.
+3	Luxurious Green Hat	A basic hat that is perfect for traveling.
+4	Bandana of Iguje	A nice bandana which is very useful on a bad hair day.
+5	Islamic Bandana	A trendy bandana which is very useful on a bad hair day.
+6	Red Beret	A red beret that generally attracts people who understand fashion.
+7	Red Leather Beret	An attractive leather hat that generally commands notice from the fashion savvy.
+8	Rodeo Hat	Wearing this attractive hat feels like riding a horse in the dusty desert.
+9	Luxurious Rodeo Hat	Wearing this attractive hat feels like riding a horse in a field of lush grass.
+10	Joker Jester	A hat that is known for making jesters look ridiculous.
+11	Luxurious Joker Jester	A hat that is known for making jesters look ridiculously funny.
+12	Venetian Hat	A hat which makes its wearer look like a rich man.
+13	Luxurious Venetian Hat 	A hat which makes its wearer look like a rich, sophisticated man.
+14	Junior Cap	A hat for normal magic school students.
+15	Senior Cap	A hat for more prestigious students attending magic school.
+16	Redfield Green Hat	A sophisticated hat for the dapper gentleman.
+17	Redfield Black Hat	A sophisticated hat for the dapper gentleman.
+30	Durable Band	A tough handband known for its reliable durability.
+31	Soldier Helm	A basic helm for Soldiers.
+32	Iron Helm	A blue helm with a giant horn on each side.
+33	Trunket Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+34	Chrome Helm	A light, yet surprisingly sturdy helm forged out of a rare metal.
+35	Mighty Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+36	Kurash Helm	A powerful, ornate helm which intimidates opponents.
+37	Plate Helm	The best helm: beautifully designed, and has great defense.
+38	Cedric Band	A very useful band designed by a famous swordsman.
+39	Execution Band	A handband worn by warriors in battle against mobs of villains.
+40	Abyss Plate Helm	A helm forged of a mysterious metal discovered at the bottom of an abyss.
+41	Rightous Plate Helm	A helm worn by heroes whose hearts understand the true meaning of justice.
+42	Jabberwock Helm	A helm that shimmers freakily like the eyes of a madman.
+60	Fairy Bonnet	A lovely bonnet crafted by Arua's Fairy.
+61	Spiritual Beret 	This hat is intended to be used by new Muses as it makes one feel calm when it is worn.
+62	Green Hat of Witch	A hat which is favored by well-experienced Mages.
+63	Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+64	Violet Beret	A fashionable beret which is favored by powerful Mages.
+65	Hat of Shadow	A hat that is rumored to cover its wearer in shadow.
+66	Velvet Hat of Witch	A hat that contains magical energy.
+67	Heaven's Bonnet	A hat which is said to be worn by those from heaven.
+68	Joker Bonnet	A hat that is typically worn by cheaters and confidence men.
+69	Mystic Weaver Bonnet	A bonnet that is designed for intermediate level Muses.
+70	Serenity Bonnet	A bonnet that helps one to relax and focus, simply by wearing it.
+71	Archmage Bonnet	A bonnet that is especially designed for advanced Muses.
+72	Dimple Bonnet	A cute, classy bonnet made by a famous designer.
+90	Pirate Hood	A kerchief worn on the head in the same fashion as a bloodthirsty pirate.
+91	Hunter Hat	A hat which helps you in harmonizing with nature.
+92	Criker Hat	A light hat which is well designed for hunters.
+93	Ranger Hat	A nice hat for veteran hunters.
+94	Black Pirate Hat	A hat which is used by many pirates in the Black Sea.
+95	Mariner's Hat	A hat for adventurers who love seafaring.
+96	Jaguar Hat 	A hat which lends you the speed of the jaguar, supposedly.
+97	Wild Hawker Hat	A necessity for the ultimate Hawker!
+98	Silentwalker Head	A hat that is worn by those that specialize in stealth and espionage.
+99	Triggerman Head	A mysterious hat that hitmen generally wear.
+100	Captain Hawker Hat	A hat which is the mark of a truly great captain.
+101	Netherworld Hat	A hat designed for leaders of the underworld.
+102	Steel Resolve Hat	A hat suited to marksmen that live by the one shot, one kill credo.
+120	Fishing Hat	A hat that is perfect to wear when you are fishing in leisure.
+121	Brown Turban 	A turban for new merchants.
+122	Vibe Turban	A turban for people who have just begun to understand economic theory.
+123	Tamiya Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+124	Semiya Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+125	Merchant Hat 	A sophisticated head covering that is favored by well-experienced peddlers.
+126	Rich Merchant Turban	A sophisticated head covering that is coveted by well-experienced peddlers.
+127	Redfield Chairman Hat	A high-quality hat for officials.
+128	Bomber Hat	A hat that is designed for experienced demolition experts.
+129	Cart Racer Goggle	A pair of goggles designed for Cart racing.
+130	Bourgeois Head	A hat that is a symbol of wealth; it elicits sighs of jealousy from passerby.
+131	Noble Lord Head	A high quality hat that is worn by members of the aristocracy as a symbol of prestige and power.
+132	Mana Steam Head	A specialty magic hat that can directly manipulate Mana.
+152	Santa Hat	Santa Hat which Santas love to wear, especially since sombreros and top hats get stuck in chimneys.
+153	Traditional Korean Hat	Re-designed Hanbok hat.
+154	Spring Flower Hat	A hat which brings the refreshing sensation of Spring.
+155	Swimming Cap	A tight fitting cap that will keep your hair dry if you go for a swim.
+156	Snorkel	Underwater breathing apparatus for snorkeling.
+157	Summer Beach Hat	A cool beach hat that keeps the sun out of your eyes.
+158	O Mark	A special cap only used by GMs for the O/X Quiz event.
+159	X Mark	A special cap only used by GMs for the O/X Quiz event.
+160	Clan War Winner's Crown	The crown for the winner of clan war
+162	GP Cap	Champion Cap for Great Pinoy PvP Winner!
+165	Pumpkin Mask	Spooky Jack-O'-Lantern mask for Halloween Day!
+168	White Santa Hat	White color Santa Hat which Santas love to wear, especially since sombreros and top hats get stuck in chimneys.
+169	Snowboard Goggles	Young snowboarder's goggles who likes simple but cool design.
+170	Fairy Gift Bonnet	Special equipment given to Visitors that are invited by Arua's fairy.
+171	Fairy Bless Bonnet	Special equipment given to Visitors that are invited by Arua's fairy.
+172	Clan War School Cap	A specially designed cap given as a reward to those that advance to the final Clan match.
+173	Rudolph Cap	The very hat worn by Ruldolph, the famous reindeer.
+176	Red Swimming Cap	If you want to ask for Party Playing, wear this cap and appeal to others
+177	Green Swimming Cap	if you want some support from others as a beginner, wear this cap and appeal to others.
+178	Yellow Swimming Cap	If you want to join a Clan, wear this cap and appeal to others.
+201	False Scalp	A cap which makes its wearer look… bald?
+221	Tulip Ribbon 	A fashionable ribbon that even looks great on men.
+222	Peacock Feather	A peacock feather which adds an air of nobility.
+241	Royal Crown	A crown usually worn by royalty. It commands obedience with its shining magnificence.
+301	Elven Islamic Bandana	A trendy bandana which is very useful on a bad hair day.
+302	Dark Red Beret	A red beret that generally attracts people who understand fashion.
+303	Elven Red Beret	A red beret that generally attracts people who understand fashion.
+304	Dark Red Leather Beret	An attractive leather hat that generally commands notice from the fashion savvy.
+305	Golden Red Leather Beret	An attractive leather hat that generally commands notice from the fashion savvy.
+306	Elven Red Leather Beret	An attractive leather hat that generally commands notice from the fashion savvy.
+307	Dark Rodeo Hat	Wearing this attractive hat feels like riding a horse in the dusty desert.
+308	Golden Rodeo Hat	Wearing this attractive hat feels like riding a horse in the dusty desert.
+309	Elven Rodeo Hat	Wearing this attractive hat feels like riding a horse in the dusty desert.
+310	Dark Luxurious Rodeo Hat	Wearing this attractive hat feels like riding a horse in a field of lush grass.
+311	Golden Luxurious Rodeo Hat	Wearing this attractive hat feels like riding a horse in a field of lush grass.
+312	Elven Luxurious Rodeo Hat	Wearing this attractive hat feels like riding a horse in a field of lush grass.
+313	Dark Joker Jester	A hat that is known for making jesters look ridiculous.
+314	Golden Joker Jester	A hat that is known for making jesters look ridiculous.
+315	Elven Joker Jester	A hat that is known for making jesters look ridiculous.
+316	Dark Luxurious Joker Jester	A hat that is known for making jesters look ridiculously funny.
+317	Golden Luxurious Joker Jester	A hat that is known for making jesters look ridiculously funny.
+318	Elven Luxurious Joker Jester	A hat that is known for making jesters look ridiculously funny.
+319	Dark Venetian Hat	A hat which makes its wearer look like a rich man.
+320	Golden Venetian Hat	A hat which makes its wearer look like a rich man.
+321	Elven Venetian Hat	A hat which makes its wearer look like a rich man.
+322	Dark Luxurious Venetian Hat 	A hat which makes its wearer look like a rich, sophisticated man.
+323	Golden Luxurious Venetian Hat 	A hat which makes its wearer look like a rich, sophisticated man.
+324	Elven Luxurious Venetian Hat 	A hat which makes its wearer look like a rich, sophisticated man.
+325	Dark Junior Cap	A hat for normal magic school students.
+326	Golden Junior Cap	A hat for normal magic school students.
+327	Elven Junior Cap	A hat for normal magic school students.
+328	Dark Senior Cap	A hat for more prestigious students attending magic school.
+329	Golden Senior Cap	A hat for more prestigious students attending magic school.
+330	Golden Senior Cap	A hat for more prestigious students attending magic school.
+331	Elven Senior Cap	A hat for more prestigious students attending magic school.
+401	Soldier Helm	A basic helm for swordsmen.
+402	Soldier Helm	A basic helm for swordsmen.
+403	Soldier Helm	A basic helm for swordsmen.
+404	Golden Soldier Helm	A basic helm for swordsmen.
+405	Saint Soldier Helm	A basic helm for swordsmen.
+406	Legend Soldier Helm	A basic helm for swordsmen.
+407	Iron Helm	A blue helm with a giant horn on each side.
+408	Iron Helm	A blue helm with a giant horn on each side.
+409	Iron Helm	A blue helm with a giant horn on each side.
+410	Elven Iron Helm	A blue helm with a giant horn on each side.
+411	Saint Iron Helm	A blue helm with a giant horn on each side.
+412	Holy Iron Helm	A blue helm with a giant horn on each side.
+413	Grand Iron Helm	A blue helm with a giant horn on each side.
+414	Trunket Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+415	Trunket Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+416	Trunket Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+417	Elven Trunket Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+418	Saint Trunket Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+419	Holy Trunket Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+420	Grand Trunket Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+421	Chrome Helm	A light, yet surprisingly sturdy helm forged out of a rare metal.
+422	Chrome Helm	A light, yet surprisingly sturdy helm forged out of a rare metal.
+423	Chrome Helm	A light, yet surprisingly sturdy helm forged out of a rare metal.
+424	Elven Chrome Helm	A light, yet surprisingly sturdy helm forged out of a rare metal.
+425	Saint Chrome Helm	A light, yet surprisingly sturdy helm forged out of a rare metal.
+426	Holy Chrome Helm	A light, yet surprisingly sturdy helm forged out of a rare metal.
+427	Grand Chrome Helm	A light, yet surprisingly sturdy helm forged out of a rare metal.
+428	Mighty Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+429	Mighty Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+430	Mighty Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+431	Elven Mighty Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+432	Saint Mighty Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+433	Holy Mighty Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+434	Grand Mighty Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+435	Kurash Helm	A powerful, ornate helm which intimidates opponents.
+436	Kurash Helm	A powerful, ornate helm which intimidates opponents.
+437	Kurash Helm	A powerful, ornate helm which intimidates opponents.
+438	Elven Kurash Helm	A powerful, ornate helm which intimidates opponents.
+439	Saint Kurash Helm	A powerful, ornate helm which intimidates opponents.
+440	Holy Kurash Helm	A powerful, ornate helm which intimidates opponents.
+441	Grand Kurash Helm	A powerful, ornate helm which intimidates opponents.
+442	Plate Helm	The best helm: beautifully designed, and has great defense.
+443	Plate Helm	The best helm: beautifully designed, and has great defense.
+444	Plate Helm	The best helm: beautifully designed, and has great defense.
+445	Golden Plate Helm	The best helm: beautifully designed, and has great defense.
+446	Elven Plate Helm	The best helm: beautifully designed, and has great defense.
+447	Saint Plate Helm	The best helm: beautifully designed, and has great defense.
+448	Legend Plate Helm	The best helm: beautifully designed, and has great defense.
+501	Spiritual Beret	This hat is intended to be used by new Muses as it makes one feel calm when it is worn.
+502	Spiritual Beret	This hat is intended to be used by new Muses as it makes one feel calm when it is worn.
+503	Spiritual Beret	This hat is intended to be used by new Muses as it makes one feel calm when it is worn.
+504	Golden Spiritual Beret	This hat is intended to be used by new Muses as it makes one feel calm when it is worn.
+505	Saint Spiritual Beret	This hat is intended to be used by new Muses as it makes one feel calm when it is worn.
+506	Legend Spiritual Beret	This hat is intended to be used by new Muses as it makes one feel calm when it is worn.
+507	Green Hat of Witch	A hat which is favored by well-experienced Mages.
+508	Green Hat of Witch	A hat which is favored by well-experienced Mages.
+509	Green Hat of Witch	A hat which is favored by well-experienced Mages.
+510	Elven Green Hat of Witch	A hat which is favored by well-experienced Mages.
+511	Saint Green Hat of Witch	A hat which is favored by well-experienced Mages.
+512	Holy Green Hat of Witch	A hat which is favored by well-experienced Mages.
+513	Grand Green Hat of Witch	A hat which is favored by well-experienced Mages.
+514	Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+515	Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+516	Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+517	Elven Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+518	Saint Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+519	Holly Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+520	Grand Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+521	Violet Beret	A fashionable beret which is favored by powerful Mages.
+522	Violet Beret	A fashionable beret which is favored by powerful Mages.
+523	Violet Beret	A fashionable beret which is favored by powerful Mages.
+524	Elven Violet Beret	A fashionable beret which is favored by powerful Mages.
+525	Saint Violet Beret	A fashionable beret which is favored by powerful Mages.
+526	Holy Violet Beret	A fashionable beret which is favored by powerful Mages.
+527	Grand Violet Beret	A fashionable beret which is favored by powerful Mages.
+528	Hat of Shadow	A hat that is rumored to cover its wearer in shadow.
+529	Hat of Shadow	A hat that is rumored to cover its wearer in shadow.
+530	Hat of Shadow	A hat that is rumored to cover its wearer in shadow.
+531	Elven Hat of Shadow	A hat that is rumored to cover its wearer in shadow.
+532	Saint Hat of Shadow	A hat that is rumored to cover its wearer in shadow.
+533	Holy Hat of Shadow	A hat that is rumored to cover its wearer in shadow.
+534	Grand Hat of Shadow	A hat that is rumored to cover its wearer in shadow.
+535	Velvet Hat of Witch	A hat that contains magical energy.
+536	Velvet Hat of Witch	A hat that contains magical energy.
+537	Velvet Hat of Witch	A hat that contains magical energy.
+538	Elven Velvet Hat of Witch	A hat that contains magical energy.
+539	Saint Velvet Hat of Witch	A hat that contains magical energy.
+540	Holy Velvet Hat of Witch	A hat that contains magical energy.
+541	Grand Velvet Hat of Witch	A hat that contains magical energy.
+601	Hunter Hat	A hat which helps you in harmonizing with nature.
+602	Hunter Hat	A hat which helps you in harmonizing with nature.
+603	Hunter Hat	A hat which helps you in harmonizing with nature.
+604	Golden Hunter Hat	A hat which helps you in harmonizing with nature.
+605	Saint Hunter Hat	A hat which helps you in harmonizing with nature.
+606	Legend Hunter Hat	A hat which helps you in harmonizing with nature.
+607	Criker Hat	A light hat which is well designed for hunters.
+608	Criker Hat	A light hat which is well designed for hunters.
+609	Criker Hat	A light hat which is well designed for hunters.
+610	Elven Criker Hat	A light hat which is well designed for hunters.
+611	Saint Criker Hat	A light hat which is well designed for hunters.
+612	Holy Criker Hat	A light hat which is well designed for hunters.
+613	Grand Criker Hat	A light hat which is well designed for hunters.
+614	Ranger Hat	A splendid hat for well-experienced hunters.
+615	Ranger Hat	A splendid hat for well-experienced hunters.
+616	Ranger Hat	A splendid hat for well-experienced hunters.
+617	Elven Ranger Hat	A splendid hat for well-experienced hunters.
+618	Saint Ranger Hat	A splendid hat for well-experienced hunters.
+619	Holy Ranger Hat	A splendid hat for well-experienced hunters.
+620	Grand Ranger Hat	A splendid hat for well-experienced hunters.
+621	 Black Pirate Hat	A hat which is used by many pirates in the Black Sea
+622	 Black Pirate Hat	A hat which is used by many pirates in the Black Sea
+623	 Black Pirate Hat	A hat which is used by many pirates in the Black Sea
+624	Elven Black Pirate Hat	A hat which is used by many pirates in the Black Sea
+625	Saint Black Pirate Hat	A hat which is used by many pirates in the Black Sea
+626	Holy Black Pirate Hat	A hat which is used by many pirates in the Black Sea
+627	Grand Black Pirate Hat	A hat which is used by many pirates in the Black Sea
+628	Mariner's Hat	A hat for adventurers who love seafaring.
+629	Mariner's Hat	A hat for adventurers who love seafaring.
+630	Mariner's Hat	A hat for adventurers who love seafaring.
+631	Elven Mariner's Hat	A hat for adventurers who love seafaring.
+632	Saint Mariner's Hat	A hat for adventurers who love seafaring.
+633	Holy Mariner's Hat	A hat for adventurers who love seafaring.
+634	Grand Mariner's Hat	A hat for adventurers who love seafaring.
+635	Jaguar Hat	A hat which lends you the speed of the jaguar, supposedly.
+636	Jaguar Hat	A hat which lends you the speed of the jaguar, supposedly.
+637	Jaguar Hat	A hat which lends you the speed of the jaguar, supposedly.
+638	Elven Jaguar Hat	A hat which lends you the speed of the jaguar, supposedly.
+639	Saint Jaguar Hat	A hat which lends you the speed of the jaguar, supposedly.
+640	Holy Jaguar Hat	A hat which lends you the speed of the jaguar, supposedly.
+641	Grand Jaguar Hat	A hat which lends you the speed of the jaguar, supposedly.
+701	Brown Turban 	A turban for new merchants.
+702	Brown Turban 	A turban for new merchants.
+703	Brown Turban 	A turban for new merchants.
+704	Golden Brown Turban 	A turban for new merchants.
+705	Saint Brown Turban 	A turban for new merchants.
+706	Legend Brown Turban 	A turban for new merchants.
+707	Vibe Turban 	A turban for people who have just begun to understand economic theory.
+708	Vibe Turban 	A turban for people who have just begun to understand economic theory.
+709	Vibe Turban 	A turban for people who have just begun to understand economic theory.
+710	Elven Vibe Turban 	A turban for people who have just begun to understand economic theory.
+711	Saint Vibe Turban 	A turban for people who have just begun to understand economic theory.
+712	Holy Vibe Turban 	A turban for people who have just begun to understand economic theory.
+713	Grand Vibe Turban 	A turban for people who have just begun to understand economic theory.
+714	Tamiya Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+715	Tamiya Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+716	Tamiya Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+717	Elven Tamiya Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+718	Saint Tamiya Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+719	Holy Tamiya Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+720	Grand Tamiya Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+721	Semiya Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+722	Semiya Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+723	Semiya Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+724	Elven Semiya Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+725	Saint Semiya Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+726	Holy Semiya Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+727	Grand Semiya Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+728	Merchant Hat 	A sophisticated head covering that is favored by well-experienced peddlers.
+729	Merchant Hat 	A sophisticated head covering that is favored by well-experienced peddlers.
+730	Merchant Hat 	A sophisticated head covering that is favored by well-experienced peddlers.
+731	Elven Merchant Hat 	A sophisticated head covering that is favored by well-experienced peddlers.
+732	Saint Merchant Hat 	A sophisticated head covering that is favored by well-experienced peddlers.
+733	Holy Merchant Hat 	A sophisticated head covering that is favored by well-experienced peddlers.
+734	Grand Merchant Hat 	A sophisticated head covering that is favored by well-experienced peddlers.
+735	Rich Merchant Turban	A sophisticated head covering that is coveted by well-experienced peddlers.
+736	Rich Merchant Turban	A sophisticated head covering that is coveted by well-experienced peddlers.
+737	Rich Merchant Turban	A sophisticated head covering that is coveted by well-experienced peddlers.
+738	Elven Rich Merchant Turban	A sophisticated head covering that is coveted by well-experienced peddlers.
+739	Saint Rich Merchant Turban	A sophisticated head covering that is coveted by well-experienced peddlers.
+740	Holy Rich Merchant Turban	A sophisticated head covering that is coveted by well-experienced peddlers.
+741	Grand Rich Merchant Turban	A sophisticated head covering that is coveted by well-experienced peddlers.
+744	Mercenary Helm	A helm that is very efficient in protecting its wearer’s head from great impact because of its heavy weight.
+745	Warlord Helm	A light, yet surprisingly sturdy helm forged out of a rare metal that's perfect for a fanatical ruler.
+746	Tyrant Helm	A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+747	Sparkly Purple Hat of Witch	A hat which is favored by very well-experienced Mages.
+748	Shiny Violet Beret	A fashionable beret which is favored by powerful Mages.
+749	Hat of Wisdom	A hat that is rumored to cover its wearer in shadow.
+750	Nimble Hat	A nice hat for veteran hunters.
+751	Sagittarius Hat	A hat which is used by many pirates in the Black Sea.
+752	Commodore Hat	A hat for adventurers who love seafaring.
+753	Repairman Goggles	A thick, yet lightweight head covering with goggles that is favored by young peddlers.
+754	Craftman Goggles	A thick, yet lightweight head covering with goggles that is coveted by intermediate peddlers.
+755	Supplier's Turban	A sophisticated head covering that is favored by well-experienced peddlers.
+801	Panda Hat	A cute and pretty Panda hat. It makes a nice present, but it's nicer to keep to yourself.
+802	Bug Hat	It looks like the head of a little bug. Once you wear it, it makes you feel thirsty somehow…
+803	Lion Hat	A symbol of valor that makes monsters fear you when you wear it.
+804	Cat Hat	It's a hat made in the form of a sweet little kitty.
+811	Junon Native Headdress	A hat worn by the ancient natives of Junon Planet.
+812	Red Chicken Hat	A hat formed in the image of a wild, red chicken.
+813	Lizard Hat	It is said that if you tame a small lizard, it will become obedient enough to rest on your head.
+814	Rabbit Hairband	A pair of rabbit ears that seems to please men and women of all ages. Needless to say, it's very popular.
+815	Devil Horn	It is said that it gives evil power to its wearer when worn.
+820	Green Lion Hat	A symbol of valor that makes monsters fear you when you wear it.
+821	Adventurer's Beret	A hand-made gift from the villagers of the Adventurer's Plains. (Quest Reward)
+823	Blue Santa Cap	A blue Santa Cap colored with the hue of the sky.
+824	Navy Blue Magic School Hat	A Navy Blue Cap worn by Magic School students.
+825	Angel Hat	A cute cap given as a present to new students accepted into Magic School.
+826	Kerokero Hat	I'm all frog!
+827	Headband	An essential for festival
+828	New Abyss Plate Helmet	A helmet made out advanced power from Star of Warrior.
+829	New Serenity Bonnet	A bonnet made of advanced power from Star of Magic.
+830	New Captain Hat	A hat made of advanced power from Star of Hunter.
+831	New Bourgeois Head	A hat made of advanced power from Star of Merchant.
+832	White Magic School Hat	A dapper White Cap worn by Magic School students.
+833	Pigtail Ribbon	A decorative wig in which some of the hair has been tied back in a pigtail with a ribbon.
+834	Student's Cap	A nostaligic cap that reminds you of your days as a student.
+835	White Lion Hat	A noble hat modeled after the proud and mighty white lion.
+836	Chef's Hat	A specially designed hat that can even make culinary novices look like experts. Perhaps it's because it makes the wearer look a little taller.
+837		
+838	Katyusha Kitty Ears	Katyusha Kitty Ears that endow its wearer with both speed and cuteness.
+839	Servant's Hat	A hat that is typically worn by the caretakers of a nobleman's mansion.
+901	Brave Mighty Helm	Equipment rewarded to honor those that have fought against dragons. A lightweight, yet stout helm which efficiently protects its wearer from great impact.
+902	Brave Hat of Shadow	Equipment rewarded to honor those that have fought against dragons. A hat that is rumored to cover its wearer in shadow.
+903	Brave Mariner's Hat	Equipment rewarded to honor those that have fought against dragons. A hat for adventurers who love seafaring.
+904	Brave Merchant Hat 	Equipment rewarded to honor those that have fought against dragons. A sophisticated head covering that is favored by well-experienced peddlers.
+905	Brave Plate Helm	Equipment rewarded to honor those that have fought against dragons. The best helm: beautifully designed, and has great defense.
+906	Brave Heaven's Bonnet	Equipment rewarded to honor those that have fought against dragons. A hat which is said to be worn by those from heaven.
+907	Brave Wild Hawker Hat	Equipment rewarded to honor those that have fought against dragons. A necessity for the ultimate Hawker!
+908	Brave Redfield Chairman Hat	Equipment rewarded to honor those that have fought against dragons. A high-quality hat for officials.
+909	Brave Rightous Plate Helm	Equipment rewarded to honor those that have fought against dragons. A helm worn by heroes whose hearts understand the true meaning of justice.
+910	Brave Archmage Bonnet	Equipment rewarded to honor those that have fought against dragons. A bonnet that is especially designed for advanced Muses.
+911	Brave Netherworld Hat	Equipment rewarded to honor those that have fought against dragons. A hat designed for leaders of the underworld.
+912	Brave Noble Lord Head	Equipment rewarded to honor those that have fought against dragons. A high quality hat that is worn by members of the aristocracy as a symbol of prestige and power.
+913	Brave Jabberwock Helm	Equipment rewarded to honor those that have fought against dragons. A helm that shimmers freakily like the eyes of a madman.
+914	Brave Dimple Bonnet	Equipment rewarded to honor those that have fought against dragons. A cute, classy bonnet made by a famous designer.
+915	Brave Steel Resolve Hat	Equipment rewarded to honor those that have fought against dragons. A hat suited to marksmen that live by the one shot, one kill credo.
+916	Brave Mana Steam Head	Equipment rewarded to honor those that have fought against dragons. A specialty magic hat that can directly manipulate Mana.

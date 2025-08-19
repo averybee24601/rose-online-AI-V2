@@ -1,0 +1,110 @@
+<!--
+  This is the main HTML file for the AI Rose Evolved website.
+  It includes the header, navigation, and main content for the site.
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Rose: Evolved — Home</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Rajdhani:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap">
+      <a class="brand" href="/">
+        <span class="logo">AI</span>
+        <h1>AI Rose Evolved</h1>
+      </a>
+      <nav class="links">
+        <a href="/" class="active">Home</a>
+        <a href="/rankings">Rankings</a>
+        <a href="/status">Status</a>
+        <a href="/download">Download</a>
+        <a href="/login">Login</a>
+        <a href="/register" class="cta">Register</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap">
+      <h2>Forged by Agents. Evolved by Intelligence.</h2>
+      <p>AI Rose: Evolved is a reimagined ROSE Online — crafted by AI coding agents with human vision. We honor nostalgia while pushing reliability, balance, and modern technology forward.</p>
+      <div class="actions">
+        <a class="btn primary" href="/register">Start Your Journey</a>
+        <a class="btn" href="/download">Get the Client</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="grid wrap features">
+    <article class="card glow">
+      <h3>Agentic Development</h3>
+      <p>Autonomous coding agents build, test, and maintain systems around the clock. They follow our Manifest so new features are stable, balanced, and truly improve the game.</p>
+    </article>
+    <article class="card glow">
+      <h3>Optimized Mechanics</h3>
+      <p>From drop rates to combat flow, mechanics are tuned with data and iteration. The goal is play that feels smooth, fair, and rewarding at every level.</p>
+    </article>
+    <article class="card glow">
+      <h3>Balanced Progression</h3>
+      <p>Economy and difficulty curve are measured, not guessed. No class or item dominates; advancement is satisfying without becoming grindy or pay‑to‑win.</p>
+    </article>
+  </section>
+
+  <section class="wrap two-col">
+    <div class="card">
+      <h3>What are AI Coding Agents?</h3>
+      <p>They are specialized AIs that write code, refactor systems, generate tests, and enforce standards automatically. Agents watch for regressions, fix issues, and keep the project aligned with the Manifest’s directives: aesthetic consistency, user experience first, and reliability above all.</p>
+    </div>
+    <div class="card">
+      <h3>Why this changes ROSE</h3>
+      <p>Continuous improvement at machine pace means quicker polish and fewer bugs. Features land faster, balance is checked constantly, and the result is a modern ROSE that still feels like home.</p>
+    </div>
+  </section>
+
+  <footer class="wrap foot">© <span id="year"></span> AI Rose: Evolved</footer>
+  <script>document.getElementById('year').textContent=new Date().getFullYear()</script>
+</body>
+</html>
+        document.getElementById('statusTarget').textContent = `${data.host}:${data.port}`;
+      } catch (e) {
+        document.getElementById('statusText').innerHTML = `<span class="bad">ERROR</span>`;
+      }
+    }
+
+    async function loadRankings() {
+      const fill = (tableId, rows, mapper) => {
+        const tbody = document.querySelector(`#${tableId} tbody`);
+        tbody.innerHTML = rows.map((r, i) => `<tr>${mapper(r, i)}</tr>`).join('');
+      };
+      try {
+        const [lvlRes, zulRes, pvpRes] = await Promise.all([
+          fetch('/api/rankings/level'),
+          fetch('/api/rankings/zulie'),
+          fetch('/api/rankings/pvp'),
+        ]);
+        const [lvl, zul, pvp] = await Promise.all([lvlRes.json(), zulRes.json(), pvpRes.json()]);
+        fill('levelTable', lvl, (r, i) => `<td>${i+1}</td><td>${r.char_name}</td><td>${r.level}</td>`);
+        fill('zulieTable', zul, (r, i) => `<td>${i+1}</td><td>${r.char_name}</td><td>${Number(r.zuly).toLocaleString()}</td>`);
+        fill('pvpTable', pvp, (r, i) => `<td>${i+1}</td><td>${r.char_name}</td><td>${r.honor}</td><td>${r.valor}</td>`);
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    function init() {
+      document.getElementById('year').textContent = new Date().getFullYear();
+      loadStatus();
+      loadRankings();
+    }
+    init();
+  </script>
+</body>
+</html>
+

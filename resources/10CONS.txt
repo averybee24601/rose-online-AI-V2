@@ -1,0 +1,703 @@
+1	Health Vial (S)	Potion that slowly restores HP.
+2	Health Vial (M)	Potion that slowly restores HP.
+3	Health Vial (L)	Potion that slowly restores HP.
+4	Health Bottle (S)	Medicine that restores HP at a slightly rapid rate.
+5	Health Bottle (M)	Medicine that restores HP at a slightly rapid rate.
+6	Health Bottle (L)	Medicine that restores HP at a slightly rapid rate.
+7	Herbal Medicine (S)	Medicine that restores HP slowly.
+8	Herbal Medicine (M)	Medicine that restores HP slowly.
+9	Herbal Medicine (L)	Medicine that restores HP slowly.
+10	Vital Water (S)	Mysterious water that rapidly restores HP.
+11	Vital Water (M)	Mysterious water that rapidly restores HP.
+12	Vital Water (L)	Mysterious water that rapidly restores HP.
+13	Vital Water (XL)	Mysterious water that rapidly restores HP.
+19	Red Pill	A strange medicine that rapidly restores HP.
+21	Mana Vial (S)	A potion that slowly restores MP.
+22	Mana Vial (M)	A potion that slowly restores MP.
+23	Mana Vial (L)	A potion that slowly restores MP.
+24	Mana Bottle (S)	A potion that restores MP at a slightly rapid rate.
+25	Mana Bottle (M)	A potion that restores MP at a slightly rapid rate.
+26	Mana Bottle (L)	A potion that restores MP at a slightly rapid rate.
+27	Silver Pilules	A single dose of small pills that rapidly restores MP.
+28	Golden Pilules	A single dose of small pills that rapidly restores MP.
+29	Spiritual Water (S)	Water from a nymph that rapidly restores MP.
+30	Spiritual Water (M)	Water from a nymph that rapidly restores MP.
+31	Spiritual Water (L)	Water from a nymph that rapidly restores MP.
+32	Spiritual Water (XL)	Water from a nymph that rapidly restores MP.
+39	Blue Pill	A strange medicine that rapidly recovers MP.
+41	Flanae Root	A root that will help you recover a little bit of HP. Can only be obtained from monsters.
+42	Tree Sap	Eating this sap will restore a little bit of your HP. Can only be obtained from monsters.
+43	Royal Jelly	Eating this Jelly will recover a little of your MP. Can only be obtained from monsters.
+44	Sweet Honey	Honey with high sugar content. Can only be obtained from bees.
+51	Mana Jam (+1)	You can gain 1 Skill Point from the power of this Mana Jam.
+52	Mana Jam (+2)	You can gain 2 Skill Points from the power of this Mana Jam.
+53	Mana Jam (+5)	You can gain 5 Skill Points from the power of this Mana Jam.
+54	Mana Jam (+10)	You can gain 10 Skill Points from the power of this Mana Jam.
+55	Mana Jam (+20)	You can gain 20 Skill Points from the power of this Mana Jam.
+56	Vital Jam (+1)	You can get 100 Stamina Points from the power of this Vital Jam.
+57	Vital Jam (+2)	You can get 200 Stamina Points from the power of this Vital Jam.
+58	Vital Jam (+5)	You can get 500 Stamina Points from the power of this Vital Jam.
+59	Vital Jam (+10)	You can get 1,000 Stamina Points from the power of this Vital Jam.
+60	Vital Jam (+20)	You can get 2,000 Stamina Points from the power of this Vital Jam.
+70	Small Gift Box	A cute little gift box which doesn't seem to contain a small, cheap gift.
+71	Surprise Gift Box	A large gift box which appears to contain a surprising gift.
+72	Impressive Gift Box	An elaborately decorated gift box that brings pride and happiness to the receiver, even before the box is opened.
+75	Full moon gift chest	The gift chest with warm heart of full moon for you.
+76	Full moon gift chest(Special)	The gift chest with warm heart of full moon for you.
+78	Package of biscuits	A full package of biscuits for love
+80	Max HP Potion	Increases your Max HP.
+81	Max MP Potion	Increases your Max MP.
+82	Purify Potion (Solo)	Purifies harmful curse magic cast on its user.
+83	Stealth Potion	Enables its user to become temporarily invisible while moving. Invisibility will be canceled when attacking enemies.
+84	Movement Potion	Increases your Movement Speed.
+85	Defense Potion	Increase your Defense Power.
+86	Attack Potion	Increases your Attack Power.
+87	Magic Resistance Potion	Increases your Magic Resistance.
+88	Accuracy Potion	Increases your Accuracy Rate.
+89	Dodge Potion	Increases your Dodge Rate
+90	Attack Speed Potion	Increases your Attack Speed.
+91	Critical Potion	Increases your Critical attack rate.
+92	Damage Enhancement Potion	Adds 20% more damage to attacks for 7 minutes.
+95	Job Skill Reset Book	You can reset your Job Skills.
+96	Unique Skill Reset Book	You can reset your Unique Skills.
+97	Mileage Skill Reset Book	You can reset your Mileage Skills.
+98	All Skill Reset Book	You can reset all of your skills.
+1000	ROSE Treasure Chest(XL)	A treasure chest that contains a blessed item.
+1001	Wooden Treasure Chest A	A common treasure chest found in the Underground Prison.
+1002	Wooden Treasure Chest B	A common treasure chest found in the Underground Prison.
+1003	Wooden Treasure Chest C	A common treasure chest found in the Underground Prison.
+1004	Wooden Treasure Chest D	A common treasure chest found in the Underground Prison.
+1005	Wooden Treasure Chest E	A common treasure chest found in the Underground Prison.
+1006	Wooden Treasure Chest F	A common treasure chest found in the Underground Prison.
+1007	Wooden Treasure Chest G	A common treasure chest found in the Underground Prison.
+1008	Wooden Treasure Chest H	A common treasure chest found in the Underground Prison.
+1009	Wooden Treasure Chest I	A common treasure chest found in the Underground Prison.
+101	Apple	A ripe apple.
+1010	Wooden Treasure Chest J	A common treasure chest found in the Underground Prison.
+1011	Wooden Treasure Chest K	A common treasure chest found in the Underground Prison.
+1012	Wooden Treasure Chest L	A common treasure chest found in the Underground Prison.
+1013	Wooden Treasure Chest M	A common treasure chest found in the Underground Prison.
+1014	Silver Treasure Chest A	A fancy silver plated treasure chest found in the Underground Prison.
+1015	Silver Treasure Chest B	A fancy silver plated treasure chest found in the Underground Prison.
+1016	Silver Treasure Chest C	A fancy silver plated treasure chest found in the Underground Prison.
+1017	Silver Treasure Chest D	A fancy silver plated treasure chest found in the Underground Prison.
+1018	Silver Treasure Chest E	A fancy silver plated treasure chest found in the Underground Prison.
+1019	Silver Treasure Chest F	A fancy silver plated treasure chest found in the Underground Prison.
+102	Banana	A monkey's banana.
+1020	Silver Treasure Chest G	A fancy silver plated treasure chest found in the Underground Prison.
+1021	Silver Treasure Chest H	A fancy silver plated treasure chest found in the Underground Prison.
+1022	Silver Treasure Chest I	A fancy silver plated treasure chest found in the Underground Prison.
+1023	Silver Treasure Chest J	A fancy silver plated treasure chest found in the Underground Prison.
+1024	Silver Treasure Chest K	A fancy silver plated treasure chest found in the Underground Prison.
+1025	Silver Treasure Chest L	A fancy silver plated treasure chest found in the Underground Prison.
+1026	Silver Treasure Chest M	A fancy silver plated treasure chest found in the Underground Prison.
+1027	Golden Treasure Chest A	A magnificent treasure chest that contains special equipment.
+1028	Golden Treasure Chest B	A magnificent treasure chest that contains special equipment.
+103	Grapes	Grapes that are often used to make wine.
+104	Kiwi	A brown fuzzy edible fruit with a green sweet pulp.
+105	Orange	It's like a mandarin orange, but its taste and size are a little different.
+106	Mango	A popular tropical fruit.
+107	Boiled Egg	A bird's egg that has been cooked in boiling water.
+108	Beef Jerky	Dried beef that's flavorless and less than appetizing.
+109	Cooked Meat	Meat that has been grilled to perfection.
+110	Peach	A tasty peach with fuzzy skin.
+111	Strawberry	A small, red fruit with that is scrumptiously bittersweet.
+112	Tomato	A fruit, or fruit-vegetable, that is the key to tasty ketchup and pasta sauces.
+113	Plum	A ripe plum. Be careful and don't swallow the seed!
+114	Sandwich	It's an excellent food to enjoy during brunch.
+115	Hamburger	One of those foods that can lead to weight problems. Control yourself!
+116	Sausage	A delicious sausage that's great for parties.
+117	Meatball	Ground meat that's been conveniently rolled into a ball.
+118	Silver Carp Shaped Bread	A piece of bread shaped like a fish, yet has absolutely nothing to do with silver carp.
+119	Banana Bread	Banana shaped bread that actually contains banana.
+120	Milk	It does a body great.
+121	Banana Milk	Banana flavored milk.
+122	Strawberry Flavored Milk	Strawberries and milk that does a body decently.
+123	Apple Juice	Fresh juice made from the crispiest of apples.
+124	Grape Juice	Fresh juice made from the plumpest of grapes.
+125	Orange Juice	Fresh juice made from the most luscious oranges.
+126	Mango Juice	Fresh juice made from the sweetest of mangos.
+127	Kiwi Juice	Fresh juice made from the most tantalizing kiwis.
+128	Banana Juice	Fresh juice made from the finest bananas.
+129	Strawberry Juice	Fresh juice made from the ripest of strawberries.
+130	Peach Juice	Fresh juice made from the most succulent peaches.
+131	Tomato Juice	Fresh juice made from the heartiest of tomatoes.
+132	Ice Cherry	Sweet cherry flavored ice from the planet of Luna.
+133	Crystal Cherry	Sweet cherry flavored ice from the planet of Luna.
+134	Ice Berry	Sour, grape flavored ice from the planet of Luna.
+135	Crystal Berry	Sour, grape flavored ice from the planet of Luna.
+136	Shabu Shabu	Tastes great when cooked in vegetable broth.
+137	PiruKiru	It's a culinary dish made with Piru and Kiru sauce.
+138	ChiChiKao	A popular health food made of fried mushrooms and leaves that is known for its funny flavor.
+141	Mysterious Fruit	A mysterious fruit from Kenji Beach that is a favorite on Junon.
+142	Rice Cake Soup	Traditional Korean soup made with rice.  It's mouth wateringly delicious and tastes best while it's still hot.
+143	Elifedora	The power source for Santa's Factory.
+144	Lunaris Bear's Liquor Bottle	A bottle of stinging hooch that the Lunaris Bear always carries.
+145	Easter Egg	A vibrantly colored egg that brings feelings of warmth to the heart of whomever holds it.
+146	Rice Cake	A rice cake with exquisite flavor
+147	Mugwort Rice Cake	A rice cake seasoned with mugwort
+148	Lucky Rice Soup	A bowl of Korean traditional rice cake soup that is a usually eaten during the New Year's holiday.
+149	Choco Biscuit	Choco biscuit with love
+150	Strawberry flavor Biscuit	A strawberry flavor biscuit with love
+151	HP Point (+50)	
+152	HP Point (+100)	
+153	HP Point (+200)	
+154	HP Point (+300)	
+155	HP Point (+500)	
+156	HP Point (+700)	
+157	HP Point (+1000)	
+158	HP Point (+1500)	
+159	HP Point (+2000)	
+160	HP Point (+3000)	
+161	MP Point (+30)	
+162	MP Point (+50)	
+163	MP Point (+100)	
+164	MP Point (+200)	
+165	MP Point (+300)	
+166	MP Point (+500)	
+167	MP Point (+700)	
+168	MP Point (+1000)	
+169	MP Point (+1500)	
+170	MP Point (+2000)	
+171	Stamina (+50)	
+172	Stamina (+75)	
+173	Stamina (+100)	
+174	Stamina (+150)	
+175	Stamina (+200)	
+176	Stamina (+300)	
+177	Stamina (+400)	
+178	Stamina (+500)	
+179	Stamina (+700)	
+180	Stamina (+1000)	
+181	Clan Point (+1)	
+182	Clan Point (+2)	
+183	Clan Point (+3)	
+184	Clan Point (+5)	
+185	Clan Point (+7)	
+186	Clan Point (+10)	
+187	Clan Point (+15)	
+188	Clan Point (+20)	
+189	Clan Point (+25)	
+190	Clan Point (+30)	
+201	Trainee Medal	A medal that temporarily increases EXP rewards from hunting monsters.
+202	Brave Medal	A medal that temporarily increases EXP rewards from hunting monsters.
+203	Hero Medal	A medal that temporarily increases EXP rewards from hunting monsters.
+280	Mythril Drill	Attempt to add a roughly made socket to an item. Double click this drill and target the item in which the socket will be created.
+281	Orihalcon Drill	Attempt to add a decent quality socket to an item. Double click this drill and target the item in which the socket will be created.
+282	Adamantium Drill	Attempt to add a smoothly drilled socket to an item. Double click this drill and target the item in which the socket will be created.
+283	Perfect Drill	Add a perfect socket to an item without any chance of failure. Double click this drill and target the item in which the socket will be created.
+284	Demon Metal Drill	Attempt to add a decent quality socket to an item with a slightly greater chance of success than the Orihalcon Drill. Double click this drill and target the item in which the socket will be created.
+291	Repair Hammer	Double click the hammer and then select the item you want repaired.
+293	Engine Fuel (S)	Mana condensed through a special process that will power the Mana Engine. Fills 25% of the fuel capacity.
+294	Engine Fuel (M)	Mana condensed through a special process that will power the Mana Engine. Fills 50% of the fuel capacity.
+295	Engine Fuel (L)	Mana condensed through a special process that will power the Mana Engine. Fills 100% of the fuel capacity.
+301	Purify Scroll (Solo)	Purifies harmful curse magic cast on its user.
+302	Detect Scroll (Solo)	Enables its user to detect cloaked units for a while.
+303	Stealth Scroll (Solo)	Enables its user to become temporarily invisible while moving. When attacking enemies, invisibility will be canceled.
+306	HP Scroll (Solo)	Increase Maximum HP for 7 minutes.
+307	MP Scroll (Solo)	Increase Maximum MP for 7 minutes.
+308	Dexterity Scroll (Solo)	Increase in Movement Speed and Dodge Rate for 7 minutes.
+309	Strength Scroll (Solo)	Increase in Attack Power and Attack Speed for 7 minutes.
+310	Defense Scroll (Solo)	Increase in Defense and Magic Resistance for 7 minutes.
+311	Accuracy Scroll (Solo)	Increase in Attack Accuracy and Critical hit rate for 7 minutes.
+312	Damage Scroll (Solo)	Inflict 30% additional damage for 7 minutes.
+313	Advanced HP Scroll (Solo)	Increase Maximum HP for 10 minutes.
+314	Advanced MP Scroll (Solo)	Increase Maximum MP for 10 minutes.
+315	Advanced Dexterity Scroll (Solo)	Increase in Movement Speed and Dodge Rate for 10 minutes.
+316	Advanced Strength Scroll (Solo)	Increase in Attack Power and Attack Speed for 10 minutes.
+317	Advanced Defense Scroll (Solo)	Increase in Defense and Magic Resistance for 10 minutes.
+318	Advanced Accuracy Scroll (Solo)	Increase in Attack Accuracy and Critical hit rate for 10 minutes.
+319	Advanced Damage Scroll (Solo)	Inflict 50% additional damage for 10 minutes.
+321	Blue Icicle	Target temporarily suffers from reduced Magic Resistance.
+322	Green Icicle	Target is temporarily poisoned.
+323	White Icicle	Target is temporarily blocked from using magic spells.
+326	Snowball	Snowballs don't cause any damage, so use it to play with your friends.
+350	Adventurer's Plains Return Scroll	Returns its user to the Adventurer's Plain. The user's current weight of carried items affects how much MP is consumed when using this Return Scroll.
+351	Zant Return Scroll	Returns its user to Zant. Current weight carried by its user affects MP that is consumed in using this item.
+352	Junon Polis Return Scroll	Returns its user to Junon Polis. Current weight carried by its user affects MP that is consumed in using this item.
+353	Eucar Return Scroll	Returns its user to the Magic City of the Eucar. Current weight carried by its user affects MP that is consumed in using this item.
+354	Xita Refuge Return Scrool	Returns its user to the Xita Refuge. Current weight carried by its user affects MP that is consumed in using this item.
+360	Goblin Cave Entrance Return Scroll	Returns its user to the Goblin Cave Entrance.
+361	Desert of the Dead Entrance Return Scroll	Returns its user to the Desert of the Dead Entrance.
+362	El Verloon Desert Return Scroll	Returns its user to El Verloon Desert.
+363	Gorge of Silence Return Scroll	Returns its user to the Gorge of Silence.
+364	Shady Jungle Return Scroll	Returns its user to the Shady Jungle.
+365	Sikuku Underground Prison Return Scroll	Returns its user to the Sikuku Underground Prison entrance.
+371	Para Dance [Basic]	Guide book that teaches you to dance with your party members. Restores Stamina by 30.
+372	Para Dance [Practical]	Guide book that teaches you to dance with your party members. Restores Stamina by 35.
+373	Para Dance [Intermediate]	Guide book that teaches you to dance with your party members. Restores Stamina by 40.
+374	Para Dance [Refined]	Guide book that teaches you to dance with your party members. Restores Stamina by 50.
+375	Funky Dance [Basic]	Impress your party members with the funk in your dance. Restores Stamina by 60 points.
+376	Funky Dance [Intermediate]	Your party members will be dazzled by your funky fresh moves. Restores Stamina by 70 points.
+381	Ice Charm	Inflict damage 30 meters around you and reduce the Attack Speed of enemies within range.
+382	Spark Charm	Inflict damage to monsters 20 meters around you while stunning enemies in range.
+383	Blood Charm	Inflict powerful damage to monsters 30 meters around you.
+390	Rhumba (M)	Dance Scroll that lets you do the hip shaking Rumba.
+391	Waltz (M)	Dance Scroll that lets you dance the elegant Waltz.
+392	Jive (M)	Dance Scroll that really lets you get down.
+393	Cha-Cha (M)	Dance Scroll that lets you dance the Cha-Cha.
+394	Rhumba (F)	Dance Scroll that lets you do the hip shaking Rumba.
+395	Waltz (F)	Dance Scroll that lets you dance the elegant Waltz.
+396	Jive (F)	Dance Scroll that really lets you get down.
+397	Cha-Cha (F)	Dance Scroll that lets you dance the Cha-Cha.
+401	Jelly Bean	A capsule containing a monster that will fight for you once summoned.
+402	Jelly Nut	A capsule containing a monster that will fight for you once summoned.
+403	Choropy	A capsule containing a monster that will fight for you once summoned.
+404	Pumpkin	A capsule containing a monster that will fight for you once summoned.
+405	Dalping	A capsule containing a monster that will fight for you once summoned.
+406	Honey Bee	A capsule containing a monster that will fight for you once summoned.
+407	Hornet	A capsule containing a monster that will fight for you once summoned.
+408	Pomic	A capsule containing a monster that will fight for you once summoned.
+409	Pomic Soldier	A capsule containing a monster that will fight for you once summoned.
+410	Beetle	A capsule containing a monster that will fight for you once summoned.
+411	Turtle	A capsule containing a monster that will fight for you once summoned.
+412	Crack	A capsule containing a monster that will fight for you once summoned.
+413	Rackie	A capsule containing a monster that will fight for you once summoned.
+414	Woopy	A capsule containing a monster that will fight for you once summoned.
+415	Moldie	A capsule containing a monster that will fight for you once summoned.
+416	Krawfy	A capsule containing a monster that will fight for you once summoned.
+417	Porkie	A capsule containing a monster that will fight for you once summoned.
+418	Grunter	A capsule containing a monster that will fight for you once summoned.
+419	Grunter Leader	A capsule containing a monster that will fight for you once summoned.
+420	Kaiman	A capsule containing a monster that will fight for you once summoned.
+421	Doonga	A capsule containing a monster that will fight for you once summoned.
+422	Doonga Warrior	A capsule containing a monster that will fight for you once summoned.
+423	Doonga Captain	A capsule containing a monster that will fight for you once summoned.
+424	Jewel Golem	A capsule containing a monster that will fight for you once summoned.
+425	Aqua Guard	A capsule containing a monster that will fight for you once summoned.
+426	Clown	A capsule containing a monster that will fight for you once summoned.
+427	Candle Ghost	A capsule containing a monster that will fight for you once summoned.
+428	Goblin Worker	A capsule containing a monster that will fight for you once summoned.
+429	Goblin Guard	A capsule containing a monster that will fight for you once summoned.
+430	Goblin Warrior	A capsule containing a monster that will fight for you once summoned.
+431	Slag	A capsule containing a monster that will fight for you once summoned.
+432	Lunar Wolf	A capsule containing a monster that will fight for you once summoned.
+433	Yeti	A capsule containing a monster that will fight for you once summoned.
+434	Yeti Hunter	A capsule containing a monster that will fight for you once summoned.
+435	Yeti Guard	A capsule containing a monster that will fight for you once summoned.
+436	Yeti Rider	A capsule containing a monster that will fight for you once summoned.
+437	Goblin King	A capsule containing a monster that will fight for you once summoned.
+438	Cherry Smouly	A capsule containing a monster that will fight for you once summoned.
+439	Metal Moldie	A capsule containing a monster that will fight for you once summoned.
+441	Veteran Sniper	Increase Attack Speed when Gun or Launcher weapons are equipped.
+442	Top Gunner	Increase Attack Power when Gun or Launcher weapons are equipped.
+443	Merchandising	Enhance your salesmanship, enabling you to sell your goods to NPC shops for higher prices.
+444	Third Eye	Summon fire that will reveal hidden enemies and reduce their Movement Speed.
+445	Triple Shot	Attack an enemy by firing three shots in a row. (Required Equipment: Gun, Launcher.)
+446	Poison Shot	Poison enemy by firing a poisonous shot. (Required Equipment: Gun.)
+447	Zulie Bolt	Inflict great damage to enemies by firing Zulie. (Required Equipment: Gun.)
+448	Shrapnel Burst	Fire a shell at an enemy to inflict critical damage to the target and minor damage to enemies in the target's vicinity. (Required Equipment: Launcher.)
+449	Chaotic Burst	Fire a powerful shell at an enemy to reduce its Accuracy Rate. (Required Equipment: Launcher.)
+450	Wind Step	Temporarily move as fast as the wind.
+451	Light Step	Increase Movement Speed and Dodge rate by mastering light, nimble body movements.
+452	Stockpile	Increase the rate of finding rare materials. 
+453	Weapon Augment	Temporarily maximize a weapon's Attack Power by endowing it with special ability.
+454	Jury-Rigging	Use cutting edge, yet disposable, parts on weapons to temporarily enhance Attack Power and Attack Speed.
+455	Summon Terror Knight	Summon a Terror Knight to aid you as an ally in battle.
+456	Stun Shot	Fire a slightly toxic bullet to cause the targeted enemy to faint. (Required Equipment: Gun.)
+457	Zulie Stun	Critically damage your enemies by spending a large amount of Zulie. (Required Equipment: Gun.)
+458	Rapidfire Triple Shot	Advanced form of Triple Shot that inflicts increased damage. (Required Equipment: Gun and Luncher.)
+459	Cannon Splash Burst	Fire a powerful shell at an enemy to reduce its Dodge Rate. (Required Equipment: Launcher.)
+460	Flame Stun Burst	Temporarily decrease a target's Movement Speed with an explosive Launcher attack. (Reuqired Equipment: Launcher.)
+461	Reflect Aura	Reflect a portion of the damage you have received back to the enemy.
+462	Dual Layer	Temporarily increase Defense Power and Magic Resistance. 
+463	Returner Form	Transform into a being that can reflect all damage from close range attacks. (Required Equipment: Gun, Launcher.)
+464	Top Gunner	Increase Attack Power when Gun or Launcher weapons are equipped.
+465	Triple Shot	Attack an enemy by firing three shots in a row. (Required Equipment: Gun)
+466	Poison Shot	Poison enemy by firing a poisonous shot. (Required Equipment: Gun.)
+467	Hypno Shot	Fire a hypnotic bullet that will make the target and enemies in its vicinity fall asleep. (Required Equpment: Gun.)
+468	Summon Terror Knight	Summon a Terror Knight to aid you as an ally in battle.
+469	Advanced Weapon Research	Raise CON stat. This skill enables you to craft advanced weapons.
+470	Advanced Armor Research	Raise Defense Power. This skill enables you to craft advanced armors.
+471	Expert Subitem Research	Raise Movement Speed. This skill enables you to craft advanced SubItems.
+472	Expert Potion Research	Raise SEN stat. This skill enables you to craft advanced potions
+473	Expert Sword Craft	Craft advanced One-Handed Swords, Two-Handed Swords or Dual Wield weapons out of the appropriate materials.
+474	Expert Mace Craft	Create advanced Axes, Spears, Katars or One-Handed Maces out of the appropriate materials.
+475	Expert Bow Craft	Create advanced Bows or Crossbows out of the appropriate materials.
+476	Expert Magic Weapon Craft	Craft advanced Magic Weapons, such as Staffs or Wands, out of the appropriate materials.
+477	Expert Gun Craft	Craft advanced Guns or Launchers out of the appropriate materials.
+478	Deluxe Clothing Craft	Create normal Clothing, Hats, Gloves, or Shoes of high quality that can be equipped by the Visitors.
+479	Deluxe Armor Craft	Enable you to craft advanced Soldier and Hawker armors.
+480	Deluxe Robe Craft	Create high quality Magic Clothing, Hats, Gloves, or Boots that can be equipped by Muse and Dealer class characters.
+481	Deluxe SubItem Craft	Create high quality Subitems, such as Shields, Back equipment, etc., by using the appropriate materials.
+482	Deluxe Potion Craft	Create high quality Potions by using the appropriate materials.
+483	Advanced Craft Research	Raise SEN stat. Enable crafting of Tuning Parts or the ability to refine gem items.
+484	Cart Craft	Craft Cart Parts out of the appropriate materials.
+485	Castle Gear Craft	Craft Castle Gear Parts out of the appropriate materials.
+486	Gem Cutting	Enable you to cut gems.
+496	Christmas Tree	You can create a Christmas Tree that will help people restore their HP.
+501	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+502	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+503	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+504	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+505	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+506	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+507	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+508	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+509	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+510	Letter of the Akram Kingdom	A letter that vanishes once you finish reading it.
+551	Coupon	You can check what prize it awards by double clicking it. If you cancel during the process, you'll lose the coupon.
+560	Soul Recall	Revive a person that has fallen in battle, as well as recover much of the experience lost from dying.
+561	Face Item Craft	Create items worn on the face such as Masks, Goggles, etc. out of the appropriate materials.
+562	Accessory Craft	Create Accessories such as Necklaces, Rings, Bracelets, etc. out of the appropriate materials.
+563	Adamantine Fist	Temporarily enter a status in which you become immobilized, yet invincible, compelling nearby enemies to draw closer to you.
+564	Mana Shield	Temporarily create a Mana barrier that will absorb damage, causing MP to be lost instead of HP.
+565	Call Beast	Summon a violent and brutal beast.
+566	Expert Crafting	Increase the possibility of producing high quality goods when crafting.
+567	ManaBrake	You can consume your target's Mana.
+568	Anti Magic Shell	Your target can no longer maintain its magic ststus.
+569	Sacrifice	Taunt near enemies to focus their attacks towards its caster, so that the caster's friendly targets can be saved from a critical moment.
+590	Mana Corrosion	Burn target's Mana energy during PvP battle.
+591	Dispel	Cancel all the positive statuses that have been cast on a target.
+592	Soul Recall	Revive a person that has fallen in battle, as well as recover much of experience lost from dying.
+593	Virtuoso Crafting	Greatly increase the possibility of producing high quality goods when crafting.
+594	Lucky Ghost	Summon a ghost that provides casts support spells for its master.
+600	Hi!	Emotive Expression.
+601	Grateful Bow	Emotive Expression.
+602	Laugh	Emotive Expression.
+603	Applause	Emotive Expression.
+604	Kiss	Emotive Expression.
+605	Fight Cheer	Emotive Expression.
+606	Tantrum	Emotive Expression.
+607	Breakdown	Emotive Expression.
+611	Physical Training	Increase Maximum HP amount.
+612	Repose	Increase HP Recovery Rate while resting.
+613	Defense Training	Increase Defense Power.
+614	Power Overflow	Temporarily increase Attack Power at the cost of reducing Defense Power.
+615	Howl	Scream loudly at a targeted enemy to reduce its Defense Power.
+616	Staminal Assist	Increase target's Maximum HP.
+617	Melee Weapon Mastery	Increase Attack Power of Melee Weapons when equipped.
+618	Melee Double Attack	Quickly inflict two strikes at an enemy in one attack. (Required Equpment: One-Handed Weapon, Two-Handed Weapon.)
+619	One Handed Weapon Mastery	Increase Attack Power of One-Handed weapons when equipped.
+620	Shield Mastery	Increase Defense Power when equipped with a Shield.
+621	Fatal Thrust	Use a sword to directly stab an enemy in one of its vital points. (Required Equipment: One-Handed Sword, One-Handed Melee Weapon.) 
+622	Durability Assist	Increase target's Defense Power. (Required Equipment: Shield.)
+623	Shield Stun	Stun an enemy by hitting him with a shield. (Required Equipment: Shield.)
+624	Soul Wreck	Shoot powerful energy at a distant enemy to stun it.
+625	Two-Handed Weapon Mastery	Increase Attack Power when equipped with a Two-Handed Weapon.
+626	Two-Handed Sword Mastery	Increase Attack Power when equipped with a Two-Handed Sword.
+627	Piercing Lunge	Focus your inner energy to drive a Two-Handed sword through an enemy in one breath. (Required Equipment: Two-Handed Sword.)
+628	Battle Howl	Loudly scream to reduce the Defense Power of nearby enemies.
+629	Voltage Crash	Attack an enemy with a shockingly powerful attack. (Required Equipment: Two-Handed Sword.) 
+630	Spear Mastery	Increase Attack Power when equipped with a Spear.
+631	Raging Spear Strike	Inflict a powerful Spear strike at an enemy. (Required Equipment: Two-Handed Spear.)
+632	Battle Scream	Loudly scream to reduce the Attack Speed of nearby enemies.
+633	Spear Screw	Damage the legs of nearby enemies with a spinnning Spear attack. (Required Equipment: One-Handed Spear.)
+634	Axe Mastery	Increase Attack Power when equipped with an Axe.
+635	Leaping Axe Strike	Jump and then swing an axe downward at an enemy with a blow that will stun it. (Required Equipment: Two-Handed Axe.)
+636	Battle Cry	Loudly scream to reduce the Attack Power of nearby enemies.
+637	Axe Launcher	Hurl an axe at a distant enemy to stun it. (Required Equipment: Two-Handed Axe.)
+638	Taunt	Provoke enemies so that they only target their attacks on you.
+639	Soundless Vacuum	Summon a powerful wind that will stifle all sound, suppressing enemy skills. (Required Equipment: One-Handed Weapon.)
+640	Immortal Form	Transform into an form endowed with maximized Defense Power and Max HP. (Required Equipment: One-Handed Weapon.)
+641	Advanced Defense Training	Increase Defense Power.
+642	One-Handed Combat Mastery	Increase Attack Power when equipped with a One-Handed Weapon.
+643	Actual Battle Training	Increase Attack Power when equipped with a One-Handed Weapon.
+644	Advanced Shield Mastery	Increase Defense Power when equiped with a Shield.
+645	Triple Strike	Strike an enemy three times at its vital points in a single combination attack. (Required Epuipment: One-Handed Sword, One-Handed Melee Weapon.)
+646	Safe Guard	Instantly increase Defense Power and Dodge Rate. (Required Equipment: Shield.)
+647	Shield Barrier	Increase Dodge Rate by effectively using a Shield to defend against enemy attacks. (Required Equipment: Sheild.)
+648	Battle Alertness	Perceive hidden enemies that cannot normally be seens.
+649	Staminal Training	Increase Maximum HP amount.
+650	Refreshment	Increase HP Recovery Rate.
+651	Sword Master Form	Transform into a sword wielding form that has maximized Attack Power and Attack Speed. (Required Equipment: Two-Handed Weapon.)
+652	Melee Combat Mastery	Increase Attack Speed when equipped with a Two-Handed Weapon.
+653	Two-Handed Battle Mastery	Increase Attack Power when equipped with a Two-Handed Weapon.
+654	Battle Sense Mastery	Increase Attack Power when equipped with a Two-Handed Weapon.
+655	Advanced Two-Handed Sword Mastery	Increase Attack Power when equipped with a Two-Handed Sword.
+656	Geon Archangel Crumpler	Focus the totality of a sword's destructive power to inflict tremendously critical damage. (Required Equipment: Two-Handed Sword.)
+657	Combat Howl	Loudly scream to damage nearby enemies and reduce their Defense Power.
+658	War Howl	Loudly scream to greatly decrease the Defense Power of nearby enemies.
+659	Seismic Impact	Smash a Two-Handed Sword into the ground to generate an impact that will damage nearby enemies. (Required Equipment: Two-Handed Sword.)
+660	Advanced Spear Mastery	Increase Attack Power when equipped with a Spear.
+661	Longinus's Spear	Inflict critical damage to the enemy by thoroughly piercing it with a spear. (Required Equipment: Two-Handed Spear.)
+662	Combat Scream	Loudly scream to damage nearby enemies and reduce their Attack Speed.
+663	War Scream	Loudly scream to greatly decrease the Attack Speed of nearby enemies.
+664	Achilles's Heel Strike	Spin a spear to slice the ankles of nearby enemies. (Required Equipment: Two-Handed Spear.)
+665	Advanced Axe Mastery	Increase Attack Power when equipped with an Axe.
+666	Vaulting Axe Smash	Jump and then powerfully swing an axe downward at an enemy with a blow that will reduce its Attack Speed and Movement Speed. (Required Equipment: Two-Handed Axe.)
+667	Combat Cry	Scream loudly to damage nearby enemies and greatly reduce their Attack Power.
+668	War Cry	Scream loudly to greatly reduce the Attack Power of nearby enemies.
+669	Axe Slugger	Attack an enemy with a powerful axe blow that will stun it. (Required Equipment: Two-Handed Axe.) 
+670	Motion Sensing	Increase Accuracy Rate by training your eyes to perceive and track the enemy's body movements.
+671	Berserk	Increase Attack Power at the cost of reducing Defense Power. (Required Equipment: Two-Handed Weapon.)
+672	Quick Step	Increase Movement Speed through arduous training.
+673	Battle March	Increase Defense Power and Attack Power at the cost of reducing Movement Speed. (Required Equipment: Shield.)
+674	Sword Force	Focus your spritual energy into the blade of a sword to attack an enemy from a distance. (Required Equipment: One-Handed Weapon.)
+676	Staff Mastery	Increase Attack Power and Magic Attack Power when equipped with a Staff.
+677	Ice Bolt	Attack an enemy by firing ice crystals. (Required Equipment: Staff.)
+678	Frostbiter	Shoot ice crystal projectiles at an enemy, reducing its Movement Speed. (Required Equipment: Staff.)
+679	Wind Storm	Summon a strong windstorm that will damage enemies around you. (Required Equipment: Staff.)
+680	Tornado	Summon a mighty windstorm that will damage enemies around you. (Required Equipment: Staff.)
+681	Mana Bolt	Attack an enemy from a distance with a bolt of magical power. (Required Equipment: Staff.) 
+682	Mana Spear	Attack an enemy from a distance with a mighty bolt of magical power. (Required Equipment: Staff.) 
+683	Voltage Jolt	Summon lightning from the skies to shock enemies. (Required Equipment: Staff.)
+684	Icy Hailstorm	Summon icy hail within a fixed area to damage enemies and reduce their Movement Speed. (Required Equipment: Staff.)
+685	Fire Ring	Cast a ring of fire at the enemy to inflict damage and reduce its Defense Power. (Required Equipment: Staff.)
+686	Meteorite Strike	Call upon a meteorite to crash on a targeted enemy. (Required Equipment: Staff.)
+687	Spell Mastery	Reduce the amount MP consumed when casting skills.
+688	Spirit Boost	Reduce the amount MP consumed when casting skills.
+689	Meditation	Increase Maximum MP and MP Recovery Rate by improving your concentration.
+690	Cure	Restore HP to a targeted ally.
+691	Hustle Charm	Increase the target's Movement Speed.
+692	Wand Mastery	Increase Attack Power and Magic Attack Power when equipped with a Wand.
+693	Mana Drop	Damage an enemy with a Mana Drop. (Required Equipment: Wand.)
+694	Voltage Crash	Summon lightning from the skies to shock enemies. (Required Equipment: Wand.)
+695	Summon Phantom Sword	Summon a Phantom Sword to fight your enemies. (Required Equipment: Wand.)
+696	Soul Revive	Bring a fallen player back to consciousness. (Required Equipment: Wand.)
+697	Recovery	Restore a fixed amount of HP to a targeted ally.
+698	Wallop Charm	Cast an enchantment on a target that enhances Attack Power.
+699	Resilience Charm	Cast an enchantment on a target that enhances Defense Power.
+700	Purify	Purify a target to remove the status effects of previously cast magic spells.
+701	Precision Charm	Cast an enchantment on a target that enhances Accuracy Rate.
+702	Bonfire	Summon a bonfire that will continuously restore the HP and MP of nearby allies. (Required Equipment: Wand.)
+703	Party Heal	Immediately restore the HP of your party members.
+704	Blessed Mind	Increase party members' Maximum HP and MP amounts by blessing them.
+705	Integrity	Restore a large amount of HP to nearby Party Members.
+706	Sorceror Form	Transform into a more powerful form endowed with enhanced Magic Attack Power. (Required Equipment: Staff.) 
+707	Melee Combat Mastery	Drastically increase Attack Power and Magic Attack Power when equipped with a Staff.
+708	Freezing Chill	Attack an enemy with Mana infused ice to decrease its Movement Speed. (Required Equipment: Staff.)
+709	Tempest	Summon a violent tempest to attack and temporarily silence enemies surrounding you. (Required Equipment: Staff.)
+710	Glaciating Chill	Attack an enemy with Mana infused ice to greatly decrease its Movement Speed. (Required Equipment: Staff.)
+711	Hurricane	Summon a powerful hurricane that will damage and silence enemies, suppressing their skills. (Required Equipment: Staff.)
+712	Soul Shock	Momentarily shock an enemy with electrical attack. (Required Equipment: Staff.)
+713	Fierce Cudgeling	Wield a staff in a fierce, focused attack to inflict damage on an enemy. (Required Equipment: Staff.)
+714	Soul Electric	Continuously shock enemies with an electric attack. (Required Equipment: Staff.)
+715	Permafrost Chill	Freeze a target's legs to temporarily decrease its Movement Speed. (Required Equipment: Staff.) 
+716	Hellfire	Continously damage enemies by mystically setting them ablaze with the flames of hell. (Required Equipment: Staff.)
+717	Staff Stun	Stun an enemy by attacking it with a Staff. (Required Equipment: Staff.)
+718	Mana Burn	Shoot a plume of fire that will cause damage and reduce the Defense Power of the target and enemies surrounding it. (Required Equipment: Staff.) 
+719	Mystic Eye	Detect hidden enemies in your vicinity with mystically enhanced awareness. (Required Equipment: Staff.)
+720	Elemental Bolt	Inflict tremendous damage to an enemy with highly condensed Mana energy. (Required Equipment: Staff.)
+721	Aural Pierce	Temporarily reduce a target's Magic Resistance. (Required Equipment: Staff.)
+722	Elemental Spike	Inflict tremendous critical damage to an enemy with highly condensed Mana energy. (Required Equipment: Staff.)
+723	Meteorite Flow	Call upon a storm of meteors from the heavens to smite enemies within a wide area. (Required Equipment: Staff.)
+724	Soul Doubt	Use Mana energy to suppress a targeted enemy so that it cannot chant spells.
+725	Untouchable Aura	Draw divine power into your body to nullify the effect of physical attacks against you. (Required Equipment: Wand.)
+726	Magic Battle Mastery	Increase Attack Power and Magic Attack Power when equipped with a Wand.
+727	Summon Mastery	Increase your summoning expertise to enable the summoning of more powerful creatures.
+728	Mana Wave	Inflict great damage to distant enemies by shooting pure magical force at them. (Required Equipment: Wand.)
+729	Summon Elemental	Summon an Elemental to attack your enemies. (Required Equipment: Wand.)
+730	Voltage Storm	Summon lightning from the skies to shock enemies. (Required Equipment: Wand.)
+731	Summon Firegon	Summon Firegon to attack enemy(Required Equipment: Wand.)
+732	Heavenly Grace	Rapidly restore HP to your allies.
+733	Battle Charm	Cast an enchantment on a target that enhances Attack Speed.
+734	Salamander Flame	Summon a red mystic flame that will restore the HP of allies in its vicinity. (Required Equipment: Wand.)
+735	Mana Flame	Summon a blue mystic flame that will restore the MP of allies in its vicinity. (Required Equipment: Wand.)
+736	Clobber Charm	Cast an enchantment on a target that greatly increases Attack Power.
+737	Toughness Charm	Cast an enchantment on a target that greatly increases Defense Power.
+738	Critical Charm	Cast an enchantment on a target that enhances Critical Rate.
+739	Valkyrie Charm	Cast an enchantment on a target that enhances Attack Power.
+740	Dragon Scale	Increase Defense Power by imbuing your skin with the power of dragon scales.
+741	Chant Focusing	Reduce the amount of MP that is consumed when casting skills by focusing your powers of concentration.
+742	Lucid Soul	Increase Maximum HP and MP amounts.
+746	Combat Mastery	Increase the Attack Speed of Bow and Combat Weapons.
+747	Bow Mastery	Increase Attack Power when equipped with a Bow class weapon.
+748	Clamp Arrow	Fire an arrow at an enemy's foot to slightly decrease its Movement Speed. (Required Equipment: Bow.)
+749	Double Arrow	Quickly fire two arrows at a target in one attack. (Required Equipment: Bow.)
+750	Backpack Mastery	Enlarge inventory capacity to increase the maximum amount of items that can be carried.
+751	Mana Profit	Reduce the amount of MP that is consumed for skills.
+752	Offensive Focus	Concentrate to increase Accuracy Rate and Attack Power at the cost of reducing Dodge Rate.
+753	Shackle Arrow	Fire an arrow at an enemy's foot to decrease its Movement Speed. (Required Equipment: Bow.)
+754	Triple Arrow	Quickly fire three arrows at a target in one attack. (Required Equipment: Bow.)
+755	Soul Discipline	Increase HP and MP Recovery Rates.
+756	Stun Arrow	Stun an enemy by arrow imbued with spiritual power. (Required Equipment: Bow.)
+757	Sprint	Temporarily increase your Movement Speed.
+758	Velocity Accordance	Increase target's Attack Speed.
+759	Second Sight	Enable perception of hidden enemies that cannot be seen normally.
+760	Knuckle Mastery	Increase Attack power of Katar and Dual Wield weapons.
+761	Double Slash	Attack an enemy with an incredibly quick two hit combination attack. (Required Equipment: Katar, Dual Wield weapons.)
+762	Focused Impact	Perform a powerful, concentrated strike on an enemy with a Combat Weapon. (Required Equipment: Katar and Dual Wield weapons.)
+763	Poison Knife	Poison enemies by attacking with a knife laced with toxins. (Required Equipment: Katar, Dual Wield weapons.)
+764	Triple Slash	Perform a 3 strike combination attack on an enemy when wielding a combat weapon. (Required Equipment: Katar, Dual Wield weapons.)
+765	Katar Upper	Inflict great damage to an enemy by performing an uppercut with a Katar. (Required Equipment: Katar.) 
+766	Dividing Cleave	Deeply cleave into an enemy when wielding Dual Wield weapons. (Required Equipment: Dual Wield weapons.)
+767	Venom Knife	Throw a knife coated with powerful toxin at an enemy in order to inflict continuous poison damage. (Required Equipment: Katar, Dual Wield weapons.)
+768	Katar Mastery	Increase Attack Speed when equipped with a Katar.
+769	Dual Weapon Mastery	Increase Attack Power when equipped with a Dual Wield weapon.
+770	Stealth	Move undetected around enemies by skillfully using the environment to escape their notice.
+771	Ferocity Accordance	Increase target's Critical Rate.
+772	Weaken	Decrease target's Defense Power.
+773	Mirror Phantasm	Temporarily maximize your Dodge Rate. 
+774	Flame Hawk	Summon a flaming hawk to attack an enemy. (Required Equipment: Katar.)
+775	Spiral Kick	Perform a spin kick to attack surrounding enemies. (Required Equipment: Dual Wield weapons.)
+776	Amazon Form	Perform a transformation that will temporarily maxmize Attack Speed and Accuracy Rate. (Required Equipment: Bow.)
+777	Advanced Bow Mastery	Greatly increase Attack Power when equipped with Bow class weapons.
+778	Call Hawk	Summon a hawk to attack an enemy. (Required Equipment: Bow.)
+779	Trap Arrow	Fire an arrow at a target's leg to decrease its Movement Speed and Dodge Rate. (Required Equipment: Bow.)
+780	Triple Arrow	Cause a huge amount of damage to an enemy with a rapidfire arrow attack. (Required Equipment: Bow.)
+781	Stealth	Move undetected around enemies by skillfully using the environment to escape their notice.
+782	Longinus's Incarnation	Permanently increase Accuracy Rate.
+783	Mana Flow	Reduce the amount of MP that is consumed for skills.
+784	Point Blank Arrow	Powerfully fire an arrow at an enemy at close range. (Required Equipment: Bow.)
+785	Entangling Arrow	Shoot a powerful arrow at the target's leg in order to drastically reduce its Movement Speed and Dodge Rate. (Required Equipment: Bow.)
+786	Phenix Arrow	Shoot an arrow at an enemy in a special long distance attack. (Required Equipment: Bow.)
+787	Soul Current	Sharply increase HP and MP Recovery Rates.
+788	Hawker Accordance	Temporarily increase the target's Attack Speed.
+789	Rapid Twitch	Temporarily increase your Movement Speed.
+790	Requiem	Increase your Accuracy Rate at the cost of reducing your Dodge Rate.
+791	Assassin Form	Transform into an Assassin form endowed with maxmized Attack Speed and Movement Speed. (Required Equipment: Katar, Dual Wield weapons.)
+792	Combat Weapon Mastery	Increase Attack Power when equipped with a Combat Weapon.
+793	Triple Slash	Attack an enemy with an incredibly quick three hit combination attack. (Required Equipment: Katar, Dual Wield weapons.)
+794	Mystic Knife	Summon a knife of magical energy and throw it at an enemy to reduce its Dodge rate. (Required Equipment: Katar, Dual Wield weapons.)
+795	Crazy-style Slash	Attack an enemy with a violent Katar strike. (Required Equipment: Katar)
+796	Quick-style Assault	Attack so quickly that your blades can almost cut through time and space. (Required Equipment: Dual Wield weapons.)
+797	Screw Slash	Spin your body while wielding a Katar to cause critical damage to an enemy. (Required Equipment: Katar)
+798	Advanced Katar Mastery	Increases Attack Speed when equipped with a Katar.
+799	Cloaking	Blend into your surroundings to attack enemies without being detected.
+800	Evasive Guard	Temporarily enhance your Defense Power and Dodge Rate.
+801	Advanced Dual Weapon Mastery	Increase Attack Power when equipped with a  Dual Wield weapon.
+802	Bloody Assault	Inflict a huge amount of damage on an enemy with an unpredictable surprise attack. (Required Equipment: Dual Wield weapons.)
+803	Vicious Accordance	Increase the target's Attack Power and Critical attack rate.
+804	Critical Accordance	Greatly increase the target's Critical attack rate.
+805	Mental Storm	Confuse a target to decrease its Accuracy Rate.
+806	Enfeeblement	Cause confusion to a target, decreasing its Defense Power and Accuracy Rate.
+807	Phenix Slash	Inflict an incredibly quick attack at an enemy. (Required Equipment: Katar, Dual Wield Weapon.)
+808	Flame Slash	Imbue equipped Katar with fire energy in an attack that will burn its target. (Required Equipment: Katar.)
+809	Freezing Assault	Imbue equipped Dual Wield weapons with ice energy in an attack that will reduce an enemy's Attack Speed. (Required Equipment: Dual Wield Weapon.)
+810	Slash Precision	Increase Accuracy Rate when equipped with a Katar class weapon.
+811	Assault Precision	Increase Accuracy Rate when equipped with Dual Weapons.
+812	Plasma Falcon	Summon a flaming falcon to attack an enemy.
+813	Circle Break	Attack enemies surrounding you by spinning and kicking.
+814	Impact Arrow	Stun the enemy by firing an arrow infused with focused spiritual energy. (Required Equipment: Bow.)
+816	Trigger Finger	Increase the Attack Speed of Gun and Launcher weapons.
+817	Tough Gunner	Increase the Attack Power of Gun and Launcher weapons.
+818	Intensify Weapon	Temporarily increase the Attack Power of equipped weapon.
+819	Twin Shot	Quickly fire two shots at an enemy in one attack. (Required Equipment: Gun, Launcher.)
+820	Craftsman's Talent	Raise SEN stat which will enhance crafting skill.
+821	Discount	Increase salesmanship, enabling to you to buy goods from NPC shops at cheaper prices.
+822	Salesman Gait	Increase Movement Speed by developing the muscles used to perform door to door sales.
+823	Sniping	Accurately fire a shot at an enemy's vital point to inflict great damage. (Required Equipment: Gun.)
+824	Master Twin Shot	Enhance the power of the Twin Shot skill. (Required Equipment: Gun, Launcher.)
+825	Demolition Expertise	Increase the damage inflicted with Launcher weapons. (Required Equipment: Launcher.)
+826	Backpack Mastery	Increase your Backpack capability so that you can carry more items. 
+827	Illusion	Move so quickly that enemies can only perceive your afterimage.
+828	Mercenary Employment	Enable employment of stronger mercenaries.
+829	Employ Warrior	Summon a mercenary warrior to aid in battle.
+830	Employ Hunter	Summon a mercenary hunter to aid in battle.
+831	Weapon Expertise	Assert mastery over a weapon's unique characteristics to temporarily add a great increase to its Attack Power.
+832	Weapon Research	Raise CON stat. This skill is necessary to enable weapon crafting.
+833	Armor Research	Raise Defense Power. This skill is necessary to enable Armor crafting.
+834	SubItem Research	Raise Movement Speed. This skill is necessary to enable SubItem crafting.
+835	Potion Research	Raise SEN stat. This skill is necessary to enable potion crafting.
+836	Sword Craft	Create One-Handed Swords, Two-Handed Swords or Dual Wield weapons out of the appropriate materials.
+837	Mace Craft	Create Axes, Spears, Katars or One-Handed Maces out of the appropriate materials.
+838	Bow Craft	Create Bows or Crossbows out of the appropriate materials.
+839	Magic Weapon Craft	Create Magic Weapons, such as Staffs or Wands, out of the appropriate materials.
+840	Gun Craft	Create Guns or Launchers out of the appropriate materials.
+841	Clothing Craft	Create normal Clothing, Hats, Gloves, or Shoes that can be equipped by the Visitors.
+842	Armor Craft	Create Armor, Helms, Gauntlets, or Boots that can be equipped by Soldier and Hawker class characters.
+843	Robe Craft	Create Magic Clothing, Hats, Gloves, or Boots that can be equipped by Muse and Dealer class characters.
+844	SubItem Craft	Create Subitems, such as Shields, Back equipment, etc., by using the appropriate materials.
+845	Potion Craft	Create Potions by using the appropriate materials.
+847	One-Handed Weapon Iron Blessing	Increase Attack Power when equipped with a One-Handed Weapon.
+848	One-Handed Weapon Wind Blessing	Increase Attack Speed when equipped with a One-Handed Weapon.
+849	Two-Handed Sword Iron Blessing	Increase Attack Power when equipped with a Two-Handed Sword.
+850	Two-Handed Sword Wind Blessing	Increase Attack Power when equipped with a Two-Handed Sword.
+851	Two-Handed Spear Iron Blessing	Increase Attack Power when equipped with a Two-Handed Spear.
+852	Two-Handed Spear Wind Blessing	Increase Attack Speed when equipped with a Two-Handed Spear.
+853	Two-Handed Axe Iron Blessing	Increase Attack Power when equipped with a Two-Handed Axe.
+854	Two-Handed Axe Wind Blessing	Increase Attack Speed when equipped with a Two-Handed Axe.
+855	Staff Iron Blessing	Increase Attack Power when equipped with a Staff.
+856	Staff Wind Blessing	Increase Attack Speed when equipped with a Staff.
+857	Wand Iron Blessing	Increase Attack Power when equipped with a Wand.
+858	Wand Wind Blessing	Increase Attack Speed when equipped with a Wand.
+859	Bow Iron Blessing	Increase Attack Power when equipped with a Bow.
+860	Bow Wind Blessing	Increase Attack Speed when equipped with a Bow.
+861	Katar Iron Blessing	Increase Attack Power when equipped with a Katar.
+862	Katar Wind Blessing	Increase Attack Speed when equipped with a Katar.
+863	Dual Wield Iron Blessing	Increase Attack Power when equipped with a Dual Wield weapon.
+864	Dual Wield Wind Blessing	Increase Attack Speed when equipped with a Dual Wield weapon.
+865	Gun Iron Blessing	Increase Attack Power when equipped with a Gun.
+866	Gun Wind Blessing	Increase Attack Speed when equipped with a Gun.
+867	Launcher Iron Blessing	Increase Attack Power when equipped with a Launcher.
+868	Launcher Wind Blessing
+871	Healing (All)
+872	Atk Power, Accuracy Up (All)
+873	Defense Up (All)
+874	Attack Speed, Critical Up (All)
+875	Dex Up (All)
+876	Atk Power, Accuracy Up (All)
+877	Defense Up (All)
+878	Attack Speed, Critical Up (All)
+879	Dex Up (All)
+880	Status Effect Cancelled (All)
+881	Invincibility Mode
+882	Power-Up Mode
+883	Fast Mode
+884	Invisibility Mode
+885	Self Healing
+886	Killing
+887	Stun
+888	Muting
+889	Target Cancelled
+895	GM Skill Mastery
+896	Developer Skill Mastery
+898	Job Skill Reset Book
+900	Job Skill Reset Book
+901	Unique Skill Reset Book
+902	Mileage Skill Reset Book
+903	All Skill Reset Book
+905	Small Gift Box
+906	Surprise Gift Box
+907	Impressive Gift Box
+911	Rose
+912	Present Box
+913	Firecracker
+914	Grab Bag
+916	Firecracker Penguin
+917	Ice Spirit
+918	Love Chocolate
+921	Fireworks
+922	Fireworks(Blue)
+923	Fireworks(Green)
+924	Fireworks(Yellow)
+930	Firecracker
+931	Firecracker
+932	Firecracker
+933	Firecracker
+934	Firecracker
+940	Easter Bunny Capsule
+941	Easter Egg Capsule
+942	Soccer Ball PET
+943	Event Scroll
+944	Arua's Blessing
+945	Junon Order's Return Scroll
+946	Christmas Gift Box
+947	Net
+948	Adventurer Medal
+951	Perfect Repair Hammer
+952	Free Storage Coupon
+953	Storage Expansion Coupon
+954	Special Shop A Coupon
+955	Special Shop B Coupon
+956	Special Shop C Coupon
+957	Moldie Shop Coupon
+961	Damage Booster (Extra Max)
+962	Defense Booster (Extra Max)
+963	Speed Booster(Extra Max)
+964	HP&MP Booster (Extra Max)
+971	Hi!
+972	Bow
+973	Gracious Bow
+974	Laugh
+975	Fight Cheer
+976	Breakdown
+977	Tantrum
+978	Applause
+981	Mini Cherry Berry
+982	Cherry Berry
+983	Power Cherry Berry
+984	Super Cherry Berry
+985	Miracle Cherry Berry
+987	The year's first full moon cherry berry
+988	The year's first full moon cherry berry(Special)
+991	Firecracker
+992	Firecracker
+993	Firecracker
+994	Firecracker
+995	Firecracker
+997	ROSE Treasure Chest (S)
+998	ROSE Treasure Chest (M)
+999	ROSE Treasure Chest (L)
+

@@ -1,0 +1,895 @@
+2	White Gloves	Fingerless gloves made with white fabric.
+3	Leather Gloves	Fingerless gloves made out of leather.
+4	Dumb Gloves	Gloves that supposedly went out of fashion years ago.
+5	Safe Gloves	Thick mittens that keep one’s hands from getting hurt.
+6	Action Gloves	Fingerless gloves made out of stout leather.
+7	Full Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+8	Gray Gloves	Gray gloves that seem sturdy and dependable.
+9	Hill Gray Gloves	Gloves that have a piously grey color.
+10	Gloves of Iguje	Gloves which make its wearer more dexterous.
+11	Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+12	Venetian Gloves	Gloves favored by people who love to travel.
+13	Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+14	Junior Gloves	Gloves for students who attend magic school.
+15	Senior Gloves	Gloves for exemplary students who attend magic school.
+16	Redfield Green Gloves	Gloves for a true gentleman.
+17	Redfield Black Gloves	Gentlemanly gloves for a man of refined tastes.
+30	Durable Gloves	A tough pair of gloves that is known for its durability.
+31	Soldier Gloves	Basic gloves for soldiers.
+32	Iron Gauntlets	Gauntlets made out of iron.
+33	Trunket Gloves	Reliable gloves made out of iron.
+34	Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+35	Mighty Gauntlets	Light, yet reliable gauntlets.
+36	Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+37	Plate Gauntlets	The best gauntlets: well-designed and reliable.
+38	Cedric Gloves	Gloves designed by a famous swordman for use in battle.
+39	Execution Gloves	Gloves for warriors that must regularly battle against villains and scoundrels.
+40	Abyss Plate Gauntlets	Gauntlets forged out of a wondrous metal found at the bottom of an abyss.
+41	Rightous Plate Gauntlets	Gaunlets meant to be worn by warriors whose hearts know the true meaning of justice.
+42	Jabberwock Gauntlets	Gauntlets that shimmer freakily like the eyes of a madman.
+60	Fairy Gloves	Glove made by Arua Fairies
+61	Spiritual Gloves	Basic gloves for new Muses.
+62	Green Gloves of Witch	Gloves which are considerably popular among Mages.
+63	Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+64	Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+65	Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+66	Velvet Gloves of Witch	Gloves that contain powerful magic.
+67	Heaven's Gloves	Gloves said to be worn by those who have swooped down from the heavens.
+68	Joker Gloves	Gloves that are usually worn by swindlers and crooks.
+69	Mystic Weaver Gloves	Gloves designed for use by intermediate level Muses.
+70	Serenity Gloves	Gloves that enable its wearer to relax and focus just by wearing them.
+71	Archmage Gloves	Gloves that are especially crafted for advanced Muses.
+72	Dimple Gloves	A pair of cute, classy gloves made by a famous designer.
+90	Pirate Gloves	E$ssential for Pirate costume. It's a nice glove.
+91	Hunter Gloves	Basic gloves for Hawkers.
+92	Criker Gloves	Light mittens that are suitable for hunting.
+93	Ranger Gloves	Fashionable gloves for well-experienced hunters.
+94	Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+95	Mariner's Gloves	Gloves that are favored by people who love sailing.
+96	Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+97	Wild Hawker Gloves	Carrying the essence of freedom, these gloves are a necessity for the ultimate Hawker!
+98	Silent Walker Gloves	Gloves that are usually worn by those skilled in stealth and espionage.
+99	Triggerman Gloves	Gloves that are generally worn by hitmen.
+100	Captain Hawker Gloves	Gloves that are the mark of a capable and confident captain.
+101	Netherworld Gloves	Gloves designed for use by leaders of the underworld.
+102	Steel Resolve Gloves	Gloves suited to marksmen that live by the one shot, one kill credo.
+120	Fisher Gloves	
+121	Brown Gloves	Gloves for new merchants.
+122	Vibe Gloves	Gloves for people that just started to understand trading theory.
+123	Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+124	Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+125	Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+126	Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+127	Redfield Chairman Gloves	High-quality gloves for a person of high esteem. It commands respect!
+128	Bomber Gloves	Gloves that are worn by demolition experts.
+129	Cart Racer Gloves	Gloves that are very popular among Cart Racers.
+130	Bourgeois Gloves	Gloves that serve as symbols of wealth. Most people sigh out of jealousy when glancing at these gloves for the first time.
+131	Noble Lord Gloves	Gloves that are a symbol of honor, power, and prestige.
+132	Mana Steam Gloves	Specialty magic gloves that can directly manipulate Mana.
+152	Santa Gloves	Santa's gloves of choice. They're awfully merry.
+153	Adventurer's Gloves	A gift from villagers of Adventurer's Plain. They are hand made.(Quest Reward)
+164	White Santa Gloves	White gloves that Santa wears to give him the edge in terms of style.
+165	Snowboard Gloves	Protective gloves for the extreme sport of snowboarding.
+170	Fairy Gift Gloves	Special equipment given to Visitors that are invited by Arua's fairy.
+171	Fairy Bless Gloves	Special equipment given to Visitors that are invited by Arua's fairy.
+172	Clan War School Gloves	A pair of specially designed gloves that is given as a reward to those that advance to the final Clan match.
+173	Rudolph Gloves	A pair of gloves worn by the famous reindeer, Rudolph.
+180	Blue Santa Glove	Santa Gloves that are colored with the hue of the sky.
+181	Navy Blue Magic School Glove	Magic School Gloves that are colored dark blue.
+182	New Abyss Plate Gauntlets	Gauntlets made out advanced power from Star of Warrior.
+183	New Serenity Gloves	Gloves made of advanced power from Star of Magic.
+184	New Captain Gauntlets	Gauntlets made of advanced power from Star of Hunter.
+185	New Bourgeois Gloves	Gauntlets made of advanced power from Star of Merchant.
+186	White Magic School Gloves	Magic School Gloves that are colored white.
+187	Servant's Gloves	A pair of gloves that is typically worn by the caretakers of a nobleman's mansion.
+188	Boxing Gloves	Cheer Up!
+2002	Ancient White Gloves	Fingerless gloves made with white fabric.
+2003	Ancient Leather Gloves	Fingerless gloves made out of leather.
+2004	Ancient Dumb Gloves	Gloves that supposedly went out of fashion years ago.
+2005	Ancient Safe Gloves	Thick mittens that keep one’s hands from getting hurt.
+2006	Ancient Action Gloves	Fingerless gloves made out of stout leather.
+2007	Ancient Full Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+2008	Ancient Gray Gloves	Gray gloves that seem sturdy and dependable.
+2009	Ancient Hill Gray Gloves	Gloves that have a piously grey color.
+201	Elven Safe Gloves	Thick mittens that keep one’s hands from getting hurt.
+2010	Ancient Gloves of Iguje	Gloves which make its wearer more dexterous.
+2011	Ancient Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+2012	Ancient Venetian Gloves	Gloves favored by people who love to travel.
+2013	Ancient Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+2014	Ancient Junior Gloves	Gloves for students who attend magic school.
+2015	Ancient Senior Gloves	Gloves for exemplary students who attend magic school.
+2016	Ancient Redfield Green Gloves	Gloves for a true gentleman.
+2017	Ancient Redfield Black Gloves	Gentlemanly gloves for a man of refined tastes.
+202	Dark Action Gloves	Fingerless gloves made out of stout leather.
+203	Elven Action Gloves	Fingerless gloves made out of stout leather.
+2030	Ancient Durable Gloves	A tough pair of gloves that is known for its durability.
+2031	Ancient Soldier Gloves	Basic gloves for soldiers.
+2032	Ancient Iron Gauntlets	Gauntlets made out of iron.
+2033	Ancient Trunket Gloves	Reliable gloves made out of iron.
+2034	Ancient Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2035	Ancient Mighty Gauntlets	Light, yet reliable gauntlets.
+2036	Ancient Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+2037	Ancient Plate Gauntlets	The best gauntlets: well-designed and reliable.
+2038	Ancient Cedric Gloves	Gloves designed by a famous swordman for use in battle.
+2039	Ancient Execution Gloves	Gloves for warriors that must regularly battle against villains and scoundrels.
+204	Dark Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+2040	Ancient Abyss Plate Gauntlets	Gauntlets forged out of a wondrous metal found at the bottom of an abyss.
+2041	Ancient Rightous Plate Gauntlets	Gaunlets meant to be worn by warriors whose hearts know the true meaning of justice.
+205	Golden Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+206	Eleven Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+2060	Ancient Fairy Gloves	Glove made by Arua Fairies
+2061	Ancient Spiritual Gloves	Basic gloves for new Muses.
+2062	Ancient Green Gloves of Witch	Gloves which are considerably popular among Mages.
+2063	Ancient Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2064	Ancient Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2065	Ancient Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+2066	Ancient Velvet Gloves of Witch	Gloves that contain powerful magic.
+2067	Ancient Heaven's Gloves	Gloves said to be worn by those who have swooped down from the heavens.
+2068	Ancient Joker Gloves	Gloves that are usually worn by swindlers and crooks.
+2069	Ancient Mystic Weaver Gloves	Gloves designed for use by intermediate level Muses.
+207	Dark Gray Gloves	Gray gloves that seem sturdy and dependable.
+2070	Ancient Serenity Gloves	Gloves that enable its wearer to relax and focus just by wearing them.
+2071	Ancient Archmage Gloves	Gloves that are especially crafted for advanced Muses.
+208	Golden Gray Gloves	Gray gloves that seem sturdy and dependable.
+209	Elven Gray Gloves	Gray gloves that seem sturdy and dependable.
+2090	Ancient Pirate Gloves	E$ssential for Pirate costume. It's a nice glove.
+2091	Ancient Hunter Gloves	Basic gloves for Hawkers.
+2092	Ancient Criker Gloves	Light mittens that are suitable for hunting.
+2093	Ancient Ranger Gloves	Fashionable gloves for well-experienced hunters.
+2094	Ancient Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+2095	Ancient Mariner's Gloves	Gloves that are favored by people who love sailing.
+2096	Ancient Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+2097	Ancient Wild Hawker Gloves	Carrying the essence of freedom, these gloves are a necessity for the ultimate Hawker!
+2098	Ancient Silent Walker Gloves	Gloves that are usually worn by those skilled in stealth and espionage.
+2099	Ancient Triggerman Gloves	Gloves that are generally worn by hitmen.
+210	Dark Hill Gray Gloves	Gloves that have a piously grey color.
+2100	Ancient Captain Hawker Gloves	Gloves that are the mark of a capable and confident captain.
+2101	Ancient Netherworld Gloves	Gloves designed for use by leaders of the underworld.
+211	Golden Hill Gray Gloves	Gloves that have a piously grey color.
+212	Elven Hill Gray Gloves	Gloves that have a piously grey color.
+2120	Ancient Fisher Gloves	
+2121	Ancient Brown Gloves	Gloves for new merchants.
+2122	Ancient Vibe Gloves	Gloves for people that just started to understand trading theory.
+2123	Ancient Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+2124	Ancient Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+2125	Ancient Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+2126	Ancient Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+2127	Ancient Redfield Chairman Gloves	High-quality gloves for a person of high esteem. It commands respect!
+2128	Ancient Bomber Gloves	Gloves that are worn by demolition experts.
+2129	Ancient Cart Racer Gloves	Gloves that are very popular among Cart Racers.
+213	Dark Gloves of Iguje	Gloves which make its wearer more dexterous.
+2130	Ancient Bourgeois Gloves	Gloves that serve as symbols of wealth. Most people sigh out of jealousy when glancing at these gloves for the first time.
+2131	Ancient Noble Lord Gloves	Gloves that are a symbol of honor, power, and prestige.
+214	Golden Gloves of Iguje	Gloves which make its wearer more dexterous.
+215	Elven Gloves of Iguje	Gloves which make its wearer more dexterous.
+2152	Ancient Santa Gloves	Santa's gloves of choice. They're awfully merry.
+2153	Ancient Adventurer's Gloves	A gift from villagers of Adventurer's Plain. They are hand made.(Quest Reward)
+216	Dark Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+2164	Ancient White Santa Gloves	White gloves that Santa wears to give him the edge in terms of style.
+2165	Ancient Snowboard Gloves	Protective gloves for the extreme sport of snowboarding.
+217	Golden Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+218	Elven Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+2180	Ancient Blue Santa Glove	Santa Gloves that are colored with the hue of the sky.
+2181	Ancient Navy Blue Magic School Glove	Magic School Gloves that are colored dark blue.
+2182	Ancient New Abyss Plate Gauntlets	Gauntlets made out advanced power from Star of Warrior.
+2183	Ancient New Serenity Gloves	Gloves made of advanced power from Star of Magic.
+2184	Ancient New Captain Gauntlets	Gauntlets made of advanced power from Star of Hunter.
+2185	Ancient New Bourgeois Gloves	Gauntlets made of advanced power from Star of Merchant.
+2186	Ancient White Magic School Gloves	Magic School Gloves that are colored white.
+219	Dark Venetian Gloves	Gloves favored by people who love to travel.
+220	Golden Venetian Gloves	Gloves favored by people who love to travel.
+2201	Ancient Elven Safe Gloves	Thick mittens that keep one’s hands from getting hurt.
+2202	Ancient Dark Action Gloves	Fingerless gloves made out of stout leather.
+2203	Ancient Elven Action Gloves	Fingerless gloves made out of stout leather.
+2204	Ancient Dark Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+2205	Ancient Golden Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+2206	Ancient Eleven Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+2207	Ancient Dark Gray Gloves	Gray gloves that seem sturdy and dependable.
+2208	Ancient Golden Gray Gloves	Gray gloves that seem sturdy and dependable.
+2209	Ancient Elven Gray Gloves	Gray gloves that seem sturdy and dependable.
+221	Elven Venetian Gloves	Gloves favored by people who love to travel.
+2210	Ancient Dark Hill Gray Gloves	Gloves that have a piously grey color.
+2211	Ancient Golden Hill Gray Gloves	Gloves that have a piously grey color.
+2212	Ancient Elven Hill Gray Gloves	Gloves that have a piously grey color.
+2213	Ancient Dark Gloves of Iguje	Gloves which make its wearer more dexterous.
+2214	Ancient Golden Gloves of Iguje	Gloves which make its wearer more dexterous.
+2215	Ancient Elven Gloves of Iguje	Gloves which make its wearer more dexterous.
+2216	Ancient Dark Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+2217	Ancient Golden Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+2218	Ancient Elven Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+2219	Ancient Dark Venetian Gloves	Gloves favored by people who love to travel.
+222	Dark Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+2220	Ancient Golden Venetian Gloves	Gloves favored by people who love to travel.
+2221	Ancient Elven Venetian Gloves	Gloves favored by people who love to travel.
+2222	Ancient Dark Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+2223	Ancient Golden Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+2224	Ancient Elven Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+2225	Ancient Dark Junior Gloves	Gloves for typical magic school students.
+2226	Ancient Golden Junior Gloves	Gloves for more affluent magic school students.
+2227	Ancient Elven Junior Gloves	Gloves for students who attend magic school.
+2228	Ancient Dark Senior Gloves	Gloves for exemplary students who attend magic school.
+2229	Ancient Golden Senior Gloves	Gloves for affluent students who attend magic school.
+223	Golden Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+2230	Ancient Golden Senior Gloves	Gloves for affluent students who attend magic school.
+2231	Ancient Elven Senior Gloves	Gloves for prestigious students who attend magic school.
+224	Elven Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+225	Dark Junior Gloves	Gloves for typical magic school students.
+226	Golden Junior Gloves	Gloves for more affluent magic school students.
+227	Elven Junior Gloves	Gloves for students who attend magic school.
+228	Dark Senior Gloves	Gloves for exemplary students who attend magic school.
+229	Golden Senior Gloves	Gloves for affluent students who attend magic school.
+230	Golden Senior Gloves	Gloves for affluent students who attend magic school.
+2301	Ancient Soldier Gloves	Basic gloves for soldiers.
+2302	Ancient Soldier Gloves	Basic gloves for soldiers.
+2303	Ancient Soldier Gloves	Basic gloves for soldiers.
+2304	Ancient Elven Soldier Gloves	Basic gloves for soldiers.
+2305	Ancient Legend Soldier Gloves	Basic gloves for soldiers.
+2306	Ancient Holy Soldier Gloves	Basic gloves for soldiers.
+2307	Ancient Iron Gauntlets	Gauntlets made out of iron.
+2308	Ancient Iron Gauntlets	Gauntlets made out of iron.
+2309	Ancient Iron Gauntlets	Gauntlets made out of iron.
+231	Elven Senior Gloves	Gloves for prestigious students who attend magic school.
+2310	Ancient Elven Iron Gauntlets	Gauntlets made out of iron.
+2311	Ancient Saint Iron Gauntlets	Gauntlets made out of iron.
+2312	Ancient Legend Iron Gauntlets	Gauntlets made out of iron.
+2313	Ancient Holy Iron Gauntlets	Gauntlets made out of iron.
+2314	Ancient Trunket Gloves	Reliable gloves made out of iron.
+2315	Ancient Trunket Gloves	Reliable gloves made out of iron.
+2316	Ancient Trunket Gloves	Reliable gloves made out of iron.
+2317	Ancient Elven Trunket Gloves	Reliable gloves made out of iron.
+2318	Ancient Saint Trunket Gloves	Reliable gloves made out of iron.
+2319	Ancient Legend Trunket Gloves	Reliable gloves made out of iron.
+2320	Ancient Holy Trunket Gloves	Reliable gloves made out of iron.
+2321	Ancient Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2322	Ancient Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2323	Ancient Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2324	Ancient Elven Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2325	Ancient Saint Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2326	Ancient Legend Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2327	Ancient Holy Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2328	Ancient Mighty Gauntlets	Light, yet reliable gauntlets.
+2329	Ancient Mighty Gauntlets	Light, yet reliable gauntlets.
+2330	Ancient Mighty Gauntlets	Light, yet reliable gauntlets.
+2331	Ancient Golden Mighty Gauntlets	Light, yet reliable gauntlets.
+2332	Ancient Elven Mighty Gauntlets	Light, yet reliable gauntlets.
+2333	Ancient Saint Mighty Gauntlets	Light, yet reliable gauntlets.
+2334	Ancient Legend Mighty Gauntlets	Light, yet reliable gauntlets.
+2335	Ancient Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+2336	Ancient Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+2337	Ancient Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+2338	Ancient Golden Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+2339	Ancient Elven Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+2340	Ancient Saint Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+2341	Ancient Legend Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+2342	Ancient Plate Gauntlets	The best gauntlets: well-designed and reliable.
+2343	Ancient Plate Gauntlets	The best gauntlets: well-designed and reliable.
+2344	Ancient Plate Gauntlets	The best gauntlets: well-designed and reliable.
+2345	Ancient Golden Plate Gauntlets	The best gauntlets: well-designed and reliable.
+2346	Ancient Elven Plate Gauntlets	The best gauntlets: well-designed and reliable.
+2347	Ancient Saint Plate Gauntlets	The best gauntlets: well-designed and reliable.
+2348	Ancient Legend Plate Gauntlets	The best gauntlets: well-designed and reliable.
+2401	Ancient Spiritual Gloves	Basic gloves for new Muses.
+2402	Ancient Spiritual Gloves	Basic gloves for new Muses.
+2403	Ancient Spiritual Gloves	Basic gloves for new Muses.
+2404	Ancient Elven Spiritual Gloves	Basic gloves for new Muses.
+2405	Ancient Legend Spiritual Gloves	Basic gloves for new Muses.
+2406	Ancient Holy Spiritual Gloves	Basic gloves for new Muses.
+2407	Ancient Green Gloves of Witch	Gloves which are considerably popular among Mages.
+2408	Ancient Green Gloves of Witch	Gloves which are considerably popular among Mages.
+2409	Ancient Green Gloves of Witch	Gloves which are considerably popular among Mages.
+2410	Ancient Elven Green Gloves of Witch	Gloves which are considerably popular among Mages.
+2411	Ancient Saint Green Gloves of Witch	Gloves which are considerably popular among Mages.
+2412	Ancient Legend Green Gloves of Witch	Gloves which are considerably popular among Mages.
+2413	Ancient Holy Green Gloves of Witch	Gloves which are considerably popular among Mages.
+2414	Ancient Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2415	Ancient Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2416	Ancient Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2417	Ancient Elven Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2418	Ancient Saint Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2419	Ancient Legend Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2420	Ancient Holy Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2421	Ancient Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2422	Ancient Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2423	Ancient Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2424	Ancient Elven Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2425	Ancient Saint Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2426	Ancient Legend Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2427	Ancient Holy Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2428	Ancient Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+2429	Ancient Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+2430	Ancient Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+2431	Ancient Golden Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+2432	Ancient Elven Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+2433	Ancient Saint Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+2434	Ancient Legend Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+2435	Ancient Velvet Gloves of Witch	Gloves that contain powerful magic.
+2436	Ancient Velvet Gloves of Witch	Gloves that contain powerful magic.
+2437	Ancient Velvet Gloves of Witch	Gloves that contain powerful magic.
+2438	Ancient Golden Velvet Gloves of Witch	Gloves that contain powerful magic.
+2439	Ancient Elven Velvet Gloves of Witch	Gloves that contain powerful magic.
+2440	Ancient Saint Velvet Gloves of Witch	Gloves that contain powerful magic.
+2441	Ancient Legend Velvet Gloves of Witch	Gloves that contain powerful magic.
+2501	Ancient Hunter Gloves	Basic gloves for Hawkers.
+2502	Ancient Hunter Gloves	Basic gloves for Hawkers.
+2503	Ancient Hunter Gloves	Basic gloves for Hawkers.
+2504	Ancient Elven Hunter Gloves	Basic gloves for Hawkers.
+2505	Ancient Legend Hunter Gloves	Basic gloves for Hawkers.
+2506	Ancient Holy Hunter Gloves	Basic gloves for Hawkers.
+2507	Ancient Criker Gloves	Light mittens that are suitable for hunting.
+2508	Ancient Criker Gloves	Light mittens that are suitable for hunting.
+2509	Ancient Criker Gloves	Light mittens that are suitable for hunting.
+2510	Ancient Eleven Criker Gloves	Light mittens that are suitable for hunting.
+2511	Ancient Saint Criker Gloves	Light mittens that are suitable for hunting.
+2512	Ancient Legend Criker Gloves	Light mittens that are suitable for hunting.
+2513	Ancient Holy Criker Gloves	Light mittens that are suitable for hunting.
+2514	Ancient Ranger Gloves	Fashionable gloves for well-experienced hunters.
+2515	Ancient Ranger Gloves	Fashionable gloves for well-experienced hunters.
+2516	Ancient Ranger Gloves	Fashionable gloves for well-experienced hunters.
+2517	Ancient Elven Ranger Gloves	Fashionable gloves for well-experienced hunters.
+2518	Ancient Saint Ranger Gloves	Fashionable gloves for well-experienced hunters.
+2519	Ancient Legend Ranger Gloves	Fashionable gloves for well-experienced hunters.
+2520	Ancient Holy Ranger Gloves	Fashionable gloves for well-experienced hunters.
+2521	Ancient Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+2522	Ancient Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+2523	Ancient Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+2524	Ancient Elven Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+2525	Ancient Saint Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+2526	Ancient Legend Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+2527	Ancient Legend Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+2528	Ancient Mariner's Gloves	Gloves that are favored by people who love sailing.
+2529	Ancient Mariner's Gloves	Gloves that are favored by people who love sailing.
+2530	Ancient Mariner's Gloves	Gloves that are favored by people who love sailing.
+2531	Ancient Golden Mariner's Gloves	Gloves that are favored by people who love sailing.
+2532	Ancient Elven Mariner's Gloves	Gloves that are favored by people who love sailing.
+2533	Ancient Saint Mariner's Gloves	Gloves that are favored by people who love sailing.
+2534	Ancient Legend Mariner's Gloves	Gloves that are favored by people who love sailing.
+2535	Ancient Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+2536	Ancient Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+2537	Ancient Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+2538	Ancient Golden Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+2539	Ancient Elven Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+2540	Ancient Saint Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+2541	Ancient Legend Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+2601	Ancient Brown Gloves	Gloves for new merchants.
+2602	Ancient Brown Gloves	Gloves for new merchants.
+2603	Ancient Brown Gloves	Gloves for new merchants.
+2604	Ancient Elven Brown Gloves	Gloves for new merchants.
+2605	Ancient Legend Brown Gloves	Gloves for new merchants.
+2606	Ancient Holy Brown Gloves	Gloves for new merchants.
+2607	Ancient Vibe Gloves	Gloves for people that just started to understand trading theory.
+2608	Ancient Vibe Gloves	Gloves for people that just started to understand trading theory.
+2609	Ancient Vibe Gloves	Gloves for people that just started to understand trading theory.
+2610	Ancient Elven Vibe Gloves	Gloves for people that just started to understand trading theory.
+2611	Ancient Saint Vibe Gloves	Gloves for people that just started to understand trading theory.
+2612	Ancient Legend Vibe Gloves	Gloves for people that just started to understand trading theory.
+2613	Ancient Holy Vibe Gloves	Gloves for people that just started to understand trading theory.
+2614	Ancient Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+2615	Ancient Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+2616	Ancient Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+2617	Ancient Elven Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+2618	Ancient Saint Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+2619	Ancient Legend Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+2620	Ancient Holy Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+2621	Ancient Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+2622	Ancient Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+2623	Ancient Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+2624	Ancient Elven Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+2625	Ancient Saint Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+2626	Ancient Legend Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+2627	Ancient Holy Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+2628	Ancient Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+2629	Ancient Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+2630	Ancient Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+2631	Ancient Golden Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+2632	Ancient Elven Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+2633	Ancient Saint Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+2634	Ancient Legend Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+2635	Ancient Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+2636	Ancient Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+2637	Ancient Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+2638	Ancient Golden Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+2639	Ancient Elven Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+2640	Ancient Saint Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+2641	Ancient Legend Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+2642		
+2643	Ancient Mercenary Gloves	Reliable gloves made out of iron.
+2644	Ancient Warlord Gauntlets	Well-made gauntlets made out of a mysterious metal.
+2645	Ancient Tyrant Gauntlets	Light, yet reliable gauntlets for iron fisted rulers.
+2646	Ancient Sparkly Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+2647	Ancient Shiny Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+2648	Ancient Gloves of Wisdom	Gloves that are rumored to cover its wearer in shadow.
+2649	Ancient Nimble Gloves	Fashionable gloves for well-experienced hunters.
+2650	Ancient Gloves of Sagittarius	Gloves that are favored by pirates of the black sea.
+2651	Ancient Commodore Gloves	Gloves that are favored by people who love sailing.
+2652	Ancient Repairman Gloves	Thick, lightweight gloves for young peddlers.
+2653	Ancient Craftsman Gloves	Thick, lightweight gloves for intermediate peddlers.
+2654	Ancient Supplier Gloves	Sophisticated gloves for well-experienced peddlers.
+3002	Ancient White Gloves	Fingerless gloves made with white fabric.
+3003	Ancient Leather Gloves	Fingerless gloves made out of leather.
+3004	Ancient Dumb Gloves	Gloves that supposedly went out of fashion years ago.
+3005	Ancient Safe Gloves	Thick mittens that keep one’s hands from getting hurt.
+3006	Ancient Action Gloves	Fingerless gloves made out of stout leather.
+3007	Ancient Full Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+3008	Ancient Gray Gloves	Gray gloves that seem sturdy and dependable.
+3009	Ancient Hill Gray Gloves	Gloves that have a piously grey color.
+301	Soldier Gloves	Basic gloves for soldiers.
+3010	Ancient Gloves of Iguje	Gloves which make its wearer more dexterous.
+3011	Ancient Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+3012	Ancient Venetian Gloves	Gloves favored by people who love to travel.
+3013	Ancient Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+3014	Ancient Junior Gloves	Gloves for students who attend magic school.
+3015	Ancient Senior Gloves	Gloves for exemplary students who attend magic school.
+3016	Ancient Redfield Green Gloves	Gloves for a true gentleman.
+3017	Ancient Redfield Black Gloves	Gentlemanly gloves for a man of refined tastes.
+302	Soldier Gloves	Basic gloves for soldiers.
+303	Soldier Gloves	Basic gloves for soldiers.
+3030	Ancient Durable Gloves	A tough pair of gloves that is known for its durability.
+3031	Ancient Soldier Gloves	Basic gloves for soldiers.
+3032	Ancient Iron Gauntlets	Gauntlets made out of iron.
+3033	Ancient Trunket Gloves	Reliable gloves made out of iron.
+3034	Ancient Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3035	Ancient Mighty Gauntlets	Light, yet reliable gauntlets.
+3036	Ancient Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3037	Ancient Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3038	Ancient Cedric Gloves	Gloves designed by a famous swordman for use in battle.
+3039	Ancient Execution Gloves	Gloves for warriors that must regularly battle against villains and scoundrels.
+304	Elven Soldier Gloves	Basic gloves for soldiers.
+3040	Ancient Abyss Plate Gauntlets	Gauntlets forged out of a wondrous metal found at the bottom of an abyss.
+3041	Ancient Rightous Plate Gauntlets	Gaunlets meant to be worn by warriors whose hearts know the true meaning of justice.
+305	Legend Soldier Gloves	Basic gloves for soldiers.
+306	Holy Soldier Gloves	Basic gloves for soldiers.
+3060	Ancient Fairy Gloves	Glove made by Arua Fairies
+3061	Ancient Spiritual Gloves	Basic gloves for new Muses.
+3062	Ancient Green Gloves of Witch	Gloves which are considerably popular among Mages.
+3063	Ancient Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+3064	Ancient Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3065	Ancient Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+3066	Ancient Velvet Gloves of Witch	Gloves that contain powerful magic.
+3067	Ancient Heaven's Gloves	Gloves said to be worn by those who have swooped down from the heavens.
+3068	Ancient Joker Gloves	Gloves that are usually worn by swindlers and crooks.
+3069	Ancient Mystic Weaver Gloves	Gloves designed for use by intermediate level Muses.
+307	Iron Gauntlets	Gauntlets made out of iron.
+3070	Ancient Serenity Gloves	Gloves that enable its wearer to relax and focus just by wearing them.
+3071	Ancient Archmage Gloves	Gloves that are especially crafted for advanced Muses.
+308	Iron Gauntlets	Gauntlets made out of iron.
+309	Iron Gauntlets	Gauntlets made out of iron.
+3090	Ancient Pirate Gloves	E$ssential for Pirate costume. It's a nice glove.
+3091	Ancient Hunter Gloves	Basic gloves for Hawkers.
+3092	Ancient Criker Gloves	Light mittens that are suitable for hunting.
+3093	Ancient Ranger Gloves	Fashionable gloves for well-experienced hunters.
+3094	Ancient Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+3095	Ancient Mariner's Gloves	Gloves that are favored by people who love sailing.
+3096	Ancient Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+3097	Ancient Wild Hawker Gloves	Carrying the essence of freedom, these gloves are a necessity for the ultimate Hawker!
+3098	Ancient Silent Walker Gloves	Gloves that are usually worn by those skilled in stealth and espionage.
+3099	Ancient Triggerman Gloves	Gloves that are generally worn by hitmen.
+310	Elven Iron Gauntlets	Gauntlets made out of iron.
+3100	Ancient Captain Hawker Gloves	Gloves that are the mark of a capable and confident captain.
+3101	Ancient Netherworld Gloves	Gloves designed for use by leaders of the underworld.
+311	Saint Iron Gauntlets	Gauntlets made out of iron.
+312	Legend Iron Gauntlets	Gauntlets made out of iron.
+3120	Ancient Fisher Gloves	
+3121	Ancient Brown Gloves	Gloves for new merchants.
+3122	Ancient Vibe Gloves	Gloves for people that just started to understand trading theory.
+3123	Ancient Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+3124	Ancient Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+3125	Ancient Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+3126	Ancient Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+3127	Ancient Redfield Chairman Gloves	High-quality gloves for a person of high esteem. It commands respect!
+3128	Ancient Bomber Gloves	Gloves that are worn by demolition experts.
+3129	Ancient Cart Racer Gloves	Gloves that are very popular among Cart Racers.
+313	Holy Iron Gauntlets	Gauntlets made out of iron.
+3130	Ancient Bourgeois Gloves	Gloves that serve as symbols of wealth. Most people sigh out of jealousy when glancing at these gloves for the first time.
+3131	Ancient Noble Lord Gloves	Gloves that are a symbol of honor, power, and prestige.
+314	Trunket Gloves	Reliable gloves made out of iron.
+315	Trunket Gloves	Reliable gloves made out of iron.
+3152	Ancient Santa Gloves	Santa's gloves of choice. They're awfully merry.
+3153	Ancient Adventurer's Gloves	A gift from villagers of Adventurer's Plain. They are hand made.(Quest Reward)
+316	Trunket Gloves	Reliable gloves made out of iron.
+3164	Ancient White Santa Gloves	White gloves that Santa wears to give him the edge in terms of style.
+3165	Ancient Snowboard Gloves	Protective gloves for the extreme sport of snowboarding.
+317	Elven Trunket Gloves	Reliable gloves made out of iron.
+318	Saint Trunket Gloves	Reliable gloves made out of iron.
+3180	Ancient Blue Santa Glove	Santa Gloves that are colored with the hue of the sky.
+3181	Ancient Navy Blue Magic School Glove	Magic School Gloves that are colored dark blue.
+3182	Ancient New Abyss Plate Gauntlets	Gauntlets made out advanced power from Star of Warrior.
+3183	Ancient New Serenity Gloves	Gloves made of advanced power from Star of Magic.
+3184	Ancient New Captain Gauntlets	Gauntlets made of advanced power from Star of Hunter.
+3185	Ancient New Bourgeois Gloves	Gauntlets made of advanced power from Star of Merchant.
+3186	Ancient White Magic School Gloves	Magic School Gloves that are colored white.
+319	Legend Trunket Gloves	Reliable gloves made out of iron.
+320	Holy Trunket Gloves	Reliable gloves made out of iron.
+3201	Ancient Elven Safe Gloves	Thick mittens that keep one’s hands from getting hurt.
+3202	Ancient Dark Action Gloves	Fingerless gloves made out of stout leather.
+3203	Ancient Elven Action Gloves	Fingerless gloves made out of stout leather.
+3204	Ancient Dark Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+3205	Ancient Golden Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+3206	Ancient Eleven Action Gloves	Fingerless gloves made out of stout, yet flexible leather.
+3207	Ancient Dark Gray Gloves	Gray gloves that seem sturdy and dependable.
+3208	Ancient Golden Gray Gloves	Gray gloves that seem sturdy and dependable.
+3209	Ancient Elven Gray Gloves	Gray gloves that seem sturdy and dependable.
+321	Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3210	Ancient Dark Hill Gray Gloves	Gloves that have a piously grey color.
+3211	Ancient Golden Hill Gray Gloves	Gloves that have a piously grey color.
+3212	Ancient Elven Hill Gray Gloves	Gloves that have a piously grey color.
+3213	Ancient Dark Gloves of Iguje	Gloves which make its wearer more dexterous.
+3214	Ancient Golden Gloves of Iguje	Gloves which make its wearer more dexterous.
+3215	Ancient Elven Gloves of Iguje	Gloves which make its wearer more dexterous.
+3216	Ancient Dark Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+3217	Ancient Golden Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+3218	Ancient Elven Islamic Gloves	Gloves which make its wearer more suave and dexterous.
+3219	Ancient Dark Venetian Gloves	Gloves favored by people who love to travel.
+322	Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3220	Ancient Golden Venetian Gloves	Gloves favored by people who love to travel.
+3221	Ancient Elven Venetian Gloves	Gloves favored by people who love to travel.
+3222	Ancient Dark Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+3223	Ancient Golden Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+3224	Ancient Elven Luxurious Venetian Gloves	Gloves favored by people who love to travel in comfort.
+3225	Ancient Dark Junior Gloves	Gloves for typical magic school students.
+3226	Ancient Golden Junior Gloves	Gloves for more affluent magic school students.
+3227	Ancient Elven Junior Gloves	Gloves for students who attend magic school.
+3228	Ancient Dark Senior Gloves	Gloves for exemplary students who attend magic school.
+3229	Ancient Golden Senior Gloves	Gloves for affluent students who attend magic school.
+323	Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3230	Ancient Golden Senior Gloves	Gloves for affluent students who attend magic school.
+3231	Ancient Elven Senior Gloves	Gloves for prestigious students who attend magic school.
+324	Elven Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+325	Saint Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+326	Legend Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+327	Holy Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+328	Mighty Gauntlets	Light, yet reliable gauntlets.
+329	Mighty Gauntlets	Light, yet reliable gauntlets.
+330	Mighty Gauntlets	Light, yet reliable gauntlets.
+3301	Ancient Soldier Gloves	Basic gloves for soldiers.
+3302	Ancient Soldier Gloves	Basic gloves for soldiers.
+3303	Ancient Soldier Gloves	Basic gloves for soldiers.
+3304	Ancient Elven Soldier Gloves	Basic gloves for soldiers.
+3305	Ancient Legend Soldier Gloves	Basic gloves for soldiers.
+3306	Ancient Holy Soldier Gloves	Basic gloves for soldiers.
+3307	Ancient Iron Gauntlets	Gauntlets made out of iron.
+3308	Ancient Iron Gauntlets	Gauntlets made out of iron.
+3309	Ancient Iron Gauntlets	Gauntlets made out of iron.
+331	Golden Mighty Gauntlets	Light, yet reliable gauntlets.
+3310	Ancient Elven Iron Gauntlets	Gauntlets made out of iron.
+3311	Ancient Saint Iron Gauntlets	Gauntlets made out of iron.
+3312	Ancient Legend Iron Gauntlets	Gauntlets made out of iron.
+3313	Ancient Holy Iron Gauntlets	Gauntlets made out of iron.
+3314	Ancient Trunket Gloves	Reliable gloves made out of iron.
+3315	Ancient Trunket Gloves	Reliable gloves made out of iron.
+3316	Ancient Trunket Gloves	Reliable gloves made out of iron.
+3317	Ancient Elven Trunket Gloves	Reliable gloves made out of iron.
+3318	Ancient Saint Trunket Gloves	Reliable gloves made out of iron.
+3319	Ancient Legend Trunket Gloves	Reliable gloves made out of iron.
+332	Elven Mighty Gauntlets	Light, yet reliable gauntlets.
+3320	Ancient Holy Trunket Gloves	Reliable gloves made out of iron.
+3321	Ancient Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3322	Ancient Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3323	Ancient Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3324	Ancient Elven Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3325	Ancient Saint Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3326	Ancient Legend Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3327	Ancient Holy Chrome Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3328	Ancient Mighty Gauntlets	Light, yet reliable gauntlets.
+3329	Ancient Mighty Gauntlets	Light, yet reliable gauntlets.
+333	Saint Mighty Gauntlets	Light, yet reliable gauntlets.
+3330	Ancient Mighty Gauntlets	Light, yet reliable gauntlets.
+3331	Ancient Golden Mighty Gauntlets	Light, yet reliable gauntlets.
+3332	Ancient Elven Mighty Gauntlets	Light, yet reliable gauntlets.
+3333	Ancient Saint Mighty Gauntlets	Light, yet reliable gauntlets.
+3334	Ancient Legend Mighty Gauntlets	Light, yet reliable gauntlets.
+3335	Ancient Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3336	Ancient Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3337	Ancient Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3338	Ancient Golden Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3339	Ancient Elven Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+334	Legend Mighty Gauntlets	Light, yet reliable gauntlets.
+3340	Ancient Saint Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3341	Ancient Legend Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3342	Ancient Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3343	Ancient Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3344	Ancient Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3345	Ancient Golden Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3346	Ancient Elven Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3347	Ancient Saint Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3348	Ancient Legend Plate Gauntlets	The best gauntlets: well-designed and reliable.
+335	Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+336	Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+337	Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+338	Golden Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+339	Elven Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+340	Saint Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3401	Ancient Spiritual Gloves	Basic gloves for new Muses.
+3402	Ancient Spiritual Gloves	Basic gloves for new Muses.
+3403	Ancient Spiritual Gloves	Basic gloves for new Muses.
+3404	Ancient Elven Spiritual Gloves	Basic gloves for new Muses.
+3405	Ancient Legend Spiritual Gloves	Basic gloves for new Muses.
+3406	Ancient Holy Spiritual Gloves	Basic gloves for new Muses.
+3407	Ancient Green Gloves of Witch	Gloves which are considerably popular among Mages.
+3408	Ancient Green Gloves of Witch	Gloves which are considerably popular among Mages.
+3409	Ancient Green Gloves of Witch	Gloves which are considerably popular among Mages.
+341	Legend Kurash Gauntlets	Gauntlets, made out of tough steel, which can also be used as weapons.
+3410	Ancient Elven Green Gloves of Witch	Gloves which are considerably popular among Mages.
+3411	Ancient Saint Green Gloves of Witch	Gloves which are considerably popular among Mages.
+3412	Ancient Legend Green Gloves of Witch	Gloves which are considerably popular among Mages.
+3413	Ancient Holy Green Gloves of Witch	Gloves which are considerably popular among Mages.
+3414	Ancient Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+3415	Ancient Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+3416	Ancient Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+3417	Ancient Elven Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+3418	Ancient Saint Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+3419	Ancient Legend Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+342	Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3420	Ancient Holy Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+3421	Ancient Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3422	Ancient Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3423	Ancient Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3424	Ancient Elven Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3425	Ancient Saint Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3426	Ancient Legend Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3427	Ancient Holy Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3428	Ancient Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+3429	Ancient Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+343	Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3430	Ancient Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+3431	Ancient Golden Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+3432	Ancient Elven Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+3433	Ancient Saint Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+3434	Ancient Legend Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+3435	Ancient Velvet Gloves of Witch	Gloves that contain powerful magic.
+3436	Ancient Velvet Gloves of Witch	Gloves that contain powerful magic.
+3437	Ancient Velvet Gloves of Witch	Gloves that contain powerful magic.
+3438	Ancient Golden Velvet Gloves of Witch	Gloves that contain powerful magic.
+3439	Ancient Elven Velvet Gloves of Witch	Gloves that contain powerful magic.
+344	Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3440	Ancient Saint Velvet Gloves of Witch	Gloves that contain powerful magic.
+3441	Ancient Legend Velvet Gloves of Witch	Gloves that contain powerful magic.
+345	Golden Plate Gauntlets	The best gauntlets: well-designed and reliable.
+346	Elven Plate Gauntlets	The best gauntlets: well-designed and reliable.
+347	Saint Plate Gauntlets	The best gauntlets: well-designed and reliable.
+348	Legend Plate Gauntlets	The best gauntlets: well-designed and reliable.
+3501	Ancient Hunter Gloves	Basic gloves for Hawkers.
+3502	Ancient Hunter Gloves	Basic gloves for Hawkers.
+3503	Ancient Hunter Gloves	Basic gloves for Hawkers.
+3504	Ancient Elven Hunter Gloves	Basic gloves for Hawkers.
+3505	Ancient Legend Hunter Gloves	Basic gloves for Hawkers.
+3506	Ancient Holy Hunter Gloves	Basic gloves for Hawkers.
+3507	Ancient Criker Gloves	Light mittens that are suitable for hunting.
+3508	Ancient Criker Gloves	Light mittens that are suitable for hunting.
+3509	Ancient Criker Gloves	Light mittens that are suitable for hunting.
+3510	Ancient Eleven Criker Gloves	Light mittens that are suitable for hunting.
+3511	Ancient Saint Criker Gloves	Light mittens that are suitable for hunting.
+3512	Ancient Legend Criker Gloves	Light mittens that are suitable for hunting.
+3513	Ancient Holy Criker Gloves	Light mittens that are suitable for hunting.
+3514	Ancient Ranger Gloves	Fashionable gloves for well-experienced hunters.
+3515	Ancient Ranger Gloves	Fashionable gloves for well-experienced hunters.
+3516	Ancient Ranger Gloves	Fashionable gloves for well-experienced hunters.
+3517	Ancient Elven Ranger Gloves	Fashionable gloves for well-experienced hunters.
+3518	Ancient Saint Ranger Gloves	Fashionable gloves for well-experienced hunters.
+3519	Ancient Legend Ranger Gloves	Fashionable gloves for well-experienced hunters.
+3520	Ancient Holy Ranger Gloves	Fashionable gloves for well-experienced hunters.
+3521	Ancient Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+3522	Ancient Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+3523	Ancient Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+3524	Ancient Elven Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+3525	Ancient Saint Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+3526	Ancient Legend Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+3527	Ancient Legend Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+3528	Ancient Mariner's Gloves	Gloves that are favored by people who love sailing.
+3529	Ancient Mariner's Gloves	Gloves that are favored by people who love sailing.
+3530	Ancient Mariner's Gloves	Gloves that are favored by people who love sailing.
+3531	Ancient Golden Mariner's Gloves	Gloves that are favored by people who love sailing.
+3532	Ancient Elven Mariner's Gloves	Gloves that are favored by people who love sailing.
+3533	Ancient Saint Mariner's Gloves	Gloves that are favored by people who love sailing.
+3534	Ancient Legend Mariner's Gloves	Gloves that are favored by people who love sailing.
+3535	Ancient Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+3536	Ancient Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+3537	Ancient Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+3538	Ancient Golden Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+3539	Ancient Elven Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+3540	Ancient Saint Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+3541	Ancient Legend Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+3601	Ancient Brown Gloves	Gloves for new merchants.
+3602	Ancient Brown Gloves	Gloves for new merchants.
+3603	Ancient Brown Gloves	Gloves for new merchants.
+3604	Ancient Elven Brown Gloves	Gloves for new merchants.
+3605	Ancient Legend Brown Gloves	Gloves for new merchants.
+3606	Ancient Holy Brown Gloves	Gloves for new merchants.
+3607	Ancient Vibe Gloves	Gloves for people that just started to understand trading theory.
+3608	Ancient Vibe Gloves	Gloves for people that just started to understand trading theory.
+3609	Ancient Vibe Gloves	Gloves for people that just started to understand trading theory.
+3610	Ancient Elven Vibe Gloves	Gloves for people that just started to understand trading theory.
+3611	Ancient Saint Vibe Gloves	Gloves for people that just started to understand trading theory.
+3612	Ancient Legend Vibe Gloves	Gloves for people that just started to understand trading theory.
+3613	Ancient Holy Vibe Gloves	Gloves for people that just started to understand trading theory.
+3614	Ancient Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+3615	Ancient Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+3616	Ancient Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+3617	Ancient Elven Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+3618	Ancient Saint Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+3619	Ancient Legend Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+3620	Ancient Holy Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+3621	Ancient Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+3622	Ancient Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+3623	Ancient Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+3624	Ancient Elven Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+3625	Ancient Saint Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+3626	Ancient Legend Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+3627	Ancient Holy Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+3628	Ancient Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+3629	Ancient Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+3630	Ancient Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+3631	Ancient Golden Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+3632	Ancient Elven Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+3633	Ancient Saint Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+3634	Ancient Legend Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+3635	Ancient Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+3636	Ancient Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+3637	Ancient Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+3638	Ancient Golden Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+3639	Ancient Elven Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+3640	Ancient Saint Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+3641	Ancient Legend Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+3642		
+3643	Ancient Mercenary Gloves	Reliable gloves made out of iron.
+3644	Ancient Warlord Gauntlets	Well-made gauntlets made out of a mysterious metal.
+3645	Ancient Tyrant Gauntlets	Light, yet reliable gauntlets for iron fisted rulers.
+3646	Ancient Sparkly Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+3647	Ancient Shiny Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+3648	Ancient Gloves of Wisdom	Gloves that are rumored to cover its wearer in shadow.
+3649	Ancient Nimble Gloves	Fashionable gloves for well-experienced hunters.
+3650	Ancient Gloves of Sagittarius	Gloves that are favored by pirates of the black sea.
+3651	Ancient Commodore Gloves	Gloves that are favored by people who love sailing.
+3652	Ancient Repairman Gloves	Thick, lightweight gloves for young peddlers.
+3653	Ancient Craftsman Gloves	Thick, lightweight gloves for intermediate peddlers.
+3654	Ancient Supplier Gloves	Sophisticated gloves for well-experienced peddlers.
+401	Spiritual Gloves	Basic gloves for new Muses.
+402	Spiritual Gloves	Basic gloves for new Muses.
+403	Spiritual Gloves	Basic gloves for new Muses.
+404	Elven Spiritual Gloves	Basic gloves for new Muses.
+405	Legend Spiritual Gloves	Basic gloves for new Muses.
+406	Holy Spiritual Gloves	Basic gloves for new Muses.
+407	Green Gloves of Witch	Gloves which are considerably popular among Mages.
+408	Green Gloves of Witch	Gloves which are considerably popular among Mages.
+409	Green Gloves of Witch	Gloves which are considerably popular among Mages.
+410	Elven Green Gloves of Witch	Gloves which are considerably popular among Mages.
+411	Saint Green Gloves of Witch	Gloves which are considerably popular among Mages.
+412	Legend Green Gloves of Witch	Gloves which are considerably popular among Mages.
+413	Holy Green Gloves of Witch	Gloves which are considerably popular among Mages.
+414	Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+415	Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+416	Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+417	Elven Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+418	Saint Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+419	Legend Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+420	Holy Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+421	Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+422	Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+423	Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+424	Elven Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+425	Saint Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+426	Legend Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+427	Holy Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+428	Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+429	Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+430	Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+431	Golden Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+432	Elven Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+433	Saint Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+434	Legend Gloves of Shadow	Gloves that are rumored to cover its wearer in shadow.
+435	Velvet Gloves of Witch	Gloves that contain powerful magic.
+436	Velvet Gloves of Witch	Gloves that contain powerful magic.
+437	Velvet Gloves of Witch	Gloves that contain powerful magic.
+438	Golden Velvet Gloves of Witch	Gloves that contain powerful magic.
+439	Elven Velvet Gloves of Witch	Gloves that contain powerful magic.
+440	Saint Velvet Gloves of Witch	Gloves that contain powerful magic.
+441	Legend Velvet Gloves of Witch	Gloves that contain powerful magic.
+501	Hunter Gloves	Basic gloves for Hawkers.
+502	Hunter Gloves	Basic gloves for Hawkers.
+503	Hunter Gloves	Basic gloves for Hawkers.
+504	Elven Hunter Gloves	Basic gloves for Hawkers.
+505	Legend Hunter Gloves	Basic gloves for Hawkers.
+506	Holy Hunter Gloves	Basic gloves for Hawkers.
+507	Criker Gloves	Light mittens that are suitable for hunting.
+508	Criker Gloves	Light mittens that are suitable for hunting.
+509	Criker Gloves	Light mittens that are suitable for hunting.
+510	Eleven Criker Gloves	Light mittens that are suitable for hunting.
+511	Saint Criker Gloves	Light mittens that are suitable for hunting.
+512	Legend Criker Gloves	Light mittens that are suitable for hunting.
+513	Holy Criker Gloves	Light mittens that are suitable for hunting.
+514	Ranger Gloves	Fashionable gloves for well-experienced hunters.
+515	Ranger Gloves	Fashionable gloves for well-experienced hunters.
+516	Ranger Gloves	Fashionable gloves for well-experienced hunters.
+517	Elven Ranger Gloves	Fashionable gloves for well-experienced hunters.
+518	Saint Ranger Gloves	Fashionable gloves for well-experienced hunters.
+519	Legend Ranger Gloves	Fashionable gloves for well-experienced hunters.
+520	Holy Ranger Gloves	Fashionable gloves for well-experienced hunters.
+521	Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+522	Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+523	Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+524	Elven Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+525	Saint Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+526	Legend Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+527	Legend Black Pirate Gloves	Gloves that are favored by pirates of the black sea.
+528	Mariner's Gloves	Gloves that are favored by people who love sailing.
+529	Mariner's Gloves	Gloves that are favored by people who love sailing.
+530	Mariner's Gloves	Gloves that are favored by people who love sailing.
+531	Golden Mariner's Gloves	Gloves that are favored by people who love sailing.
+532	Elven Mariner's Gloves	Gloves that are favored by people who love sailing.
+533	Saint Mariner's Gloves	Gloves that are favored by people who love sailing.
+534	Legend Mariner's Gloves	Gloves that are favored by people who love sailing.
+535	Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+536	Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+537	Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+538	Golden Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+539	Elven Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+540	Saint Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+541	Legend Jaguar Gloves	Gloves that enable its wearer to move as quickly as a jaguar.
+601	Brown Gloves	Gloves for new merchants.
+602	Brown Gloves	Gloves for new merchants.
+603	Brown Gloves	Gloves for new merchants.
+604	Elven Brown Gloves	Gloves for new merchants.
+605	Legend Brown Gloves	Gloves for new merchants.
+606	Holy Brown Gloves	Gloves for new merchants.
+607	Vibe Gloves	Gloves for people that just started to understand trading theory.
+608	Vibe Gloves	Gloves for people that just started to understand trading theory.
+609	Vibe Gloves	Gloves for people that just started to understand trading theory.
+610	Elven Vibe Gloves	Gloves for people that just started to understand trading theory.
+611	Saint Vibe Gloves	Gloves for people that just started to understand trading theory.
+612	Legend Vibe Gloves	Gloves for people that just started to understand trading theory.
+613	Holy Vibe Gloves	Gloves for people that just started to understand trading theory.
+614	Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+615	Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+616	Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+617	Elven Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+618	Saint Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+619	Legend Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+620	Holy Tamiya Gloves	Thick, lightweight gloves for young peddlers.
+621	Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+622	Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+623	Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+624	Elven Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+625	Saint Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+626	Legend Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+627	Holy Semiya Gloves	Thick, lightweight gloves for intermediate peddlers.
+628	Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+629	Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+630	Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+631	Golden Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+632	Elven Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+633	Saint Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+634	Legend Merchant Gloves	Sophisticated gloves for well-experienced peddlers.
+635	Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+636	Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+637	Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+638	Golden Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+639	Elven Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+640	Saint Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+641	Legend Rich Merchant Gloves	Suave and sophisticated gloves for well-experienced peddlers.
+643	Mercenary Gloves	Reliable gloves made out of iron.
+644	Warlord Gauntlets	Well-made gauntlets made out of a mysterious metal.
+645	Tyrant Gauntlets	Light, yet reliable gauntlets for iron fisted rulers.
+646	Sparkly Purple Gloves of Witch	Gloves that are favored by very well-experienced Mages.
+647	Shiny Violet Gloves	Fashionable gloves which are favored by powerful Mages.
+648	Gloves of Wisdom	Gloves that are rumored to cover its wearer in shadow.
+649	Nimble Gloves	Fashionable gloves for well-experienced hunters.
+650	Gloves of Sagittarius	Gloves that are favored by pirates of the black sea.
+651	Commodore Gloves	Gloves that are favored by people who love sailing.
+652	Repairman Gloves	Thick, lightweight gloves for young peddlers.
+653	Craftsman Gloves	Thick, lightweight gloves for intermediate peddlers.
+654	Supplier Gloves	Sophisticated gloves for well-experienced peddlers.
+901	Brave Mighty Gauntlets	Equipment rewarded to honor those that have fought against dragons. Light, yet reliable gauntlets.
+902	Brave Gloves of Shadow	Equipment rewarded to honor those that have fought against dragons. Gloves that are rumored to cover its wearer in shadow.
+903	Brave Mariner's Gloves	Equipment rewarded to honor those that have fought against dragons. Gloves that are favored by people who love sailing.
+904	Brave Merchant Gloves	Equipment rewarded to honor those that have fought against dragons. Sophisticated gloves for well-experienced peddlers.
+905	Brave Plate Gauntlets	Equipment rewarded to honor those that have fought against dragons. The best gauntlets: well-designed and reliable.
+906	Brave Heaven's Gloves	Equipment rewarded to honor those that have fought against dragons. Gloves said to be worn by those who have swooped down from the heavens.
+907	Brave Wild Hawker Gloves	Equipment rewarded to honor those that have fought against dragons. Carrying the essence of freedom, these gloves are a necessity for the ultimate Hawker!
+908	Brave Redfield Chairman Gloves	Equipment rewarded to honor those that have fought against dragons. High-quality gloves for a person of high esteem. It commands respect!
+909	Brave Rightous Plate Gauntlets	Equipment rewarded to honor those that have fought against dragons. Gaunlets meant to be worn by warriors whose hearts know the true meaning of justice.
+910	Brave Archmage Gloves	Equipment rewarded to honor those that have fought against dragons. Gloves that are especially crafted for advanced Muses.
+911	Brave Netherworld Gloves	Equipment rewarded to honor those that have fought against dragons. Gloves designed for use by leaders of the underworld.
+912	Brave Noble Lord Gloves	Equipment rewarded to honor those that have fought against dragons. Gloves that are a symbol of honor, power, and prestige.
+913	Brave Jabberwock Gauntlets	Equipment rewarded to honor those that have fought against dragons. Gauntlets that shimmer freakily like the eyes of a madman.
+914	Brave Dimple Gloves	Equipment rewarded to honor those that have fought against dragons. A pair of cute, classy gloves made by a famous designer.
+915	Brave Steel Resolve Gloves	Equipment rewarded to honor those that have fought against dragons. Gloves suited to marksmen that live by the one shot, one kill credo.
+916	Brave Mana Steam Gloves	Equipment rewarded to honor those that have fought against dragons. Specialty magic gloves that can directly manipulate Mana.

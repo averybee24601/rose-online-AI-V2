@@ -1,0 +1,32 @@
+{
+  "name": "ai-rose-evolved-web",
+  "version": "1.0.0",
+  "description": "Futuristic cyberpunk website for AI Rose: Evolved with auth, rankings, status, and downloads.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "rose-online",
+    "private-server",
+    "ai",
+    "cyberpunk",
+    "express",
+    "mysql"
+  ],
+  "author": "AI Coding Agents",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "md5": "^2.3.0",
+    "mysql2": "^3.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
+

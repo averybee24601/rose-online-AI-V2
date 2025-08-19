@@ -1,0 +1,145 @@
+202	Leather Bag	A bagpack made with thin leather.
+203	Wooden Chest	A bagpack assembled with wooden plates.
+206	Cutie Bag	A small, cute, and rather feminine bag.
+208	Street Bag	A highly practical, multi-purpose bag.
+210	Tamiya Bag	A thick bagpack for young peddlers.
+211	Ferrell Bag	A bag crafted by the Ferrell Union. It's suitable for battle situations.
+212	Magic Cubic	A mysterious bag constructed of crystal.
+221	Fairy Wing 	Wings created to imitate those on the back of a fairy.
+222	Nymph Wing 	Wings created to imitate those on the back of a nymph.
+223	Butterfly Wing	Wings of a giant butterfly.
+224	Little Angel Wing	Wings of a little angel.
+225	Little Devil Wing	Wings of a little devil.
+226	Crow Wing 	Wings that reek strongly of evil.
+227	Angel Wing	Official angel wings that emit an aura of majesty.
+228	Devil Wing	Official devil wings that emit an aura of menace.
+229		
+230		
+231	Worm Dragon Wing	Wings cut from a disgusting looking Worm Dragon.
+233	Astarot Wing	Astarot's wings. Sadly, it's all that remains of Astarot.
+241	Turtle Backshield 	A shell used for turtle hermits in training.
+242	Endeavor Backshield	A Backshield which protects hardworking people.
+243	Training Back shield	A Backshield that protects the rear of a novice in training.
+244	Guard Backshield	A Backshield that protects one’s back from danger and threats.
+245	Lion Backshield	A Backshield on which the gallant figure of a lion is painted.
+246	Tiger Backshield	A Backshield on which the ferocious image of a tiger is painted.
+247	Buffalo Backshield	A Backshield on which the curse of the raging buffalo has been placed.
+248	Lizard Backshield	A Backshield that expresses the nimble movements of a lizard.
+261	MiniBuffalo Backshield	A Backshield on which the curse of the raging buffalo has been placed. Now in mini size.
+262	Dragon Hunter Wing	A wing that is given to Clan War participants.
+263		
+309	Dark Leather Bag	A bagpack made with thin leather.
+310	Golden Leather Bag	A bagpack made with thin leather.
+311	Golden Leather Bag	A bagpack made with thin leather.
+312	Elven Leather Bag	A bagpack made with thin leather.
+313	Elven Leather Bag	A bagpack made with thin leather.
+314	Elven Leather Bag	A bagpack made with thin leather.
+315	Saint Leather Bag	A bagpack made with thin leather.
+316	Dark Wooden Chest	A bagpack assembled with wooden plates.
+317	Golden Wooden Chest	A bagpack assembled with wooden plates.
+318	Golden Wooden Chest	A bagpack assembled with wooden plates.
+319	Elven Wooden Chest	A bagpack assembled with wooden plates.
+320	Elven Wooden Chest	A bagpack assembled with wooden plates.
+321	Elven Wooden Chest	A bagpack assembled with wooden plates.
+322	Saint Wooden Chest	A bagpack assembled with wooden plates.
+365	Dark Tamiya Bag	A thick bagpack for young peddlers.
+366	Golden Tamiya Bag	A thick bagpack for young peddlers.
+367	Golden Tamiya Bag	A thick bagpack for young peddlers.
+368	Elven Tamiya Bag	A thick bagpack for young peddlers.
+369	Elven Tamiya Bag	A thick bagpack for young peddlers.
+370	Elven Tamiya Bag	A thick bagpack for young peddlers.
+371	Saint Tamiya Bag	A thick bagpack for young peddlers.
+442	Dark Fairy Wing	Wings created to imitate those on the back of a fairy.
+443	Fairy Wing 	Wings created to imitate those on the back of a fairy.
+444	Fairy Wing 	Wings created to imitate those on the back of a fairy.
+445	Fairy Wing 	Wings created to imitate those on the back of a fairy.
+446	Elven Fairy Wing	Wings created to imitate those on the back of a fairy.
+447	Elven Fairy Wing	Wings created to imitate those on the back of a fairy.
+448	Saint Fairy Wing	Wings created to imitate those on the back of a fairy.
+449	Dark Nymph Wing	Wings created to imitate those on the back of a nymph.
+450	Nymph Wing 	Wings created to imitate those on the back of a nymph.
+451	Nymph Wing 	Wings created to imitate those on the back of a nymph.
+452	Nymph Wing 	Wings created to imitate those on the back of a nymph.
+453	Elven Nymph Wing	Wings created to imitate those on the back of a nymph.
+454	Elven Nymph Wing	Wings created to imitate those on the back of a nymph.
+455	Saint Nymph Wing	Wings created to imitate those on the back of a nymph.
+456	Dark Butterfly Wing	Wings of a giant butterfly.
+457	Butterfly Wing	Wings of a giant butterfly.
+458	Butterfly Wing	Wings of a giant butterfly.
+459	Butterfly Wing	Wings of a giant butterfly.
+460	Elven Butterfly Wing	Wings of a giant butterfly.
+461	Elven Butterfly Wing	Wings of a giant butterfly.
+462	Saint Butterfly Wing	Wings of a giant butterfly.
+463	Dark Little Angel Wing	Wings of a little angel.
+464	Little Angel Wing	Wings of a little angel.
+465	Little Angel Wing	Wings of a little angel.
+466	Little Angel Wing	Wings of a little angel.
+467	Elven Little Angel Wing	Wings of a little angel.
+468	Elven Little Angel Wing	Wings of a little angel.
+469	Saint Little Angel Wing	Wings of a little angel.
+470	Dark Little Devil Wing	Wings of a little devil.
+471	Little Devil Wing	Wings of a little devil.
+472	Little Devil Wing	Wings of a little devil.
+473	Little Devil Wing	Wings of a little devil.
+474	Elven Little Devil Wing	Wings of a little devil.
+475	Elven Little Devil Wing	Wings of a little devil.
+476	Saint Little Devil Wing	Wings of a little devil.
+477	Dark Crow Wing	Wings that reek strongly of evil.
+478	Golden Crow Wing	Wings that reek strongly of evil.
+479	Golden Crow Wing	Wings that reek strongly of evil.
+480	Elven Crow Wing	Wings that reek strongly of evil.
+481	Elven Crow Wing	Wings that reek strongly of evil.
+482	Elven Crow Wing	Wings that reek strongly of evil.
+483	Saint Crow Wing	Wings that reek strongly of evil.
+512	Elven Worm Dragon Wing 	Wings cut from a disgusting looking Worm Dragon.
+513	Saint Worm Dragon Wing	Wings cut from a disgusting looking Worm Dragon.
+514	Dark Worm Dragon Wing	Wings cut from a disgusting looking Worm Dragon.
+515	Worm Dragon Wing 	Wings cut from a disgusting looking Worm Dragon.
+516	Worm Dragon Wing 	Wings cut from a disgusting looking Worm Dragon.
+517	Worm Dragon Wing 	Wings cut from a disgusting looking Worm Dragon.
+518	Elven Worm Dragon Wing 	Wings cut from a disgusting looking Worm Dragon.
+582	Elven Turtle Backshield 	A shell used for turtle hermits in training.
+583	Saint Turtle Backshield 	A shell used for turtle hermits in training.
+584	Dark Turtle Backshield	A shell used for turtle hermits in training.
+585	Golden Turtle Backshield 	A shell used for turtle hermits in training.
+586	Golden Turtle Backshield 	A shell used for turtle hermits in training.
+587	Elven Turtle Backshield 	A shell used for turtle hermits in training.
+588	Elven Turtle Backshield 	A shell used for turtle hermits in training.
+589	Elven Endeavor Backshield	A Backshield which protects hardworking people.
+590	Saint Endeavor Backshield	A Backshield which protects hardworking people.
+591	Dark Endeavor Backshield	A Backshield which protects hardworking people.
+592	Golden Endeavor Backshield	A Backshield which protects hardworking people.
+593	Golden Endeavor Backshield	A Backshield which protects hardworking people.
+594	Elven Endeavor Backshield	A Backshield which protects hardworking people.
+595	Elven Endeavor Backshield	A Backshield which protects hardworking people.
+596	Elven Training Backshield	A Backshield that protects the rear of a novice in training.
+597	Saint Training Backshield	A Backshield that protects the rear of a novice in training.
+598	Dark Training Backshield	A Backshield that protects the rear of a novice in training.
+599	Golden Training Backshield	A Backshield that protects the rear of a novice in training.
+600	Golden Training Backshield	A Backshield that protects the rear of a novice in training.
+601	Elven Training Backshield	A Backshield that protects the rear of a novice in training.
+602	Training Backshield	A Backshield that protects the rear of a novice in training.
+603	Guard Backshield	A Backshield that protects one’s back from danger and threats.
+604	Guard Backshield	A Backshield that protects one’s back from danger and threats.
+605	Elven Guard Backshield	A Backshield that protects one’s back from danger and threats.
+606	Saint Guard Backshield	A Backshield that protects one’s back from danger and threats.
+607	Dark Guard Backshield	A Backshield that protects one’s back from danger and threats.
+608	Guard Backshield	A Backshield that protects one’s back from danger and threats.
+731	Fairy Pod	A fabulous wing and bag combination.
+741	Scented Butterfly Wing	A mysterious butterfly that can only live on the back of a person with a good sense of smell.
+742	Seraph Wing	Wings that call out to a great angel. But actually…
+743	Succubus Wing	The wings of a seductive Succubus.
+751	Magic Pumpkin Shield	A magical shield that can be pretty noisy if you don't walk carefully.
+752	Iron Skull Shield	A metal plated skull of a huge creature.
+753	Cross Shield	A shield in the shape of a cross. It's supposedly designed to attack enemies behind you.
+761	Black Seraph Wing	Wings that call out to a great angel. But actually…
+762	Astarot Silver Wing	Silver wings clipped from an Astarot.
+763	Astarot White Wing	White wings clipped from an Astarot.
+764	Astarot Pink Wing	Pink wings clipped from an Astarot.
+766	Elementary School Bag	A little knapsack that is given to new students when they are accepted into Magic School.
+767	Thor's Bass Drum	A bass drum that contains the power of Thor, the god of Thunder.
+768	Kerokero Umbrella	No matter how strong the rain may be, this umbrella will offer adequate protection.
+769	Dolphin	A bag fashioned in the friendly form of the dolphin.
+770	Black Cross Shield	Although it has the color of dark shadow, this special cross shaped Backshield uses the power of holiness.
+771	Astarot Black Wing	Black wings clipped from an Astarot.
+801	Spero's Wooden Chest	A Bagpack made of wooden boards. (Quest Reward)

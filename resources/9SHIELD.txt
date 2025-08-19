@@ -1,0 +1,135 @@
+1	Wooden Shield	An ordinary wooden shield that was originally used as a lid for a pot.
+2	Tarz	A strong shield that is made by plaiting pieces of leather.
+3	Round Shield	A round shield adorned with seven studs.
+4	Buckler	A charmingly decorated shield.
+5	Aspis	A shield with pointy spikes intended to menace enemies.
+6	Hoplon	A hard shield with an engraving of a sea horse.
+7	Kite Shield	A long, leather shield that offers protection to the entire body.
+8	Tower Shield	A shield that looks incredibly durable at first glance.
+9	Mythril Shield	A nigh impenetrable shield constructed from Mythril.
+10	Plate Shield	A shield that can endure all kinds of attacks.
+11	Orc Shield	A dreadful shield said to be used by the leader of the Orcs.
+12	Blood Shield	A dark shield that offers awesome defense by absorbing its owner's blood.
+13	Righteous Shield	A high grade shield for those who value honor.
+14	Mighty Shield	A practical shield manufactured for violent battles.
+15	Zephyr Defender	A mysterious shield which protects its owner. It's said that wind magic is sealed within it.
+16	Silver Hearts Shield	A shield which is said to be constructed from silver hearts.
+17	Vivor Shield	A legendary shield that can withstand extreme temperatures.
+31	Jelly Bean Doll	A doll made in the likeness of a Jelly Bean.
+32	Choropy Doll	A doll that looks exactly like a Choropy.
+33	Pumpkin Doll	A doll made in the likeness of a Pumpkin.
+34	HoneyBee Doll	A doll that looks exactly like a HoneyBee.
+35	Surfboard	A simply designed surfboard that's a must-have item during the summer.
+36	Snowboard	A must-have item for those who enjoy extreme winter sports.
+61	Book of Standards	A book in which the fundamentals of life are written.
+62	Oriental Drum	A small tabor drum that is played to ensure a good harvest.
+63	Book of Concentration	A book that helps you clear your thoughts and concentrate.
+64	Book of Charm	A book containing the secrets to charm and seduction.
+65	Mythical Flute	A beautiful, legendary flute that makes an antiquated sound.
+66	Elven Anthology	A collection of translated songs and poetry by the Elves.
+67	Basic Encyclopedia	A basic encyclopedia in which the knowledge of the world is recorded.
+68	Magic Mirror	A magic mirror which illuminates your true heart.
+69	Shadow Mirror	A cursed mirror which reveals your dark thoughts.
+70	Mana Stone	A magic stone infused with Mana.
+71	Rune Stone	A stone on which an ancient incantation is inscribed.
+72	Cubic Scepter	Magical dice that can reveal the situational chance of success.
+73	Holy Scepter	A magic symbol that overflows with holiness.
+74	Meteoric Scepter	It is said that the power of the meteor symbolizes destruction.
+75	Elven Harp	A legendary harp that is a testament to the refinement of the Elves.
+76	Lunatic Candy Bar	Eucar wizards' favorite candy which restores MP when eaten.
+77	Bang Bang Tree Leaf	A tree leaf that contains magical power. An essential for a Muse.
+78	Eye of Storm	A menacing gem containing cold and darkness.
+79	Orb of Rage	A gem in which the rage of the deceased is sealed.
+80	Orb of Abyss	A gem made from a fragment of a mysterious comet.
+81	Cornell's Diary	A diary in which Village Chief Cornell recorded his most intimate memories as a child. Surprisingly, it reveals that his favorite color was pink.
+82	Magic Pearl	A pearl that may summon a miracle simply by holding it in your hand.
+2001	Ancient Wooden Shield	An ordinary wooden shield that was originally used as a lid for a pot.
+2002	Ancient Tarz	A strong shield that is made by plaiting pieces of leather.
+2003	Ancient Round Shield	A round shield adorned with seven studs.
+2004	Ancient Buckler	A charmingly decorated shield.
+2005	Ancient Aspis	A shield with pointy spikes intended to menace enemies.
+2006	Ancient Hoplon	A hard shield with an engraving of a sea horse.
+2007	Ancient Kite Shield	A long, leather shield that offers protection to the entire body.
+2008	Ancient Tower Shield	A shield that looks incredibly durable at first glance.
+2009	Ancient Mythril Shield	A nigh impenetrable shield constructed from Mythril.
+2010	Ancient Plate Shield	A shield that can endure all kinds of attacks.
+2011	Ancient Orc Shield	A dreadful shield said to be used by the leader of the Orcs.
+2012	Ancient Blood Shield	A dark shield that offers awesome defense by absorbing its owner's blood.
+2013	Ancient Righteous Shield	A high grade shield for those who value honor.
+2014	Ancient Mighty Shield	A practical shield manufactured for violent battles.
+2015	Ancient Zephyr Defender	A mysterious shield which protects its owner. It's said that wind magic is sealed within it.
+2016	Ancient Silver Hearts Shield	A shield which is said to be constructed from silver hearts.
+2017	Ancient Vivor Shield	A legendary shield that can withstand extreme temperatures.
+2031	Ancient Jelly Bean Doll	A doll made in the likeness of a Jelly Bean.
+2032	Ancient Choropy Doll	A doll that looks exactly like a Choropy.
+2033	Ancient Pumpkin Doll	A doll made in the likeness of a Pumpkin.
+2034	Ancient HoneyBee Doll	A doll that looks exactly like a HoneyBee.
+2035	Ancient Surfboard	A simply designed surfboard that's a must-have item during the summer.
+2036	Ancient Snowboard	A must-have item for those who enjoy extreme winter sports.
+2061	Ancient Book of Standards	A book in which the fundamentals of life are written.
+2062	Ancient Oriental Drum	A small tabor drum that is played to ensure a good harvest.
+2063	Ancient Book of Concentration	A book that helps you clear your thoughts and concentrate.
+2064	Ancient Book of Charm	A book containing the secrets to charm and seduction.
+2065	Ancient Mythical Flute	A beautiful, legendary flute that makes an antiquated sound.
+2066	Ancient Elven Anthology	A collection of translated songs and poetry by the Elves.
+2067	Ancient Basic Encyclopedia	A basic encyclopedia in which the knowledge of the world is recorded.
+2068	Ancient Magic Mirror	A magic mirror which illuminates your true heart.
+2069	Ancient Shadow Mirror	A cursed mirror which reveals your dark thoughts.
+2070	Ancient Mana Stone	A magic stone infused with Mana.
+2071	Ancient Rune Stone	A stone on which an ancient incantation is inscribed.
+2072	Ancient Cubic Scepter	Magical dice that can reveal the situational chance of success.
+2073	Ancient Holy Scepter	A magic symbol that overflows with holiness.
+2074	Ancient Meteoric Scepter	It is said that the power of the meteor symbolizes destruction.
+2075	Ancient Elven Harp	A legendary harp that is a testament to the refinement of the Elves.
+2076	Ancient Lunatic Candy Bar	Eucar wizards' favorite candy which restores MP when eaten.
+2077	Ancient Bang Bang Tree Leaf	A tree leaf that contains magical power. An essential for a Muse.
+2078	Ancient Eye of Storm	A menacing gem containing cold and darkness.
+2079	Ancient Orb of Rage	A gem in which the rage of the deceased is sealed.
+2080	Ancient Orb of Abyss	A gem made from a fragment of a mysterious comet.
+2081	Ancient Cornell's Diary	A diary in which Village Chief Cornell recorded his most intimate memories as a child. Surprisingly, it reveals that his favorite color was pink.
+2082	Ancient Magic Pearl	A pearl that may summon a miracle simply by holding it in your hand.
+3001	Ancient Wooden Shield	An ordinary wooden shield that was originally used as a lid for a pot.
+3002	Ancient Tarz	A strong shield that is made by plaiting pieces of leather.
+3003	Ancient Round Shield	A round shield adorned with seven studs.
+3004	Ancient Buckler	A charmingly decorated shield.
+3005	Ancient Aspis	A shield with pointy spikes intended to menace enemies.
+3006	Ancient Hoplon	A hard shield with an engraving of a sea horse.
+3007	Ancient Kite Shield	A long, leather shield that offers protection to the entire body.
+3008	Ancient Tower Shield	A shield that looks incredibly durable at first glance.
+3009	Ancient Mythril Shield	A nigh impenetrable shield constructed from Mythril.
+3010	Ancient Plate Shield	A shield that can endure all kinds of attacks.
+3011	Ancient Orc Shield	A dreadful shield said to be used by the leader of the Orcs.
+3012	Ancient Blood Shield	A dark shield that offers awesome defense by absorbing its owner's blood.
+3013	Ancient Righteous Shield	A high grade shield for those who value honor.
+3014	Ancient Mighty Shield	A practical shield manufactured for violent battles.
+3015	Ancient Zephyr Defender	A mysterious shield which protects its owner. It's said that wind magic is sealed within it.
+3016	Ancient Silver Hearts Shield	A shield which is said to be constructed from silver hearts.
+3017	Ancient Vivor Shield	A legendary shield that can withstand extreme temperatures.
+3031	Ancient Jelly Bean Doll	A doll made in the likeness of a Jelly Bean.
+3032	Ancient Choropy Doll	A doll that looks exactly like a Choropy.
+3033	Ancient Pumpkin Doll	A doll made in the likeness of a Pumpkin.
+3034	Ancient HoneyBee Doll	A doll that looks exactly like a HoneyBee.
+3035	Ancient Surfboard	A simply designed surfboard that's a must-have item during the summer.
+3036	Ancient Snowboard	A must-have item for those who enjoy extreme winter sports.
+3061	Ancient Book of Standards	A book in which the fundamentals of life are written.
+3062	Ancient Oriental Drum	A small tabor drum that is played to ensure a good harvest.
+3063	Ancient Book of Concentration	A book that helps you clear your thoughts and concentrate.
+3064	Ancient Book of Charm	A book containing the secrets to charm and seduction.
+3065	Ancient Mythical Flute	A beautiful, legendary flute that makes an antiquated sound.
+3066	Ancient Elven Anthology	A collection of translated songs and poetry by the Elves.
+3067	Ancient Basic Encyclopedia	A basic encyclopedia in which the knowledge of the world is recorded.
+3068	Ancient Magic Mirror	A magic mirror which illuminates your true heart.
+3069	Ancient Shadow Mirror	A cursed mirror which reveals your dark thoughts.
+3070	Ancient Mana Stone	A magic stone infused with Mana.
+3071	Ancient Rune Stone	A stone on which an ancient incantation is inscribed.
+3072	Ancient Cubic Scepter	Magical dice that can reveal the situational chance of success.
+3073	Ancient Holy Scepter	A magic symbol that overflows with holiness.
+3074	Ancient Meteoric Scepter	It is said that the power of the meteor symbolizes destruction.
+3075	Ancient Elven Harp	A legendary harp that is a testament to the refinement of the Elves.
+3076	Ancient Lunatic Candy Bar	Eucar wizards' favorite candy which restores MP when eaten.
+3077	Ancient Bang Bang Tree Leaf	A tree leaf that contains magical power. An essential for a Muse.
+3078	Ancient Eye of Storm	A menacing gem containing cold and darkness.
+3079	Ancient Orb of Rage	A gem in which the rage of the deceased is sealed.
+3080	Ancient Orb of Abyss	A gem made from a fragment of a mysterious comet.
+3081	Ancient Cornell's Diary	A diary in which Village Chief Cornell recorded his most intimate memories as a child. Surprisingly, it reveals that his favorite color was pink.
+3082	Ancient Magic Pearl	A pearl that may summon a miracle simply by holding it in your hand.

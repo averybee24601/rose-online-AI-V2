@@ -1,0 +1,342 @@
+1	Rusted Iron	Iron covered in corroded rust. Touching it makes you feel icky.
+2	Tin	A metal with a silvery white luster.
+3	Copper	A metal with a reddish luster that melts easily.
+4	Bronze	A metal made from melting copper and tin, making it much more durable.
+5	Iron	Pure iron, one of the most common metals.
+6	Silver Iron	Iron that has been tempered so that it fully gleams with a silver luster.
+7	Steel	Iron tempered to the point that it now has a black luster.
+8	Chromium	A strange metal with a silvery white gloss. Though strong, it sometimes crumbles quite easily.
+9	Tiar	Deteriorated diamond that can barely be seen because of its transparency.
+10	Damascus	A mythical metal that actually exists.
+11	Unprocessed Metal	A metal that doesn't seem to really be metal. It's soft when you touch it.
+12	Demon Metal	Metal, containing a small amount of Mana, that is said to be made by demons.
+13	Wolf Steel	Metal shaped like a wolf's claw. Infused with the spirit of the wolf, howls can be heard from it every night.
+14	Molive	Metal that emits a white, transparent light.
+15	Mythril	The purest silver, Mythril is harder than diamond.
+16	Orihalcon	The legendary metal that is said to be unbreakable.
+17	Adamantium	A fantasy metal that almost defies the natural laws.
+18	Otherworldly Metal	Metal from beyond the physical realm. Its true form is secret.
+19	Philosopher Stone	The greatest metal that all alchemists hope to create. It greatly increases Mana amount.
+20	Mercury	Although it's a true metal, mercury doesn't retain its shape like the other metals.
+21	Pebble	A common pebble that can be found anywhere.
+22	Yellowish Stone	A stone made of yellow sand. Can be used in manufacturing.
+23	Sandstone	A stone made of fine sand. It's not suitable for construction, but can be good if used carefully.
+24	Gravel Stone	Stone made of sand and pebbles.
+25	Granite	Stone created from a volcanic eruption. It's hard and coarse to the touch.
+26	Marble	A beautiful white stone that reflects light brilliantly. Usually a material used in high class buildings.
+27	Air Stone	A stone that floats through the air which can be difficult to get.
+28	Shining Stone	A mysterious stone that shines with white light at night, but appears black during the day.
+29	Otherworldly Stone	A stone that is not of this mortal realm.
+30	Meteorite	A stone that's fallen from the sky and crashed into the ground.
+31	Twig	A common twig. Most of them come from trees.
+32	Maple Wood	Commonly found in most places, maple wood is usually used to make furniture.
+33	Aromatic Wood	Aromatic timber used to make furniture and garden fences.
+34	Oak Wood	A very solid and durable wood that has various uses. It's an especially popular material in the creation of wine barrels.
+35	Paulownia Wood	Wood that can be used to make furniture and instruments.
+36	Pine Wood	Wood that's tough enough to make barrels, boats and buildings, with a beautiful grain that makes it ideal for furniture.
+37	Cinnamon Wood	A pleasant looking wood that isn't very tough, but can be easily shaped.
+38	Red Sandalwood	Wood that is widely used to create buildings, boats and furniture.
+39	Otherworldly Wood	Wood from a tree that is not of this world. Its fluctuating wood grain is fascinating.
+40	Sephiroth Wood	Wood from the Sephiroth Tree. Tougher than metal, but very easily shaped, it's said to be the best crafting material.
+41	Worn-out Leather	Old and worn out, but you can probably use this leather for something.
+42	Thin Leather	Thin leather that might be useful as a covering.
+43	Sleek Leather	Smooth, silky leather that may be put to good use in making a belt.
+44	Tough Leather	Although rough and coarse, this leather might be handy for bundling slippery or viscous materials.
+45	Tender Leather	Leather that's soft as silk.
+46	Gorgeous Leather	Ridiculously showy leather that has various uses.
+47	Thick Leather	Leather that is so thick that it can't be cut with a knife.
+48	Hard Leather	Leather that is solid as stone and can be used to craft armor.
+49	Transparent Leather	Expensive, transparent leather that is best put to use for lewd purposes.
+50	Patterned Leather	Leather with a natural pattern that even artists would admire.
+51	Tough Cloth	Seems useless because of its coarseness, but it does make a handy cleaning cloth.
+52	Cotton	Soft cloth used to make clothing and underwear.
+53	Linen	Excelling in absorption and ventilation, this cloth makes good summer clothing.
+54	Felt	A cloth made of lightly stretched fibers that, although durable, isn't suited for making normal clothing.
+55	Silk	A sleek, soft cloth with beautiful colors that is popular among women.
+56	Wool	It's soft and great at keeping someone warm.
+57	Denim	Fabric made out of blue paper. Although it seems that it can be easily torn, it's actually very durable and feels nice when worn.
+58	Plain Weave	Strong and practical fabric.
+59	Twill	Although relatively weak, twill rarely wrinkles, is soft and has a nice texture.
+60	Lace	Decorative cloth made of countless interwoven fibers that allow air to flow freely through them.
+61	Low Essence	Material to which Mana has been artificially added.
+62	Essence	Material infused with Mana from an eminent Muse.
+63	Low Ether	Material infused with Mana from a Mage.
+64	Ether	Material infused with Mana from a Mage, and amplified with an Eye of Moth.
+65	High Ether	Material infused with Mana from a Mage, and amplified with an Eye of Moth and a Lizard's Tongue.
+66	Elixir	Juice from a mysterious fruit that is said to restore one's youth.
+67	Hime	Material that can only be seen by pure virgins. Some tribes use it to determine the presence of virginity.
+68	Low Enthiric	Water containing strong Mana. It is very clear, transparent and cool.
+69	Enthiric	It is said that an Enthiric is cold enough to freeze your hand if you touch it.
+70	Hermes	Water that is mysteriously hot as fire, but turns to crystal once it is sprinkled on the ground.
+71	1st Grade Talisman	Material used to refine 1st grade weapons.
+72	2nd Grade Talisman	Material used to refine 2nd grade weapons.
+73	3rd Grade Talisman	Material used to refine 3rd grade weapons.
+74	4th Grade Talisman	Material used to refine 4th grade weapons.
+75	5th Grade Talisman	Material used to refine 5th grade weapons.
+76	6th Grade Talisman	Material used to refine 6th grade weapons.
+77	7th Grade Talisman	Material used to refine 7th grade weapons.
+78	8th Grade Talisman	Material used to refine 8th grade weapons.
+79	9th Grade Talisman	Material used to refine 9th grade weapons.
+80	10th Grade Talisman	Material used to refine 10th grade weapons.
+81	1st Grade Bindrune	Material used to refine 1st grade subweapons.
+82	2nd Grade Bindrune	Material used to refine 2nd grade subweapons.
+83	3rd Grade Bindrune	Material used to refine 3rd grade subweapons.
+84	4th Grade Bindrune	Material used to refine 4th grade subweapons.
+85	5th Grade Bindrune	Material used to refine 5th grade subweapons.
+86	6th Grade Bindrune	Material used to refine 6th grade subweapons.
+87	7th Grade Bindrune	Material used to refine 7th grade subweapons.
+88	8th Grade Bindrune	Material used to refine 8th grade subweapons.
+89	9th Grade Bindrune	Material used to refine 9th grade subweapons.
+90	10th Grade Bindrune	Material used to refine 10th grade subweapons.
+91	Ink	Black fluid that is emitted from squids.
+92	Distilled Water	Water that has been distilled and purified.
+93	Oil	Sticky, flammable fluid that can be found deep underground.
+94	Rubber Sap	Rubber sap that has been extracted from trees.
+95	Glue	Adhesive material that is used to connect things, such as paper, together.
+96	Alcohol	A flammable liquid that easily evaporates.
+97	Dyes	Collected pigment that has been extracted from plants.
+98	Coal	Coal found in a mine that can be used to create fire.
+99	Broken Metal Fragment	It's basically scrap, but this fragment might be used to make something.
+100	Gunpowder	A dangerous substance used to make explosives. You should only trust experts to handle gunpowder.
+101	Thick Iron Piece	Incredibly durable iron that can be used in manufacturing.
+102	Sharp Iron Piece	Sharp as a knife, it's important to be careful when using this material to manufacture something.
+111	Iron Thread	Thread made of thinly pressed iron.
+112	Silver Thread	Thread made of thinly pressed silver.
+113	Gold Thread	Thread made of thinly pressed gold.
+114	Platinum Thread	Thread made of thinly pressed platinum.
+115	Precious Platinum Thread	Thread made of thinly pressed platinum that has been purified for 1,000 days.
+116	Netil	Brown material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+117	Metil	Gray material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+118	Etil	Blue material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+119	Petil	Red material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+120	Setil	Golden material that is thought to be made by rain water collecting in a place where animals or plants have died. 
+121	Crystal Stone	A blue stone containing the energy of water.
+122	Wind Stone	A green stone containing the energy of the wind.
+123	Earth Stone	A yellow stone containing the energy of the earth.
+124	Fire Stone	A red stone containing the energy of fire.
+125	Light Stone	A transparent stone containing the energy of light.
+126	Lesian	A thin and transparent object in the shape of a disk.
+127	Misian	A thin and black object in the shape of a disk.
+128	Hersian	A thin and white object in the shape of a disk.
+129	Jilsian	A thin and golden object in the shape of a disk.
+130	Lusian	A thin, disk shaped object tinted with all the colors of the rainbow.
+131	Ancient Copper Coin	Ancient coin made of copper.
+132	Ancient Silver Coin	Ancient coin made of silver.
+133	Ancient Gold Coin	Ancient coin made of gold.
+134	Ancient Tablet1	Ancient tablet that describes the secrets of ancient alchemy (1).
+135	Ancient Tablet2	Ancient tablet that describes the secrets of ancient alchemy (2).
+136	Ancient Tablet3	Ancient tablet that describes the secrets of ancient alchemy (3).
+137	Ancient Tablet4	Ancient tablet that describes the secrets of ancient alchemy (4).
+138	Ancient Tablet5	Ancient tablet that describes the secrets of ancient alchemy (5).
+142	Coin of Eucar Tribe	An ancient form of currency used by the Eucar tribe.
+143	Ocarina Pieces	If you collected all the pieces, could you restore the Ocarina to its original form?
+144	Ice Key Fragment	If you collect enough Ice Key fragments…
+146	Rusty Bell	Instrument with a beautiful sound that was used by musicians in the past.
+147	Colorful Paper	Multi-purpose paper decorated with the colors of the rainbow.
+148	Match	Handy for smokers as it's convenient to carry and easy to light.
+149	Ripped Book	A novel that's so old and ripped apart, you can't read it.
+151	Black Hearts	When an eons old star is destroyed, it results in this ore that possesses a mysterious power.
+152	Green Hearts	When an eons old star is destroyed, it results in this ore that possesses a mysterious power.
+153	Blue Hearts	When an eons old star is destroyed, it results in this ore that possesses a mysterious power.
+154	Pink Hearts	When an eons old star is destroyed, it results in this ore that possesses a mysterious power.
+155	Red Hearts	When an eons old star is destroyed, it results in this ore that possesses a mysterious power.
+156	Golden Hearts	When an eons old star is destroyed, it results in this ore that possesses a mysterious power.
+157	White Hearts	When an eons old star is destroyed, it results in this ore that possesses a mysterious power.
+161	Green Crystal	Crystal used as a material for Emerald and Peridot.
+162	Blue Crystal	Crystal used as a material for Sapphire and Topaz.
+163	Red Crystal	Crystal used as a material for Ruby and Garnet.
+164	White Crystal	Crystal used as a material for Diamond.
+171	Thin Insect Shell	The thin, brittle shell of an insect.
+172	Thick Insect Shell	The tough shell of an insect.
+173	Limpid Skin	A transparent shell that you can see through.
+174	Sticky Husk	Husk coated in sticky, disgusting mucus.
+175	Insect Feeler	An insect's sensory organ.
+176	Insect Leg	An insect's leg.
+177	Insect Wing	A wing ripped off an insect.
+178	Sticky Liquid	A generically sticky fluid.
+179	Weed Root	The tangled root of some weed.
+180	Weed Stem	A dried up stem from some weed.
+181	Pollen	Pollen that causes sneezing and wheezing to those with allergies.
+182	Thin Leaf	A thin, delicate leaf.
+183	Thick Leaf	A thick, stout leaf.
+184	Plant Seed	A seed from a plant.
+185	White Animal Tail Fur	White fur taken from the tail of an animal.
+186	Red Animal Tail Fur	Red fur taken from the tail of an animal.
+187	Black Animal Tail Fur	Black fur taken from the tail of an animal.
+188	Animal Tail Fur	Fur taken from the tail of an animal.
+189	Predator Claw	A very sharp claw taken from a predatory animal.
+190	Bark	It's a dried up piece of bark.
+191	Animal Leg Bone	A sturdy bone taken from an animal's leg that looks like it could be used as a weapon.
+192	Animal Backbone	Hard and pointed bones taken from an animal's spine.
+193	Frozen Animal Fur	Frozen fur taken from an animal.
+194	Ice Shard	A shard of ice that sparkles in the light.
+195	Broken Horn	A broken animal's horn that tapers at the ends.
+196	Bird Feather	Feather from a bird's wing.
+197	Nymph Powder	Powder taken from a nymph.
+198	Little Angel Feather	Feather taken from a baby angel.
+199	Little Devil Feather	Feather taken from a baby devil.
+200	Dragon Scale	A tough scale from a dragon.
+201	Steam Oil	PAT material
+202	Steam Heat	PAT material
+203	Steam Viper	PAT material
+204	Mana Metal	PAT material
+205	Mana Oil	PAT material
+206	Mana Heat	PAT material
+207	Mana Generator	PAT material
+208	Mana Crystal	PAT material
+209	Mana Article	PAT material
+210	Mana Load	PAT material
+211	Wooden Cart Schematic	Intricate construction plans for a Wooden Cart.
+212	Sporty Cart Schematic	Intricate construction plans for a Sporty Cart.
+221	Cart Engine Schematic	Intricate construction plans for a Cart Engine.
+226	Woodstock Schematic	Intricate construction plans for a Woodstock Class Castle Gear.
+227	Lifman Schematic	Intricate construction plans for a Lifman Class Castle Gear.
+231	Castle Gear Engine Schematic	Intricate construction plans for a Castle Gear Engine.
+235	Castle Gear Arm Schematic	Intricate construction plans for Castle Gear Arms.
+241	Aqua Blade	Blade that is filled with the spirit of the water element.
+242	Metal Blade	Blade that filled with the spirit of the metal element.
+243	Earth Blade	Balde that is filled with the vigor of the earth element.
+244	Flame Blade	Blade that is filled with the spirit of fire.
+245	Timber Blade	Blade that is filled with the soul the soul of the forest.
+246	Soil Blade	Blade that is imbued with primal earthern energies.
+247	Air Blade	Blade that is imbued with air from the heavens.
+248	Ocean Blade	Blade that is imbued with the spirit of the ocean.
+249	Beam Blade	Blade that is imbued with the power of light.
+250	Dark Blade	Blade that contains the power of darkness.
+261	Wolf Claw	A giant wolf's claw that's widely used to make accessories.
+262	Yeti Charm	A charm that certifies one as a warrior of the Yeti tribe.
+263	Ruper Crest	The special symbol of the Ruper Clan.
+264	Giant's Heart	A giant's heart that is hard as stone and emits a red light.
+265	Frozen Scales	Scales that have endured great cold until they've become frozen.
+266	Huge Horn	A giant horn that can be used as a wind instrument, or to decorate one's living space.
+267	Behemoth Tendon	A really tough tendon that can be used in various ways.
+268	Sharp Thorn	A thorn with a tip so sharp, it can be used as a nail or even a drill.
+269	Noctilucent Leaf	Easily found in the Shadow Jungle, this leaf gleams at night and can be used as a candle.
+275	Spider Web	A sticky and durable material obtained from spider monsters.
+276	Killer Leaf	Leaf with a carnivorous mouth used for consuming prey.
+277	Paper Wing Pieces	Part of an insect wing which is as soft and translucent as tracing paper.
+278	Plasma	This plasma, necessary for spiritual beings to manifest in the mortal world, is all that remains of defeated spirits.
+279	Sikuku Costume	Even the brazen may feel bashful when wearing this revealing costume.
+291	Ore of Water	A mysterious stone imbued with the power of water that can be used for cleansing and washing.
+292	Ore of Wind	A mysterious stone imbued with the power of wind that can be used to cool homes.
+293	Ore of Earth	A mysterious stone imbued with the power of earth that can be used for gardening.
+294	Ore of Fire	A mysterious stone imbued with the power of fire that can be used to heat homes in the winter.
+295	Spiritual Stone of Water	A spiritual stone endowed with the power of water.  You can hear crashing waves when you place it near your ear.
+296	Spiritual Stone of Wind	A spiritual stone endowed with the power of wind.  You can hear gusts of wind when you place it near your ear.
+297	Spiritual Stone of Earth	A spiritual stone endowed with the power of earth. It's so tough, it can be used as a foundation to build houses.
+298	Spiritual Stone of Fire	A spiritual stone endowed with the power of fire. It's so hot, it's dangerous to hold with your bare hands.
+299	Spiritual Stone of Arua	A spiritual stone endowed with Arua's purest blessing. It emanates mysterious powers.
+300	Upcoming Item	Will be implemented soon
+301	Wooden Arrow	An arrow made out of wood.
+302	Bone Arrow	An arrow fashioned out of bone.
+303	Stone Arrow	An arrow tipped with a stone head.
+304	Claw Arrow	An arrow tipped with a claw.
+305	Metal Arrow	An arrow constructed out of metal.
+306	Gilded Arrow	An arrow gilded with metal.
+307	Platinum Arrow	An arrow made of Platinum.
+311	Fire Arrow	An arrow with a flaming arrowhead.
+312	White Night Arrow	An arrow that burns with white fire.
+313	Demon Arrow	An arrow that glows blue with demonic light.
+314	Nymph Arrow	An arrow strengthened with the magic of the nymphs.
+315	Elven Arrow	An arrow strengthened with the magic of the elves.
+316	Lightning Arrow	An arrow infused with the power of lightning.
+317	Storm Arrow	An arrow that is said to create a storm once it strikes its target.
+321	Bean Bullet	A small, bean caliber bullet.
+322	Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+323	Lead Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+324	Plated Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+325	Silver-Plated Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+326	Gold-Plated Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+327	Platinum Bullet	A bullet made out of Platinum.
+328	Chromium Bullet	A bullet made out of Chromium.
+331	Fire Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+332	Cold Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+333	Poison Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+341	Cannon	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+342	Lead Cannon	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+343	Track Cannon	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+344	Bomber Cannon	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+345	Fire Cannon	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+351	Poison Bubble	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+352	Blaze Bullet	A bullet. Each time you fire a Gun weapon, 1 bullet is consumed.
+361	Aries Stone	A zodiacal stone that is imbued with the power of Aries, the ram.
+362	Taurus Stone	A zodiacal stone that is imbued with the power of Taurus, the bull.
+363	Gemini Stone	A zodiacal stone that is imbued with the power of Gemini, the heavenly twins.
+364	Cancer	A zodiacal stone that is imbued with the power of Cancer, the crab.
+365	Leo Stone	A zodiacal stone that is imbued with the power of Leo, the lion.
+366	Virgo Stone	A zodiacal stone that is imbued with the power of Virgo, the virgin.
+367	Libra	A zodiacal stone that is imbued with the power of Libra.
+368	Scorpius Stone 	A zodiacal stone that is imbued with the power of Scorpius, the scorpion.
+369	Sagittarius Stone	A zodiacal stone that is imbued with the power of Sagittarius, the archer.
+370	Capricornus Stone	A zodiacal stone that is imbued with the power of Capricornus, the goat.
+381	Youl Stone	A stone in which a rune, containing its own unique power, has been carved.
+382	Win Stone	A stone in which a rune, containing its own unique power, has been carved.
+383	Rag Stone	A stone in which a rune, containing its own unique power, has been carved.
+384	Rad Stone	A stone in which a rune, containing its own unique power, has been carved.
+385	Sigel Stone	A stone in which a rune, containing its own unique power, has been carved.
+386	Ocel Stone	A stone in which a rune, containing its own unique power, has been carved.
+387	Tir Stone	A stone in which a rune, containing its own unique power, has been carved.
+388	Hagal Stone	A stone in which a rune, containing its own unique power, has been carved.
+389	Niid Stone	A stone in which a rune, containing its own unique power, has been carved.
+390	Peos Stone	A stone in which a rune, containing its own unique power, has been carved.
+399	HP Water	Special water that is a necessary ingredient in creating HP recovery potion.
+400	MP Water	Special water that is a necessary ingredient in creating MP recovery potion.
+401	Rose	A rose that expresses love and passion during events. It makes you feel good, doesn't it?
+402	MP3 Player	Awesome! It's an event prize!
+403	Santa Lottery	You can use it during the Christmas season. If you're lucky, you'll win a free gift!
+404	Leveling Coupon	A special coupon that you can collect by completing event quests. The more you have, the greater chance you'll have of winning.
+405	La Reine	Just like a French Queen, you can proudly display your beauty with this mysterious necklace.
+406	Stone of Arua's Tear	A stone made from a teardrop shed by Arua. Bring 10 of these to Judy and exchange them for an item.
+407	Trash	The lingering remains of trash monsters after they've been defeated: useless garbage.
+408	Testimony of Boldness	It's a testimonial that serves as an attestation of boldness.
+409	Lacrima	An invitation card to the Ball.
+410	Path of Nostalgia	A map which shows where to find the Grand Dukes and Gate Crashers.
+411	Golden Crystal	A crystal that contains some strange, mystic power.
+412	True Hero's Emblem	An emblem that proves that the bearer is a true hero who is both brave and righteous.
+413	Snow Crystal	A crystal that, strangely, contains the warmth of love.
+414	Wish Fuel	Fuel that is used to fire the firecracker cannon.
+415	Ice Chouchou	A spiritual stone of ice that is cold to the touch, but looks sweet to the taste.
+417	Raffle Event Coupon	The more you raffle tickets you collect, the greater your chances of winning.
+420	Golden Ticket	A lucky ticket.
+421	Silver Ticket	A lucky ticket.
+422	Bronze Ticket	A lucky ticket.
+431		
+441	Testimony of Retraining	If you bring this to the Zant Village chief, you will be allowed to re-distribute your stat points. However, you can only use this item once.
+445	Vestarune	A rune impued with Vesta's mysterious power. This item can be used to refine Mileage Weapon items.
+446	Mercuryrune	A rune impued with Mercury's mysterious power. This item can be used to refine Mileage Armor items.
+447	Uranusrune	A rune impued with Uranus's mysterious power. This item can be used to refine Mileage Weapon items.
+448	Jupiterune	A rune impued with Jupiter's mysterious power. This item can be used to refine Mileage Armor items.
+451	Salon Coupon	Redeem this coupon by giving it to Zant's Designer NPC to change your hairstyle.
+452	Plastic Surgery Coupon	Redeem this coupon by giving it to Zant's Designer NPC to change your face.
+453	Transgender Coupon	Redeem this coupon by giving it to Zant's Designer NPC to change your gender.
+460	Bone Arrow	An arrow that is made with a thin bone.
+461	Stone Arrow	An arrow that is tipped with a sharp stone.
+462	Claw Arrow	An arrow that is tipped with a sharp claw.
+463	Metal Arrow	An arrow made out of metal.
+464	Gilded Arrow	An arrow that is made out of metal and plated with gold.
+465	Platinum Arrow	An arrow that is made out of platinum.
+468	Fire Arrow	An arrow with a flaming arrowhead.
+469	White Night Arrow	An arrow with an arrowhead that flaming in a white fire.
+470	Demon Arrow	An arrow that is tipped with a ghostly blue flame.
+471	Nymph Arrow	An arrow that was enchanted with Fairy magic.
+472	Elven Arrow	An arrow that is enchanted with Elven magic.
+473	Lightning Arrow	An arrow that possess the power of lightning.
+474	Storm Arrow	An arrow that is rumored to bring a thunder storm when used.
+476	Bullet	A consumable bullet.
+477	Lead Bullet	A consumable lead bullet.
+478	Plated Bullet	A consumable plated bullet.
+479	Silver-Plated Bullet	A consumable silver-plated bullet.
+480	Gold-Plated Bullet	A consumable gold-plated bullet.
+481	Platinum Bullet	A consumable platinum bullet.
+482	Chromium Bullet	A consumable chromium bullet.
+484	Fire Bullet	A consumable fire bullet.
+485	Cold Bullet	A consumable cold bullet.
+486	Poison Bullet	A consumable poison bullet.
+489	Lead Cannon	A consumable lead cannon.
+490	Track Cannon	A consumable tack cannon.
+491	Bomber Cannon	A consumable bomber cannon.
+492	Fire Cannon	A consumable fire cannon.
+494	Poison Bubble	A consumable poison bubble.
+495	Blaze Bullet	A consumable blaze bullet.
+501	Brave Talisman	Material required to refine Brave Weapons.
+502	Brave Bindrune	Material required to refine Brave Subweapons.

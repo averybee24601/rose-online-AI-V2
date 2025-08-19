@@ -1,0 +1,114 @@
+1	HP Restoration	Your HP restores as you are engulfed in a warm aura.
+2	HP Restoration	Your HP restores as you are engulfed in a warm aura.
+3	HP Restoration	Your HP restores as you are engulfed in a warm aura.
+4	MP Restoration	Your MP restores as you are engulfed in a warm aura.
+5	MP Restoration	Your MP restores as you are engulfed in a warm aura.
+6	MP Restoration	Your MP restores as you are engulfed in a warm aura.
+7	Poisoned  1	HP steadily decreases as your body is poisoned.
+8	Poisoned 2	HP steadily decreases as your body is poisoned.
+9	Poisoned  3	HP steadily decreases as your body is poisoned.
+10	Poisoned  4	HP steadily decreases as your body is poisoned.
+11	Poisoned  5	HP steadily decreases as your body is poisoned.
+12	Max HP Up	Your Max HP is temporarily increased by a mysterious power.
+13	Max MP Up	Your Max MP is temporarily increased by a mysterious power.
+14	Dash	Your body lightens as your Movement Speed is increased.
+15	Slow	Your body grows sluggish as your Movement Speed slows down.
+16	Haste Attack	Your weapons feel lighter as your Attack Speed is increased.
+17	Slow Attack	Your weapons feel more cumbersome as your Attack Speed decreases.
+18	Atk Power Increased	The vigor of battle flows through you as your Attack Power is temporarily increased.
+19	Atk Power Down	Your battle spirit grows weary as your Attack Power is temporarily decreased.
+20	Def Up	Your Defense is temporarily increased.
+21	Def Down	Your Defense is temporarily decreased.
+22	Magic Resistance Up	Your Magic Resistance has been temporarily increased.
+23	Magic Resistance Down	Your Magic Resistance has been temporarily decreased.
+24	Atk Accuracy Up	Your Attack Accuracy is temporarily increased.
+25	Atk Accuracy Down	Your Attack Accuracy is temporarily decreased.
+26	Cri Up	Your Critical hit rate is temporarily increased as you can clearly glimpse the enemy's weaknesses.
+27	Cri Down	Your Critical hit rate temporarily decreases as your mind's eye grows hazy in battle.
+28	Dodge Rate Up	Your Dodge Rate temporarily increases as you inwardly sense the oncoming attacks of the enemy.
+29	Dodge Rate Down	Your Dodge Rate temporarily decreases as your perceptiveness of the enemy's attacks is clouded.
+30	Muting	Your use of skills and magic spells has been suppressed.
+31	Sleep	You’re struck with an overwhelming feeling of drowsiness.
+32	Fainted	Your body has reached its limit and everything grows darker…
+33	Camouflage	You blend into your surroundings to escape the notice of others.
+34	Invisibility	Your body grows transparent until you become invisible.
+35	Shield Damage	You reflect the enemy's attack by a certain rate.
+36	Additional Damage	Your attacks have been temporarily given additional damage.
+37	Curse	Advantages received through Support Magic are neutralized through a curse.
+38	Recovery	Negative statuses from curses are canceled with blessed magic.
+39	Dispell	Neutralization of magic returns you to your normal condition.
+40	HP and MP Restoration	Your body is engulfed in a warm aura, recovering your HP and MP.
+41	HP and MP Restoration	Your body is engulfed in a warm aura, recovering your HP and MP.
+42	HP and MP Restoration	Your body is engulfed in a warm aura, recovering your HP and MP.
+43	HP Decreased	
+44	Max HP Increased	Your Max HP is temporarily increased by a mysterious power.
+45	Max MP Increased	Your Max MP is temporarily increased by a mysterious power.
+46	Movement Speed Increased	Your body lightens as your Movement Speed is increased.
+47	Atk Speed Up	Your weapons feel lighter as your Attack Speed is increased.
+48	Atk Power Up	Your body feels energized as your Attack Power is temporarily increased.
+49	Def Power Up	Your Defense is temporarily increased.
+50	Magic Resistance Up	Your Magic Resistance is temporarily increased.
+51	Atk Accuracy Up	Your Attack Accuracy is temporarily increased.
+52	Cri Up	Your Critical hit rate is temporarily increased as you can clearly glimpse the enemy's weaknesses.
+53	Dodge Rate Up	Your Dodge Rate temporarily increases as you inwardly sense the oncoming attacks of the enemy.
+54	Additional Damage	Your attacks have been temporarily given additional damage.
+55	Detection	
+56	Taunt	
+57	Invincibility	For a limited time, you won’t take any damage. Attack with impunity!
+58	Flaming	You'll receive damage from burns so long as the flames remain.
+301	Garnet [1]	Jewel of truth and friendship.
+302	Garnet [2]	Jewel of truth and friendship.
+303	Garnet [3]	Jewel of truth and friendship.
+304	Garnet [4]	Jewel of truth and friendship.
+305	Garnet [5]	Jewel of truth and friendship.
+306	Garnet [6]	Jewel of truth and friendship.
+307	Garnet [7]	Jewel of truth and friendship.
+311	Ruby [1]	Jewel of passion and dignity.
+312	Ruby [2]	Jewel of passion and dignity.
+313	Ruby [3]	Jewel of passion and dignity.
+314	Ruby [4]	Jewel of passion and dignity.
+315	Ruby [5]	Jewel of passion and dignity.
+316	Ruby [6]	Jewel of passion and dignity.
+317	Ruby [7]	Jewel of passion and dignity.
+321	Sapphire [1]	Jewel of truth and eternity.
+322	Sapphire [2]	Jewel of truth and eternity.
+323	Sapphire [3]	Jewel of truth and eternity.
+324	Sapphire [4]	Jewel of truth and eternity.
+325	Sapphire [5]	Jewel of truth and eternity.
+326	Sapphire [6]	Jewel of truth and eternity.
+327	Sapphire [7]	Jewel of truth and eternity.
+331	Topaz [1]	Jewel of wisdom and courage.
+332	Topaz [2]	Jewel of wisdom and courage.
+333	Topaz [3]	Jewel of wisdom and courage.
+334	Topaz [4]	Jewel of wisdom and courage.
+335	Topaz [5]	Jewel of wisdom and courage.
+336	Topaz [6]	Jewel of wisdom and courage.
+337	Topaz [7]	Jewel of wisdom and courage.
+341	Emerald [1]	Jewel of honesty and immortality.
+342	Emerald [2]	Jewel of honesty and immortality.
+343	Emerald [3]	Jewel of honesty and immortality.
+344	Emerald [4]	Jewel of honesty and immortality.
+345	Emerald [5]	Jewel of honesty and immortality.
+346	Emerald [6]	Jewel of honesty and immortality.
+347	Emerald [7]	Jewel of honesty and immortality.
+351	Peridot [1]	Jewel which represents liberation from darkness.
+352	Peridot [2]	Jewel which represents liberation from darkness.
+353	Peridot [3]	Jewel which represents liberation from darkness.
+354	Peridot [4]	Jewel which represents liberation from darkness.
+355	Peridot [5]	Jewel which represents liberation from darkness.
+356	Peridot [6]	Jewel which represents liberation from darkness.
+357	Peridot [7]	Jewel which represents liberation from darkness.
+361	Diamond [1]	Jewel of purity and nobility.
+362	Diamond [2]	Jewel of purity and nobility.
+363	Diamond [3]	Jewel of purity and nobility.
+364	Diamond [4]	Jewel of purity and nobility.
+365	Diamond [5]	Jewel of purity and nobility.
+366	Diamond [6]	Jewel of purity and nobility.
+367	Diamond [7]	Jewel of purity and nobility.
+371	Pink Opal [1]	Jewel that is said to be created from Arua's tears.
+372	Pink Opal [2]	Jewel that is said to be created from Arua's tears.
+373	Pink Opal [3]	Jewel that is said to be created from Arua's tears.
+374	Pink Opal [4]	Jewel that is said to be created from Arua's tears.
+375	Pink Opal [5]	Jewel that is said to be created from Arua's tears.
+376	Pink Opal [6]	Jewel that is said to be created from Arua's tears.
+377	Pink Opal [7]	Jewel that is said to be created from Arua's tears.

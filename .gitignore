@@ -1,0 +1,28 @@
+# Ignore editor/OS and tooling
+.cursor/
+.DS_Store
+Thumbs.db
+
+# SVN metadata
+server/.svn/
+
+# Logs and runtime outputs
+*.log
+server/Binary/log/
+server/Binary/*.RPT
+
+# Build/debug symbols
+*.pdb
+
+# Local client assets (huge, duplicate of distributed client)
+server/Client/
+server/Binary/Client/
+
+# Temporary files
+*.tmp
+*.bak
+ 
+# Node dependencies
+web/node_modules/
+
+

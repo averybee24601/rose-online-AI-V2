@@ -1,0 +1,154 @@
+183	New Abyss Plate Gauntlets	Gauntlets made out advanced power from Star of Warrior.
+184	New Serenity Gloves	Gloves made of advanced power from Star of Magic.
+185	New Captain Gauntlets	Gauntlets made of advanced power from Star of Hunter.
+186	New Bourgeois Gloves	Gauntlets made of advanced power from Star of Merchant.
+187	White Magic School Gloves	Magic School Gloves that are colored white.
+1	Flu Mask	Medical mask with an “x” mark on it that protects its wearer from contagious airborne diseases.
+2	Black Mask	A black mask that covers half of the face.
+3	ButterFly Mask	A splendid mask that seems to be worn in masquerades.
+4	Zorro Mask	A mask that served as the symbol of a chivalrous thief. Its wearer is compelled to perform acts of righteousness.
+5	Persian Mask 	A silken mask that evokes a mysterious feeling.
+6	Wicked Mask	You can't trust the intentions of anyone who wears this mask…
+7	Jolly Front Mask	An innocuously dopey mask that conceals your true intentions once you put it on.
+8	Iron Mask	Iron mask that covers half of the face when worn.
+9	Totem Mask	A mask that is the standard for use in totem ceremonies.
+10	Goblin Mask	A mask modeled after the faces of the members of the Goblin race.
+11	Ashura Mask	A mask of a face that is half man and half woman.
+12	Orc Mask	A mask modeled after the faces of the members of the Orc race.
+13	Mask of Lies	A mask of an insincerely weeping face.
+14	Mask of Truth	A mask that projects an honest heart.
+15	Mask of Venus	A mask of Venus' cold facial expression.
+16	Demon Mask	A grim faced mask that will scare a child so much, he won't even think of crying.
+31	Glasses Frame	A glasses frame without any lenses.
+32	Dork Glasses	A pair of thick glasses usually worn by diligent students.
+33	Thick Framed Glasses	A pair of square framed glasses.
+34	Sunglasses	A pair of glasses with darkly tinted lenses that protect the eyes from strong sunlight.
+35	Charming Sunglasses	A pair of charming glasses with darkly tinted lenses that protect the eyes from strong sunlight.
+36	Swimming Goggles	A pair of goggles which helps its wearer to see better while underwater.
+37	Engineer Goggles	Basic safety equipment for engineers.
+38	Cart Goggles	A pair of goggles usually worn while driving a Cart.
+39	Red Sunglasses	Fashionable sunglasses with red tinted lenses.
+40	Blue Sunglasses	Fashionable sunglasses with blue tinted lenses.
+41	Yellow Sunglasses	Fashionable sunglasses with yellow tinted lenses.
+42	Silver Sunglasses	Fashionable sunglasses with lenses tinted with a silver color.
+43	Pilot Goggles	A pair of goggles usually worn by a pilot.
+44	Near-Sighted Glasses	Remarkable glasses which help a near-sighted person see everything clearly.
+45	X-Ray Glasses	Glasses advertised to enable its wear to see through objects. But they don't really work...
+46	Neo Glasses	A trendy pair of glasses that is very popular among the youth.
+62	Pierrot Nose	A funny looking red nose that is usually worn by clowns.
+64	Pinocchio Nose 	A wooden nose that grows when its wearer lies.
+73	Santa Beard	Jolly and cheery facial hair. It's annoying to wear it while you're eating.
+121	Ego Mask	A mask that expresses the idea that mankind is both good and evil.
+151	Scream Mask	A dreadful mask that actually appeared in a popular horror movie.
+152	Nomadic Mask	Mask usually worn by villains during their entrance in the movies.
+153	Mummy Face	Frighten your enemies by wrapping your face in bandages like a mummy.
+156	Jason Mask	A hockey mask very much like the one worn by Jason in the Friday the 13th films.
+161	Star Glasses	Lovely glasses with a star shaped frame.
+162	Matrix Eye	Fashionable glasses worn by the man who disappeared while investigating the truth of what's really controlling the Visitors.
+166	Cherry Blossom Glasses	Thes cool glasses evoke feelings of the spring season, and its cherry blossom hued lenses color the wearer's view.
+167	ROSE Captain's Eyepatch	An eyepatch said to be worn by a legendary pirate that roamed and pillaged the entire universe.
+171	Rat Tail Mustache	A false mustache that is known as a mouse's tail. Wearing it brings you a step closer to true elegance.
+172	Oro's Present	A helmet made of gold whose function is mainly ceremonial.
+181	Junon Mask	A gift from the Junon Order. (Quest Reward)
+2001	Ancient Flu Mask	Medical mask with an “x” mark on it that protects its wearer from contagious airborne diseases.
+2002	Ancient Black Mask	A black mask that covers half of the face.
+2003	Ancient ButterFly Mask	A splendid mask that seems to be worn in masquerades.
+2004	Ancient Zorro Mask	A mask that served as the symbol of a chivalrous thief. Its wearer is compelled to perform acts of righteousness.
+2005	Ancient Persian Mask 	A silken mask that evokes a mysterious feeling.
+2006	Ancient Wicked Mask	You can't trust the intentions of anyone who wears this mask…
+2007	Ancient Jolly Front Mask	An innocuously dopey mask that conceals your true intentions once you put it on.
+2008	Ancient Iron Mask	Iron mask that covers half of the face when worn.
+2009	Ancient Totem Mask	A mask that is the standard for use in totem ceremonies.
+2010	Ancient Goblin Mask	A mask modeled after the faces of the members of the Goblin race.
+2011	Ancient Ashura Mask	A mask of a face that is half man and half woman.
+2012	Ancient Orc Mask	A mask modeled after the faces of the members of the Orc race.
+2013	Ancient Mask of Lies	A mask of an insincerely weeping face.
+2014	Ancient Mask of Truth	A mask that projects an honest heart.
+2015	Ancient Mask of Venus	A mask of Venus' cold facial expression.
+2016	Ancient Demon Mask	A grim faced mask that will scare a child so much, he won't even think of crying.
+2031	Ancient Glasses Frame	A glasses frame without any lenses.
+2032	Ancient Dork Glasses	A pair of thick glasses usually worn by diligent students.
+2033	Ancient Thick Framed Glasses	A pair of square framed glasses.
+2034	Ancient Sunglasses	A pair of glasses with darkly tinted lenses that protect the eyes from strong sunlight.
+2035	Ancient Charming Sunglasses	A pair of charming glasses with darkly tinted lenses that protect the eyes from strong sunlight.
+2036	Ancient Swimming Goggles	A pair of goggles which helps its wearer to see better while underwater.
+2037	Ancient Engineer Goggles	Basic safety equipment for engineers.
+2038	Ancient Cart Goggles	A pair of goggles usually worn while driving a Cart.
+2039	Ancient Red Sunglasses	Fashionable sunglasses with red tinted lenses.
+2040	Ancient Blue Sunglasses	Fashionable sunglasses with blue tinted lenses.
+2041	Ancient Yellow Sunglasses	Fashionable sunglasses with yellow tinted lenses.
+2042	Ancient Silver Sunglasses	Fashionable sunglasses with lenses tinted with a silver color.
+2043	Ancient Pilot Goggles	A pair of goggles usually worn by a pilot.
+2044	Ancient Near-Sighted Glasses	Remarkable glasses which help a near-sighted person see everything clearly.
+2045	Ancient X-Ray Glasses	Glasses advertised to enable its wear to see through objects. But they don't really work...
+2046	Ancient Neo Glasses	A trendy pair of glasses that is very popular among the youth.
+2062	Ancient Pierrot Nose	A funny looking red nose that is usually worn by clowns.
+2064	Ancient Pinocchio Nose 	A wooden nose that grows when its wearer lies.
+2073	Ancient Santa Beard	Jolly and cheery facial hair. It's annoying to wear it while you're eating.
+2121	Ancient Ego Mask	A mask that expresses the idea that mankind is both good and evil.
+2151	Ancient Scream Mask	A dreadful mask that actually appeared in a popular horror movie.
+2152	Ancient Nomadic Mask	Mask usually worn by villains during their entrance in the movies.
+2153	Ancient Mummy Face	Frighten your enemies by wrapping your face in bandages like a mummy.
+2156	Ancient Jason Mask	A hockey mask very much like the one worn by Jason in the Friday the 13th films.
+2161	Ancient Star Glasses	Lovely glasses with a star shaped frame.
+2162	Ancient Matrix Eye	Fashionable glasses worn by the man who disappeared while investigating the truth of what's really controlling the Visitors.
+2166	Ancient Cherry Blossom Glasses	Thes cool glasses evoke feelings of the spring season, and its cherry blossom hued lenses color the wearer's view.
+2171	Ancient Rat Tail Mustache	A false mustache that is known as a mouse's tail. Wearing it brings you a step closer to true elegance.
+2172	Ancient Oro's Present	A helmet made of gold whose function is mainly ceremonial.
+2181	Ancient Junon Mask	A gift from the Junon Order. (Quest Reward)
+2183	Ancient New Abyss Plate Gauntlets	Gauntlets made out advanced power from Star of Warrior.
+2184	Ancient New Serenity Gloves	Gloves made of advanced power from Star of Magic.
+2185	Ancient New Captain Gauntlets	Gauntlets made of advanced power from Star of Hunter.
+2186	Ancient New Bourgeois Gloves	Gauntlets made of advanced power from Star of Merchant.
+2187	Ancient White Magic School Gloves	Magic School Gloves that are colored white.
+3001	Ancient Flu Mask	Medical mask with an “x” mark on it that protects its wearer from contagious airborne diseases.
+3002	Ancient Black Mask	A black mask that covers half of the face.
+3003	Ancient ButterFly Mask	A splendid mask that seems to be worn in masquerades.
+3004	Ancient Zorro Mask	A mask that served as the symbol of a chivalrous thief. Its wearer is compelled to perform acts of righteousness.
+3005	Ancient Persian Mask 	A silken mask that evokes a mysterious feeling.
+3006	Ancient Wicked Mask	You can't trust the intentions of anyone who wears this mask…
+3007	Ancient Jolly Front Mask	An innocuously dopey mask that conceals your true intentions once you put it on.
+3008	Ancient Iron Mask	Iron mask that covers half of the face when worn.
+3009	Ancient Totem Mask	A mask that is the standard for use in totem ceremonies.
+3010	Ancient Goblin Mask	A mask modeled after the faces of the members of the Goblin race.
+3011	Ancient Ashura Mask	A mask of a face that is half man and half woman.
+3012	Ancient Orc Mask	A mask modeled after the faces of the members of the Orc race.
+3013	Ancient Mask of Lies	A mask of an insincerely weeping face.
+3014	Ancient Mask of Truth	A mask that projects an honest heart.
+3015	Ancient Mask of Venus	A mask of Venus' cold facial expression.
+3016	Ancient Demon Mask	A grim faced mask that will scare a child so much, he won't even think of crying.
+3031	Ancient Glasses Frame	A glasses frame without any lenses.
+3032	Ancient Dork Glasses	A pair of thick glasses usually worn by diligent students.
+3033	Ancient Thick Framed Glasses	A pair of square framed glasses.
+3034	Ancient Sunglasses	A pair of glasses with darkly tinted lenses that protect the eyes from strong sunlight.
+3035	Ancient Charming Sunglasses	A pair of charming glasses with darkly tinted lenses that protect the eyes from strong sunlight.
+3036	Ancient Swimming Goggles	A pair of goggles which helps its wearer to see better while underwater.
+3037	Ancient Engineer Goggles	Basic safety equipment for engineers.
+3038	Ancient Cart Goggles	A pair of goggles usually worn while driving a Cart.
+3039	Ancient Red Sunglasses	Fashionable sunglasses with red tinted lenses.
+3040	Ancient Blue Sunglasses	Fashionable sunglasses with blue tinted lenses.
+3041	Ancient Yellow Sunglasses	Fashionable sunglasses with yellow tinted lenses.
+3042	Ancient Silver Sunglasses	Fashionable sunglasses with lenses tinted with a silver color.
+3043	Ancient Pilot Goggles	A pair of goggles usually worn by a pilot.
+3044	Ancient Near-Sighted Glasses	Remarkable glasses which help a near-sighted person see everything clearly.
+3045	Ancient X-Ray Glasses	Glasses advertised to enable its wear to see through objects. But they don't really work...
+3046	Ancient Neo Glasses	A trendy pair of glasses that is very popular among the youth.
+3062	Ancient Pierrot Nose	A funny looking red nose that is usually worn by clowns.
+3064	Ancient Pinocchio Nose 	A wooden nose that grows when its wearer lies.
+3073	Ancient Santa Beard	Jolly and cheery facial hair. It's annoying to wear it while you're eating.
+3121	Ancient Ego Mask	A mask that expresses the idea that mankind is both good and evil.
+3151	Ancient Scream Mask	A dreadful mask that actually appeared in a popular horror movie.
+3152	Ancient Nomadic Mask	Mask usually worn by villains during their entrance in the movies.
+3153	Ancient Mummy Face	Frighten your enemies by wrapping your face in bandages like a mummy.
+3156	Ancient Jason Mask	A hockey mask very much like the one worn by Jason in the Friday the 13th films.
+3161	Ancient Star Glasses	Lovely glasses with a star shaped frame.
+3162	Ancient Matrix Eye	Fashionable glasses worn by the man who disappeared while investigating the truth of what's really controlling the Visitors.
+3166	Ancient Cherry Blossom Glasses	Thes cool glasses evoke feelings of the spring season, and its cherry blossom hued lenses color the wearer's view.
+3171	Ancient Rat Tail Mustache	A false mustache that is known as a mouse's tail. Wearing it brings you a step closer to true elegance.
+3172	Ancient Oro's Present	A helmet made of gold whose function is mainly ceremonial.
+3181	Ancient Junon Mask	A gift from the Junon Order. (Quest Reward)
+3183	Ancient New Abyss Plate Gauntlets	Gauntlets made out advanced power from Star of Warrior.
+3184	Ancient New Serenity Gloves	Gloves made of advanced power from Star of Magic.
+3185	Ancient New Captain Gauntlets	Gauntlets made of advanced power from Star of Hunter.
+3186	Ancient New Bourgeois Gloves	Gauntlets made of advanced power from Star of Merchant.
+3187	Ancient White Magic School Gloves	Magic School Gloves that are colored white.

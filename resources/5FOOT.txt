@@ -1,0 +1,965 @@
+2	Red Shoes	Very charming, very red shoes.
+3	Waterproof Shoes	Red shoes that have a waterproof coating, making them handy on rainy days.
+4	Leather Shoes	Shoes made with stout leather.
+5	Dash Shoes	Shoes that enable its wearer to run fast.
+6	Shoes of Iguje	Exotic shoes with pointed toes.
+7	Islamic Shoes	Exotically attractive shoes with pointed toes.
+8	Field Walkers	Lightweight boots that make its wearer feel good.
+9	Wild Walkers	Boots that protect one’s feet from great impact.
+10	Land Walkers	Comfortable boots that offer comfort when walking.
+11	Earth Walkers	Comfortable boots that protect its wearer when walking on the toughest terrain.
+12	Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+13	Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+14	Junior Shoes	Shoes for normal magic school students.
+15	Senior Shoes	Shoes for exemplary magic school students.
+16	Redfield Green Shoes	Refined, elegant shoes for people with refined, elegant tastes.
+17	Redfield Black Shoes	Refined, elegant shoes for people with refined, elegant tastes.
+30	Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+31	Soldier Boots	Basic boots for Soldiers.
+32	Iron Boots	Boots made out of iron.
+33	Trunket Boots	Heavy, but very reliable boots.
+34	Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+35	Mighty Boots	Light, yet reliable boots of high quality.
+36	Kurash Boots	Heavy boots which can be used as weapons.
+37	Plate Boots	The best boots: well-designed and very reliable.
+38	Cedric Boots	Effective Boots designed by a famous swordman.
+39	Execution Boots	Boots crafted for warriors that fight against injustice and villainy.
+40	Abyss Plate Boots	Boots forged from a strange metal discovered at the bottom of an abyss.
+41	Rightous Plate Boots	Boots intended to be worn by heroes whose hearts know the true meaning of justice.
+42	Durable Boots	Sturdily constructed boots that are the standard of durability in footwear.
+43	Jabberwock Boots	Boots that shimmer freakily like the eyes of a madman.
+60	Fairy Shoes	Cool footwear crafted by Arua's fairy.
+61	Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+62	Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+63	Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+64	Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+65	Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+66	Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+67	Heaven's Shoes	Shoes which are said to be worn by those from heaven.
+68	Joker Shoes	A pair of shoes that is commonly worn by confidence men and hustlers.
+69	Mystic Weaver Shoes	A pair of shoes manufactured for intermediate Muses.
+70	Serenity Shoes	A pair shoes that provides a sense of calm and clarity of focus just by wearing them.
+71	Archmage Shoes	Shoes that are especially manufactured for advanced Muses.
+72	Dimple Shoes	Cute, classy shoes made by a famous designer.
+90	Pirate Sandals	A pair of sandals that is generally favored by pirates.
+91	Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+92	Criker Boots	Light boots that are well suited for hunting.
+93	Ranger Boots	Fashionable boots for well-experienced hunters.
+94	Black Pirate Boots	Boots that are favored by pirates of the black sea.
+95	Mariner's Boots	Boots favored by seafaring adventurers.
+96	Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+97	Wild Hawker Boots	A necessity for the ultimate Hawker, this pair of boots evokes feelings of wild freedom.
+98	Silentwalker Boots	Shoes that teach basic posture of stealth walking.
+99	Triggerman Boots	A pair of boots favored by professional hitmen.
+100	Captain Hawker Boots	A pair of boots that is a sign of a truly great captain.
+101	Netherworld Boots	A pair of boots designed for Underworld bosses.
+102	Steel Resolve Boots	Boots suited to marksmen that live by the one shot, one kill credo.
+120	Fisherman Sandals	A pair of sandals manufactured for fishermen that travel all of the world.
+121	Brown Shoes	Basic shoes for new merchants.
+122	Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+123	Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+124	Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+125	Merchant Boots	Sophisticated boots for well-experienced peddlers.
+126	Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+127	Redfield Chairman Shoes	High class shoes that are preferred by executives and politicians.
+128	Bomber Shoes	A pair of shoes for experienced demolition experts.
+129	Cart Racer Shoes	A pair of shoes that is favored by highly skilled Cart Racers.
+130	Bourgeois Shoes	A symbol of wealth, this pair of shoes elicts sighs of jealousy from passerby.
+131	Noble Lord Shoes	A pair of shoes that symbolizes prestige and power and is typically worn by the aristocracy.
+132	Mana Steam Shoes	Specialty magic shoes that can directly manipulate Mana.
+152	Santa Boots	A pair of incredibly warm boots that is indispensable for Santas.
+153	Plastic Shoes	A pair of plastic shoes that perfectly complemenst a Hanbok.
+154	Adventurer's Shoes	Hand-made shoes given as a gift from the villagers of the Adventurer's Plains. (Quest Reward)
+157	Beach Flipflops	Summertime sandals that come in handy when taking walks on the beach.
+163	Hogan Boots	Only winners at heart can wear these awesome boots.
+164	White Santa Boots	A pair of incredibly warm, white boots that Santa wears when he wants to look dapper.
+165	Snowboard Boots	Sturdy, waterproof boots that are perfect for snowboarding.
+166	Fairy Gift Shoes	Special equipment given to Visitors that are invited by Arua's fairy.
+167	Fairy Bless Shoes	Special equipment given to Visitors that are invited by Arua's fairy.
+170	Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+171	KROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+172	JROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+173	ROSE NA Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+174	PROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+175	Clan War School Shoes	A pair of specially designed shoes that is given as a reward to those that advance to the final Clan match.
+176	Rudolph Boots	A pair of classy boots worn by the famous reindeer, Rudolph.
+180	Blue Santa Boots	A pair of Santa Boots made in the color of the sky.
+181	Navy Blue Magic School Shoes	Magic School Shoes colored in navy blue.
+182	Yellow Rubber Boots	Yellow, waterproof boots that enable its wearer to enjoy rainy days without getting soaked.
+183	Wooden Shoes	Shoes from the ancient east
+184	New Abyss Plate Boots	Boots made out advanced power from Star of Warrior.
+185	New Serenity Shoes	Shoes made of advanced power from Star of Magic.
+186	New Captain Boots	Boots made of advanced power from Star of Hunter.
+187	New Bourgeois Shoes	Shoes made of advanced power from Star of Merchant.
+188	White Magic School Shoes	Magic School Shoes colored in white
+189	Servant's Boots	Boots typically worn by the caretakers of a nobleman's mansion.
+190	Boxing Shose	Cheer Up!
+2002	Ancient Red Shoes	Very charming, very red shoes.
+2003	Ancient Waterproof Shoes	Red shoes that have a waterproof coating, making them handy on rainy days.
+2004	Ancient Leather Shoes	Shoes made with stout leather.
+2005	Ancient Dash Shoes	Shoes that enable its wearer to run fast.
+2006	Ancient Shoes of Iguje	Exotic shoes with pointed toes.
+2007	Ancient Islamic Shoes	Exotically attractive shoes with pointed toes.
+2008	Ancient Field Walkers	Lightweight boots that make its wearer feel good.
+2009	Ancient Wild Walkers	Boots that protect one’s feet from great impact.
+201	Elven Dash Shoes	Shoes that enable its wearer to run fast.
+2010	Ancient Land Walkers	Comfortable boots that offer comfort when walking.
+2011	Ancient Earth Walkers	Comfortable boots that protect its wearer when walking on the toughest terrain.
+2012	Ancient Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+2013	Ancient Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+2014	Ancient Junior Shoes	Shoes for normal magic school students.
+2015	Ancient Senior Shoes	Shoes for exemplary magic school students.
+2016	Ancient Redfield Green Shoes	Refined, elegant shoes for people with refined, elegant tastes.
+2017	Ancient Redfield Black Shoes	Refined, elegant shoes for people with refined, elegant tastes.
+202	Dark Iguje 	Exotic shoes with pointed toes.
+203	Elven Shoes of Iguje	Exotic shoes with pointed toes.
+2030	Ancient Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2031	Ancient Soldier Boots	Basic boots for Soldiers.
+2032	Ancient Iron Boots	Boots made out of iron.
+2033	Ancient Trunket Boots	Heavy, but very reliable boots.
+2034	Ancient Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2035	Ancient Mighty Boots	Light, yet reliable boots of high quality.
+2036	Ancient Kurash Boots	Heavy boots which can be used as weapons.
+2037	Ancient Plate Boots	The best boots: well-designed and very reliable.
+2038	Ancient Cedric Boots	Effective Boots designed by a famous swordman.
+2039	Ancient Execution Boots	Boots crafted for warriors that fight against injustice and villainy.
+204	Dark Islamic Shoes	Exotically attractive shoes with pointed toes.
+2040	Ancient Abyss Plate Boots	Boots forged from a strange metal discovered at the bottom of an abyss.
+2041	Ancient Rightous Plate Boots	Boots intended to be worn by heroes whose hearts know the true meaning of justice.
+2042	Ancient Durable Boots	Sturdily constructed boots that are the standard of durability in footwear.
+205	Golden Islamic Shoes	Exotically attractive shoes with pointed toes.
+206	Elven Islamic Shoes	Exotically attractive shoes with pointed toes.
+2060	Ancient Fairy Shoes	Cool footwear crafted by Arua's fairy.
+2061	Ancient Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+2062	Ancient Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+2063	Ancient Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+2064	Ancient Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2065	Ancient Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+2066	Ancient Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+2067	Ancient Heaven's Shoes	Shoes which are said to be worn by those from heaven.
+2068	Ancient Joker Shoes	A pair of shoes that is commonly worn by confidence men and hustlers.
+2069	Ancient Mystic Weaver Shoes	A pair of shoes manufactured for intermediate Muses.
+207	Dark Field Walkers	Lightweight boots that make its wearer feel good.
+2070	Ancient Serenity Shoes	A pair shoes that provides a sense of calm and clarity of focus just by wearing them.
+2071	Ancient Archmage Shoes	Shoes that are especially manufactured for advanced Muses.
+208	Golden Field Walkers	Lightweight boots that make its wearer feel good.
+209	Elven Field Walkers	Lightweight boots that make its wearer feel good.
+2090	Ancient Pirate Sandals	A pair of sandals that is generally favored by pirates.
+2091	Ancient Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+2092	Ancient Criker Boots	Light boots that are well suited for hunting.
+2093	Ancient Ranger Boots	Fashionable boots for well-experienced hunters.
+2094	Ancient Black Pirate Boots	Boots that are favored by pirates of the black sea.
+2095	Ancient Mariner's Boots	Boots favored by seafaring adventurers.
+2096	Ancient Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+2097	Ancient Wild Hawker Boots	A necessity for the ultimate Hawker, this pair of boots evokes feelings of wild freedom.
+2098	Ancient Silentwalker Boots	Shoes that teach basic posture of stealth walking.
+2099	Ancient Triggerman Boots	A pair of boots favored by professional hitmen.
+210	Dark Wild Walkers	Boots that protect one’s feet from great impact.
+2100	Ancient Captain Hawker Boots	A pair of boots that is a sign of a truly great captain.
+2101	Ancient Netherworld Boots	A pair of boots designed for Underworld bosses.
+211	Golden Wild Walkers	Boots that protect one’s feet from great impact.
+212	Elven Wild Walkers	Boots that protect one’s feet from great impact.
+2120	Ancient Fisherman Sandals	A pair of sandals manufactured for fishermen that travel all of the world.
+2121	Ancient Brown Shoes	Basic shoes for new merchants.
+2122	Ancient Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+2123	Ancient Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+2124	Ancient Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2125	Ancient Merchant Boots	Sophisticated boots for well-experienced peddlers.
+2126	Ancient Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+2127	Ancient Redfield Chairman Shoes	High class shoes that are preferred by executives and politicians.
+2128	Ancient Bomber Shoes	A pair of shoes for experienced demolition experts.
+2129	Ancient Cart Racer Shoes	A pair of shoes that is favored by highly skilled Cart Racers.
+213	Dark Land Walkers	Comfortable boots that protect its wearer in tough environments.
+2130	Ancient Bourgeois Shoes	A symbol of wealth, this pair of shoes elicts sighs of jealousy from passerby.
+2131	Ancient Noble Lord Shoes	A pair of shoes that symbolizes prestige and power and is typically worn by the aristocracy.
+214	Golden Land Walkers	Comfortable boots that protect its wearer in tough environments.
+215	Elven Land Walkers	Comfortable boots that protect its wearer in tough environments.
+2152	Ancient Santa Boots	A pair of incredibly warm boots that is indispensable for Santas.
+2153	Ancient Plastic Shoes	A pair of plastic shoes that perfectly complemenst a Hanbok.
+2154	Ancient Adventurer's Shoes	Hand-made shoes given as a gift from the villagers of the Adventurer's Plains. (Quest Reward)
+2157	Ancient Beach Flipflops	Summertime sandals that come in handy when taking walks on the beach.
+216	Dark Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+2163	Ancient Hogan Boots	Only winners at heart can wear these awesome boots.
+2164	Ancient White Santa Boots	A pair of incredibly warm, white boots that Santa wears when he wants to look dapper.
+2165	Ancient Snowboard Boots	Sturdy, waterproof boots that are perfect for snowboarding.
+217	Elven Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+2170	Ancient Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+2171	Ancient KROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+2172	Ancient JROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+2173	Ancient ROSE NA Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+2174	Ancient PROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+218	Elven Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+2180	Ancient Blue Santa Boots	A pair of Santa Boots made in the color of the sky.
+2181	Ancient Navy Blue Magic School Shoes	Magic School Shoes colored in navy blue.
+2182	Ancient Yellow Rubber Boots	Yellow, waterproof boots that enable its wearer to enjoy rainy days without getting soaked.
+2183	Ancient Wooden Shoes	Shoes from the ancient east
+2184	Ancient New Abyss Plate Boots	Boots made out advanced power from Star of Warrior.
+2185	Ancient New Serenity Shoes	Shoes made of advanced power from Star of Magic.
+2186	Ancient New Captain Boots	Boots made of advanced power from Star of Hunter.
+2187	Ancient New Bourgeois Shoes	Shoes made of advanced power from Star of Merchant.
+2188	Ancient White Magic School Shoes	Magic School Shoes colored in white
+219	Dark Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+220	Golden Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+2201	Ancient Elven Dash Shoes	Shoes that enable its wearer to run fast.
+2202	Ancient Dark Iguje 	Exotic shoes with pointed toes.
+2203	Ancient Elven Shoes of Iguje	Exotic shoes with pointed toes.
+2204	Ancient Dark Islamic Shoes	Exotically attractive shoes with pointed toes.
+2205	Ancient Golden Islamic Shoes	Exotically attractive shoes with pointed toes.
+2206	Ancient Elven Islamic Shoes	Exotically attractive shoes with pointed toes.
+2207	Ancient Dark Field Walkers	Lightweight boots that make its wearer feel good.
+2208	Ancient Golden Field Walkers	Lightweight boots that make its wearer feel good.
+2209	Ancient Elven Field Walkers	Lightweight boots that make its wearer feel good.
+221	Elven Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+2210	Ancient Dark Wild Walkers	Boots that protect one’s feet from great impact.
+2211	Ancient Golden Wild Walkers	Boots that protect one’s feet from great impact.
+2212	Ancient Elven Wild Walkers	Boots that protect one’s feet from great impact.
+2213	Ancient Dark Land Walkers	Comfortable boots that protect its wearer in tough environments.
+2214	Ancient Golden Land Walkers	Comfortable boots that protect its wearer in tough environments.
+2215	Ancient Elven Land Walkers	Comfortable boots that protect its wearer in tough environments.
+2216	Ancient Dark Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+2217	Ancient Elven Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+2218	Ancient Elven Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+2219	Ancient Dark Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+222	Dark Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+2220	Ancient Golden Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+2221	Ancient Elven Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+2222	Ancient Dark Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+2223	Ancient Elven Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+2224	Ancient Elven Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+2225	Ancient Dark Junior Shoes	Shoes for normal magic school students.
+2226	Ancient Golden Junior Shoes	Shoes for normal magic school students.
+2227	Ancient Elven Junior Shoes	Shoes for normal magic school students.
+2228	Ancient Dark Senior Shoes	Shoes for famous magic school students.
+2229	Ancient Golden Senior Shoes	Shoes for famous magic school students.
+223	Elven Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+2230	Ancient Golden Senior Shoes	Shoes for famous magic school students.
+2231	Ancient Elven Senior Shoes	Shoes for famous magic school students.
+224	Elven Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+225	Dark Junior Shoes	Shoes for normal magic school students.
+226	Golden Junior Shoes	Shoes for normal magic school students.
+227	Elven Junior Shoes	Shoes for normal magic school students.
+228	Dark Senior Shoes	Shoes for famous magic school students.
+2288	Ancient Dark Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2289	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+229	Golden Senior Shoes	Shoes for famous magic school students.
+2290	Ancient Elven Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2291	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2292	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2293	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2294	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2295	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2296	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2297	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2298	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2299	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+230	Golden Senior Shoes	Shoes for famous magic school students.
+2300	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+2301	Ancient Soldier Boots	Basic boots for Soldiers.
+2302	Ancient Soldier Boots	Basic boots for Soldiers.
+2303	Ancient Soldier Boots	Basic boots for Soldiers.
+2304	Ancient Elven Soldier Boots	Basic boots for Soldiers.
+2305	Ancient Legend Soldier Boots	Basic boots for Soldiers.
+2306	Ancient Holy Soldier Boots	Basic boots for Soldiers.
+2307	Ancient Iron Boots	Boots made out of iron.
+2308	Ancient Iron Boots	Boots made out of iron.
+2309	Ancient Iron Boots	Boots made out of iron.
+231	Elven Senior Shoes	Shoes for famous magic school students.
+2310	Ancient Elven Iron Boots	Boots made out of iron.
+2311	Ancient Saint Iron Boots	Boots made out of iron.
+2312	Ancient Legend Soldier Boots	Boots made out of iron.
+2313	Ancient Holy Soldier Boots	Boots made out of iron.
+2314	Ancient Trunket Boots	Heavy, but very reliable boots.
+2315	Ancient Trunket Boots	Heavy, but very reliable boots.
+2316	Ancient Trunket Boots	Heavy, but very reliable boots.
+2317	Ancient Elven Trunket Boots	Heavy, but very reliable boots.
+2318	Ancient Saint Trunket Boots	Heavy, but very reliable boots.
+2319	Ancient Legend Trunket Boots	Heavy, but very reliable boots.
+2320	Ancient Holy Trunket Boots	Heavy, but very reliable boots.
+2321	Ancient Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2322	Ancient Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2323	Ancient Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2324	Ancient Elven Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2325	Ancient Saint Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2326	Ancient Legend Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2327	Ancient Holy Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2328	Ancient Mighty Boots	Light, yet reliable boots of high quality.
+2329	Ancient Mighty Boots	Light, yet reliable boots of high quality.
+2330	Ancient Mighty Boots	Light, yet reliable boots of high quality.
+2331	Ancient Golden Mighty Boots	Light, yet reliable boots of high quality.
+2332	Ancient Elven Mighty Boots	Light, yet reliable boots of high quality.
+2333	Ancient Saint Mighty Boots	Light, yet reliable boots of high quality.
+2334	Ancient Legend Mighty Boots	Light, yet reliable boots of high quality.
+2335	Ancient Kurash Boots	Heavy boots which can be used as weapons.
+2336	Ancient Kurash Boots	Heavy boots which can be used as weapons.
+2337	Ancient Kurash Boots	Heavy boots which can be used as weapons.
+2338	Ancient Golden Kurash Boots	Heavy boots which can be used as weapons.
+2339	Ancient Elven Kurash Boots	Heavy boots which can be used as weapons.
+2340	Ancient Saint Kurash Boots	Heavy boots which can be used as weapons.
+2341	Ancient Legend Kurash Boots	Heavy boots which can be used as weapons.
+2342	Ancient Plate Boots	The best boots: well-designed and very reliable.
+2343	Ancient Plate Boots	The best boots: well-designed and very reliable.
+2344	Ancient Plate Boots	The best boots: well-designed and very reliable.
+2345	Ancient Golden Plate Boots	The best boots: well-designed and very reliable.
+2346	Ancient Elven Plate Boots	The best boots: well-designed and very reliable.
+2347	Ancient Saint Plate Boots	The best boots: well-designed and very reliable.
+2348	Ancient Legend Plate Boots	The best boots: well-designed and very reliable.
+2401	Ancient Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+2402	Ancient Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+2403	Ancient Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+2404	Ancient Elven Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+2405	Ancient Legend Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+2406	Ancient Holy Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+2407	Ancient Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+2408	Ancient Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+2409	Ancient Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+2410	Ancient Elven Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+2411	Ancient Saint Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+2412	Ancient Legend Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+2413	Ancient Holy Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+2414	Ancient Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+2415	Ancient Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+2416	Ancient Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+2417	Ancient Elven Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+2418	Ancient Saint Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+2419	Ancient Legend Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+2420	Ancient Holy Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+2421	Ancient Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2422	Ancient Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2423	Ancient Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2424	Ancient Elven Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2425	Ancient Saint Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2426	Ancient Legend Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2427	Ancient Holy Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2428	Ancient Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+2429	Ancient Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+2430	Ancient Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+2431	Ancient Golden Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+2432	Ancient Elven Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+2433	Ancient Saint Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+2434	Ancient Legend Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+2435	Ancient Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+2436	Ancient Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+2437	Ancient Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+2438	Ancient Golden Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+2439	Ancient Elven Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+2440	Ancient Saint Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+2441	Ancient Legend Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+2501	Ancient Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+2502	Ancient Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+2503	Ancient Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+2504	Ancient Elven Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+2505	Ancient Legend Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+2506	Ancient Holy Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+2507	Ancient Criker Boots	Light boots that are well suited for hunting.
+2508	Ancient Criker Boots	Light boots that are well suited for hunting.
+2509	Ancient Criker Boots	Light boots that are well suited for hunting.
+2510	Ancient Elven Criker Boots	Light boots that are well suited for hunting.
+2511	Ancient Saint Criker Boots	Light boots that are well suited for hunting.
+2512	Ancient Legend Criker Boots	Light boots that are well suited for hunting.
+2513	Ancient Holy Criker Boots	Light boots that are well suited for hunting.
+2514	Ancient Ranger Boots	Fashionable boots for well-experienced hunters.
+2515	Ancient Ranger Boots	Fashionable boots for well-experienced hunters.
+2516	Ancient Ranger Boots	Fashionable boots for well-experienced hunters.
+2517	Ancient Elven Ranger Boots	Fashionable boots for well-experienced hunters.
+2518	Ancient Saint Ranger Boots	Fashionable boots for well-experienced hunters.
+2519	Ancient Legend Ranger Boots	Fashionable boots for well-experienced hunters.
+2520	Ancient Holy Ranger Boots	Fashionable boots for well-experienced hunters.
+2521	Ancient  Pirate Boots	Boots that are favored by pirates of the black sea.
+2522	Ancient Pirate Boots	Boots that are favored by pirates of the black sea.
+2523	Ancient  Pirate Boots	Boots that are favored by pirates of the black sea.
+2524	Ancient Elven Pirate Boots	Boots that are favored by pirates of the black sea.
+2525	Ancient Saint Pirate Boots	Boots that are favored by pirates of the black sea.
+2526	Ancient Legend Pirate Boots	Boots that are favored by pirates of the black sea.
+2527	Ancient Holy Pirate Boots	Boots that are favored by pirates of the black sea.
+2528	Ancient Mariner's Boots	Boots favored by seafaring adventurers.
+2529	Ancient Mariner's Boots	Boots favored by seafaring adventurers.
+2530	Ancient Mariner's Boots	Boots favored by seafaring adventurers.
+2531	Ancient Golden Mariner's Boots	Boots favored by seafaring adventurers.
+2532	Ancient Elven Mariner's Boots	Boots favored by seafaring adventurers.
+2533	Ancient Saint Mariner's Boots	Boots favored by seafaring adventurers.
+2534	Ancient Legend Mariner's Boots	Boots favored by seafaring adventurers.
+2535	Ancient Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+2536	Ancient Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+2537	Ancient Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+2538	Ancient Golden Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+2539	Ancient Elven Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+2540	Ancient Saint Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+2541	Ancient Legend Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+2601	Ancient Brown Shoes	Basic shoes for new merchants.
+2602	Ancient Brown Shoes	Basic shoes for new merchants.
+2603	Ancient Brown Shoes	Basic shoes for new merchants.
+2604	Ancient Elven Brown Shoes	Basic shoes for new merchants.
+2605	Ancient Legend Brown Shoes	Basic shoes for new merchants.
+2606	Ancient Holy Brown Shoes	Basic shoes for new merchants.
+2607	Ancient Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+2608	Ancient Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+2609	Ancient Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+2610	Ancient Elven Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+2611	Ancient Saint Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+2612	Ancient Legend Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+2613	Ancient Holy Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+2614	Ancient Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+2615	Ancient Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+2616	Ancient Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+2617	Ancient Elven Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+2618	Ancient Saint Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+2619	Ancient Legend Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+2620	Ancient Holy Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+2621	Ancient Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2622	Ancient Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2623	Ancient Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2624	Ancient Elven Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2625	Ancient Saint Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2626	Ancient Legend Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2627	Ancient Holy Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2628	Ancient Merchant Boots	Sophisticated boots for well-experienced peddlers.
+2629	Ancient Merchant Boots	Sophisticated boots for well-experienced peddlers.
+2630	Ancient Merchant Boots	Sophisticated boots for well-experienced peddlers.
+2631	Ancient Golden Merchant Boots	Sophisticated boots for well-experienced peddlers.
+2632	Ancient Elven Merchant Boots	Sophisticated boots for well-experienced peddlers.
+2633	Ancient Saint Merchant Boots	Sophisticated boots for well-experienced peddlers.
+2634	Ancient Legend Merchant Boots	Sophisticated boots for well-experienced peddlers.
+2635	Ancient Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+2636	Ancient Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+2637	Ancient Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+2638	Ancient Golden Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+2639	Ancient Elven Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+2640	Ancient Saint Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+2641	Ancient Legend Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+2644	Ancient Mercenary Boots	Heavy, but very reliable boots.
+2645	Ancient Warlord Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+2646	Ancient Tyrant Boots	Light, yet reliable boots of high enough quality for a demagogue.
+2647	Ancient Sparkly Purple Sandals	Sandals that are favored by very well-experienced Mages.
+2648	Ancient Shiny Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+2649	Ancient Boots of Wisdom	Shoes that are rumored to cover its wearer in shadow.
+2650	Ancient Nimble Boots	Fashionable boots for well-experienced hunters.
+2651	Ancient Sagittarius Boots	Boots that are favored by pirates of the black sea.
+2652	Ancient Commodore Boots	Boots favored by seafaring adventurers.
+2653	Ancient Repairman Shoes	Thick and comfortable shoes for young peddlers.
+2654	Ancient Craftman Shoes	Thick and very comfortable shoes for intermediate peddlers.
+2655	Ancient Supplier's Boots	Sophisticated boots for well-experienced peddlers.
+288	Dark Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+289	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+290	Elven Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+291	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+292	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+293	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+294	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+295	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+296	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+297	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+298	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+299	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+300	Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3002	Ancient Red Shoes	Very charming, very red shoes.
+3003	Ancient Waterproof Shoes	Red shoes that have a waterproof coating, making them handy on rainy days.
+3004	Ancient Leather Shoes	Shoes made with stout leather.
+3005	Ancient Dash Shoes	Shoes that enable its wearer to run fast.
+3006	Ancient Shoes of Iguje	Exotic shoes with pointed toes.
+3007	Ancient Islamic Shoes	Exotically attractive shoes with pointed toes.
+3008	Ancient Field Walkers	Lightweight boots that make its wearer feel good.
+3009	Ancient Wild Walkers	Boots that protect one’s feet from great impact.
+301	Soldier Boots	Basic boots for Soldiers.
+3010	Ancient Land Walkers	Comfortable boots that offer comfort when walking.
+3011	Ancient Earth Walkers	Comfortable boots that protect its wearer when walking on the toughest terrain.
+3012	Ancient Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+3013	Ancient Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+3014	Ancient Junior Shoes	Shoes for normal magic school students.
+3015	Ancient Senior Shoes	Shoes for exemplary magic school students.
+3016	Ancient Redfield Green Shoes	Refined, elegant shoes for people with refined, elegant tastes.
+3017	Ancient Redfield Black Shoes	Refined, elegant shoes for people with refined, elegant tastes.
+302	Soldier Boots	Basic boots for Soldiers.
+303	Soldier Boots	Basic boots for Soldiers.
+3030	Ancient Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3031	Ancient Soldier Boots	Basic boots for Soldiers.
+3032	Ancient Iron Boots	Boots made out of iron.
+3033	Ancient Trunket Boots	Heavy, but very reliable boots.
+3034	Ancient Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3035	Ancient Mighty Boots	Light, yet reliable boots of high quality.
+3036	Ancient Kurash Boots	Heavy boots which can be used as weapons.
+3037	Ancient Plate Boots	The best boots: well-designed and very reliable.
+3038	Ancient Cedric Boots	Effective Boots designed by a famous swordman.
+3039	Ancient Execution Boots	Boots crafted for warriors that fight against injustice and villainy.
+304	Elven Soldier Boots	Basic boots for Soldiers.
+3040	Ancient Abyss Plate Boots	Boots forged from a strange metal discovered at the bottom of an abyss.
+3041	Ancient Rightous Plate Boots	Boots intended to be worn by heroes whose hearts know the true meaning of justice.
+3042	Ancient Durable Boots	Sturdily constructed boots that are the standard of durability in footwear.
+305	Legend Soldier Boots	Basic boots for Soldiers.
+306	Holy Soldier Boots	Basic boots for Soldiers.
+3060	Ancient Fairy Shoes	Cool footwear crafted by Arua's fairy.
+3061	Ancient Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+3062	Ancient Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+3063	Ancient Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+3064	Ancient Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3065	Ancient Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+3066	Ancient Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+3067	Ancient Heaven's Shoes	Shoes which are said to be worn by those from heaven.
+3068	Ancient Joker Shoes	A pair of shoes that is commonly worn by confidence men and hustlers.
+3069	Ancient Mystic Weaver Shoes	A pair of shoes manufactured for intermediate Muses.
+307	Iron Boots	Boots made out of iron.
+3070	Ancient Serenity Shoes	A pair shoes that provides a sense of calm and clarity of focus just by wearing them.
+3071	Ancient Archmage Shoes	Shoes that are especially manufactured for advanced Muses.
+308	Iron Boots	Boots made out of iron.
+309	Iron Boots	Boots made out of iron.
+3090	Ancient Pirate Sandals	A pair of sandals that is generally favored by pirates.
+3091	Ancient Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+3092	Ancient Criker Boots	Light boots that are well suited for hunting.
+3093	Ancient Ranger Boots	Fashionable boots for well-experienced hunters.
+3094	Ancient Black Pirate Boots	Boots that are favored by pirates of the black sea.
+3095	Ancient Mariner's Boots	Boots favored by seafaring adventurers.
+3096	Ancient Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+3097	Ancient Wild Hawker Boots	A necessity for the ultimate Hawker, this pair of boots evokes feelings of wild freedom.
+3098	Ancient Silentwalker Boots	Shoes that teach basic posture of stealth walking.
+3099	Ancient Triggerman Boots	A pair of boots favored by professional hitmen.
+310	Elven Iron Boots	Boots made out of iron.
+3100	Ancient Captain Hawker Boots	A pair of boots that is a sign of a truly great captain.
+3101	Ancient Netherworld Boots	A pair of boots designed for Underworld bosses.
+311	Saint Iron Boots	Boots made out of iron.
+312	Legend Soldier Boots	Boots made out of iron.
+3120	Ancient Fisherman Sandals	A pair of sandals manufactured for fishermen that travel all of the world.
+3121	Ancient Brown Shoes	Basic shoes for new merchants.
+3122	Ancient Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+3123	Ancient Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+3124	Ancient Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3125	Ancient Merchant Boots	Sophisticated boots for well-experienced peddlers.
+3126	Ancient Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+3127	Ancient Redfield Chairman Shoes	High class shoes that are preferred by executives and politicians.
+3128	Ancient Bomber Shoes	A pair of shoes for experienced demolition experts.
+3129	Ancient Cart Racer Shoes	A pair of shoes that is favored by highly skilled Cart Racers.
+313	Holy Soldier Boots	Boots made out of iron.
+3130	Ancient Bourgeois Shoes	A symbol of wealth, this pair of shoes elicts sighs of jealousy from passerby.
+3131	Ancient Noble Lord Shoes	A pair of shoes that symbolizes prestige and power and is typically worn by the aristocracy.
+314	Trunket Boots	Heavy, but very reliable boots.
+315	Trunket Boots	Heavy, but very reliable boots.
+3152	Ancient Santa Boots	A pair of incredibly warm boots that is indispensable for Santas.
+3153	Ancient Plastic Shoes	A pair of plastic shoes that perfectly complemenst a Hanbok.
+3154	Ancient Adventurer's Shoes	Hand-made shoes given as a gift from the villagers of the Adventurer's Plains. (Quest Reward)
+3157	Ancient Beach Flipflops	Summertime sandals that come in handy when taking walks on the beach.
+316	Trunket Boots	Heavy, but very reliable boots.
+3163	Ancient Hogan Boots	Only winners at heart can wear these awesome boots.
+3164	Ancient White Santa Boots	A pair of incredibly warm, white boots that Santa wears when he wants to look dapper.
+3165	Ancient Snowboard Boots	Sturdy, waterproof boots that are perfect for snowboarding.
+317	Elven Trunket Boots	Heavy, but very reliable boots.
+3170	Ancient Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+3171	Ancient KROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+3172	Ancient JROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+3173	Ancient ROSE NA Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+3174	Ancient PROSE Soccer Cleats	Lightweight shoes that are designed to improve performance when playing soccer.
+318	Saint Trunket Boots	Heavy, but very reliable boots.
+3180	Ancient Blue Santa Boots	A pair of Santa Boots made in the color of the sky.
+3181	Ancient Navy Blue Magic School Shoes	Magic School Shoes colored in navy blue.
+3182	Ancient Yellow Rubber Boots	Yellow, waterproof boots that enable its wearer to enjoy rainy days without getting soaked.
+3183	Ancient Wooden Shoes	Shoes from the ancient east
+3184	Ancient New Abyss Plate Boots	Boots made out advanced power from Star of Warrior.
+3185	Ancient New Serenity Shoes	Shoes made of advanced power from Star of Magic.
+3186	Ancient New Captain Boots	Boots made of advanced power from Star of Hunter.
+3187	Ancient New Bourgeois Shoes	Shoes made of advanced power from Star of Merchant.
+3188	Ancient White Magic School Shoes	Magic School Shoes colored in white
+319	Legend Trunket Boots	Heavy, but very reliable boots.
+320	Holy Trunket Boots	Heavy, but very reliable boots.
+3201	Ancient Elven Dash Shoes	Shoes that enable its wearer to run fast.
+3202	Ancient Dark Iguje 	Exotic shoes with pointed toes.
+3203	Ancient Elven Shoes of Iguje	Exotic shoes with pointed toes.
+3204	Ancient Dark Islamic Shoes	Exotically attractive shoes with pointed toes.
+3205	Ancient Golden Islamic Shoes	Exotically attractive shoes with pointed toes.
+3206	Ancient Elven Islamic Shoes	Exotically attractive shoes with pointed toes.
+3207	Ancient Dark Field Walkers	Lightweight boots that make its wearer feel good.
+3208	Ancient Golden Field Walkers	Lightweight boots that make its wearer feel good.
+3209	Ancient Elven Field Walkers	Lightweight boots that make its wearer feel good.
+321	Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3210	Ancient Dark Wild Walkers	Boots that protect one’s feet from great impact.
+3211	Ancient Golden Wild Walkers	Boots that protect one’s feet from great impact.
+3212	Ancient Elven Wild Walkers	Boots that protect one’s feet from great impact.
+3213	Ancient Dark Land Walkers	Comfortable boots that protect its wearer in tough environments.
+3214	Ancient Golden Land Walkers	Comfortable boots that protect its wearer in tough environments.
+3215	Ancient Elven Land Walkers	Comfortable boots that protect its wearer in tough environments.
+3216	Ancient Dark Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+3217	Ancient Elven Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+3218	Ancient Elven Earth Walkers	Comfortable boots that protect its wearer in harsh environments.
+3219	Ancient Dark Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+322	Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3220	Ancient Golden Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+3221	Ancient Elven Marble Shoes	Shoes endowed with the elegant beauty of marble stone.
+3222	Ancient Dark Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+3223	Ancient Elven Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+3224	Ancient Elven Luxurious Marble Shoes	Shoes as hard as marble on the outside, but incredibly soft and cushiony on the inside.
+3225	Ancient Dark Junior Shoes	Shoes for normal magic school students.
+3226	Ancient Golden Junior Shoes	Shoes for normal magic school students.
+3227	Ancient Elven Junior Shoes	Shoes for normal magic school students.
+3228	Ancient Dark Senior Shoes	Shoes for famous magic school students.
+3229	Ancient Golden Senior Shoes	Shoes for famous magic school students.
+323	Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3230	Ancient Golden Senior Shoes	Shoes for famous magic school students.
+3231	Ancient Elven Senior Shoes	Shoes for famous magic school students.
+324	Elven Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+325	Saint Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+326	Legend Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+327	Holy Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+328	Mighty Boots	Light, yet reliable boots of high quality.
+3288	Ancient Dark Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3289	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+329	Mighty Boots	Light, yet reliable boots of high quality.
+3290	Ancient Elven Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3291	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3292	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3293	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3294	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3295	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3296	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3297	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3298	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3299	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+330	Mighty Boots	Light, yet reliable boots of high quality.
+3300	Ancient Golden Visitor Sandals	Basic shoes for Visitors that are furnished by the Akram Kingdom.
+3301	Ancient Soldier Boots	Basic boots for Soldiers.
+3302	Ancient Soldier Boots	Basic boots for Soldiers.
+3303	Ancient Soldier Boots	Basic boots for Soldiers.
+3304	Ancient Elven Soldier Boots	Basic boots for Soldiers.
+3305	Ancient Legend Soldier Boots	Basic boots for Soldiers.
+3306	Ancient Holy Soldier Boots	Basic boots for Soldiers.
+3307	Ancient Iron Boots	Boots made out of iron.
+3308	Ancient Iron Boots	Boots made out of iron.
+3309	Ancient Iron Boots	Boots made out of iron.
+331	Golden Mighty Boots	Light, yet reliable boots of high quality.
+3310	Ancient Elven Iron Boots	Boots made out of iron.
+3311	Ancient Saint Iron Boots	Boots made out of iron.
+3312	Ancient Legend Soldier Boots	Boots made out of iron.
+3313	Ancient Holy Soldier Boots	Boots made out of iron.
+3314	Ancient Trunket Boots	Heavy, but very reliable boots.
+3315	Ancient Trunket Boots	Heavy, but very reliable boots.
+3316	Ancient Trunket Boots	Heavy, but very reliable boots.
+3317	Ancient Elven Trunket Boots	Heavy, but very reliable boots.
+3318	Ancient Saint Trunket Boots	Heavy, but very reliable boots.
+3319	Ancient Legend Trunket Boots	Heavy, but very reliable boots.
+332	Elven Mighty Boots	Light, yet reliable boots of high quality.
+3320	Ancient Holy Trunket Boots	Heavy, but very reliable boots.
+3321	Ancient Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3322	Ancient Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3323	Ancient Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3324	Ancient Elven Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3325	Ancient Saint Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3326	Ancient Legend Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3327	Ancient Holy Chrome Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3328	Ancient Mighty Boots	Light, yet reliable boots of high quality.
+3329	Ancient Mighty Boots	Light, yet reliable boots of high quality.
+333	Saint Mighty Boots	Light, yet reliable boots of high quality.
+3330	Ancient Mighty Boots	Light, yet reliable boots of high quality.
+3331	Ancient Golden Mighty Boots	Light, yet reliable boots of high quality.
+3332	Ancient Elven Mighty Boots	Light, yet reliable boots of high quality.
+3333	Ancient Saint Mighty Boots	Light, yet reliable boots of high quality.
+3334	Ancient Legend Mighty Boots	Light, yet reliable boots of high quality.
+3335	Ancient Kurash Boots	Heavy boots which can be used as weapons.
+3336	Ancient Kurash Boots	Heavy boots which can be used as weapons.
+3337	Ancient Kurash Boots	Heavy boots which can be used as weapons.
+3338	Ancient Golden Kurash Boots	Heavy boots which can be used as weapons.
+3339	Ancient Elven Kurash Boots	Heavy boots which can be used as weapons.
+334	Legend Mighty Boots	Light, yet reliable boots of high quality.
+3340	Ancient Saint Kurash Boots	Heavy boots which can be used as weapons.
+3341	Ancient Legend Kurash Boots	Heavy boots which can be used as weapons.
+3342	Ancient Plate Boots	The best boots: well-designed and very reliable.
+3343	Ancient Plate Boots	The best boots: well-designed and very reliable.
+3344	Ancient Plate Boots	The best boots: well-designed and very reliable.
+3345	Ancient Golden Plate Boots	The best boots: well-designed and very reliable.
+3346	Ancient Elven Plate Boots	The best boots: well-designed and very reliable.
+3347	Ancient Saint Plate Boots	The best boots: well-designed and very reliable.
+3348	Ancient Legend Plate Boots	The best boots: well-designed and very reliable.
+335	Kurash Boots	Heavy boots which can be used as weapons.
+336	Kurash Boots	Heavy boots which can be used as weapons.
+337	Kurash Boots	Heavy boots which can be used as weapons.
+338	Golden Kurash Boots	Heavy boots which can be used as weapons.
+339	Elven Kurash Boots	Heavy boots which can be used as weapons.
+340	Saint Kurash Boots	Heavy boots which can be used as weapons.
+3401	Ancient Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+3402	Ancient Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+3403	Ancient Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+3404	Ancient Elven Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+3405	Ancient Legend Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+3406	Ancient Holy Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+3407	Ancient Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+3408	Ancient Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+3409	Ancient Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+341	Legend Kurash Boots	Heavy boots which can be used as weapons.
+3410	Ancient Elven Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+3411	Ancient Saint Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+3412	Ancient Legend Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+3413	Ancient Holy Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+3414	Ancient Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+3415	Ancient Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+3416	Ancient Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+3417	Ancient Elven Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+3418	Ancient Saint Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+3419	Ancient Legend Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+342	Plate Boots	The best boots: well-designed and very reliable.
+3420	Ancient Holy Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+3421	Ancient Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3422	Ancient Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3423	Ancient Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3424	Ancient Elven Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3425	Ancient Saint Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3426	Ancient Legend Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3427	Ancient Holy Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3428	Ancient Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+3429	Ancient Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+343	Plate Boots	The best boots: well-designed and very reliable.
+3430	Ancient Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+3431	Ancient Golden Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+3432	Ancient Elven Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+3433	Ancient Saint Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+3434	Ancient Legend Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+3435	Ancient Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+3436	Ancient Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+3437	Ancient Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+3438	Ancient Golden Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+3439	Ancient Elven Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+344	Plate Boots	The best boots: well-designed and very reliable.
+3440	Ancient Saint Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+3441	Ancient Legend Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+345	Golden Plate Boots	The best boots: well-designed and very reliable.
+346	Elven Plate Boots	The best boots: well-designed and very reliable.
+347	Saint Plate Boots	The best boots: well-designed and very reliable.
+348	Legend Plate Boots	The best boots: well-designed and very reliable.
+3501	Ancient Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+3502	Ancient Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+3503	Ancient Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+3504	Ancient Elven Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+3505	Ancient Legend Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+3506	Ancient Holy Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+3507	Ancient Criker Boots	Light boots that are well suited for hunting.
+3508	Ancient Criker Boots	Light boots that are well suited for hunting.
+3509	Ancient Criker Boots	Light boots that are well suited for hunting.
+3510	Ancient Elven Criker Boots	Light boots that are well suited for hunting.
+3511	Ancient Saint Criker Boots	Light boots that are well suited for hunting.
+3512	Ancient Legend Criker Boots	Light boots that are well suited for hunting.
+3513	Ancient Holy Criker Boots	Light boots that are well suited for hunting.
+3514	Ancient Ranger Boots	Fashionable boots for well-experienced hunters.
+3515	Ancient Ranger Boots	Fashionable boots for well-experienced hunters.
+3516	Ancient Ranger Boots	Fashionable boots for well-experienced hunters.
+3517	Ancient Elven Ranger Boots	Fashionable boots for well-experienced hunters.
+3518	Ancient Saint Ranger Boots	Fashionable boots for well-experienced hunters.
+3519	Ancient Legend Ranger Boots	Fashionable boots for well-experienced hunters.
+3520	Ancient Holy Ranger Boots	Fashionable boots for well-experienced hunters.
+3521	Ancient  Pirate Boots	Boots that are favored by pirates of the black sea.
+3522	Ancient Pirate Boots	Boots that are favored by pirates of the black sea.
+3523	Ancient  Pirate Boots	Boots that are favored by pirates of the black sea.
+3524	Ancient Elven Pirate Boots	Boots that are favored by pirates of the black sea.
+3525	Ancient Saint Pirate Boots	Boots that are favored by pirates of the black sea.
+3526	Ancient Legend Pirate Boots	Boots that are favored by pirates of the black sea.
+3527	Ancient Holy Pirate Boots	Boots that are favored by pirates of the black sea.
+3528	Ancient Mariner's Boots	Boots favored by seafaring adventurers.
+3529	Ancient Mariner's Boots	Boots favored by seafaring adventurers.
+3530	Ancient Mariner's Boots	Boots favored by seafaring adventurers.
+3531	Ancient Golden Mariner's Boots	Boots favored by seafaring adventurers.
+3532	Ancient Elven Mariner's Boots	Boots favored by seafaring adventurers.
+3533	Ancient Saint Mariner's Boots	Boots favored by seafaring adventurers.
+3534	Ancient Legend Mariner's Boots	Boots favored by seafaring adventurers.
+3535	Ancient Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+3536	Ancient Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+3537	Ancient Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+3538	Ancient Golden Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+3539	Ancient Elven Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+3540	Ancient Saint Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+3541	Ancient Legend Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+3601	Ancient Brown Shoes	Basic shoes for new merchants.
+3602	Ancient Brown Shoes	Basic shoes for new merchants.
+3603	Ancient Brown Shoes	Basic shoes for new merchants.
+3604	Ancient Elven Brown Shoes	Basic shoes for new merchants.
+3605	Ancient Legend Brown Shoes	Basic shoes for new merchants.
+3606	Ancient Holy Brown Shoes	Basic shoes for new merchants.
+3607	Ancient Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+3608	Ancient Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+3609	Ancient Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+3610	Ancient Elven Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+3611	Ancient Saint Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+3612	Ancient Legend Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+3613	Ancient Holy Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+3614	Ancient Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+3615	Ancient Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+3616	Ancient Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+3617	Ancient Elven Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+3618	Ancient Saint Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+3619	Ancient Legend Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+3620	Ancient Holy Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+3621	Ancient Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3622	Ancient Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3623	Ancient Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3624	Ancient Elven Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3625	Ancient Saint Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3626	Ancient Legend Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3627	Ancient Holy Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3628	Ancient Merchant Boots	Sophisticated boots for well-experienced peddlers.
+3629	Ancient Merchant Boots	Sophisticated boots for well-experienced peddlers.
+3630	Ancient Merchant Boots	Sophisticated boots for well-experienced peddlers.
+3631	Ancient Golden Merchant Boots	Sophisticated boots for well-experienced peddlers.
+3632	Ancient Elven Merchant Boots	Sophisticated boots for well-experienced peddlers.
+3633	Ancient Saint Merchant Boots	Sophisticated boots for well-experienced peddlers.
+3634	Ancient Legend Merchant Boots	Sophisticated boots for well-experienced peddlers.
+3635	Ancient Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+3636	Ancient Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+3637	Ancient Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+3638	Ancient Golden Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+3639	Ancient Elven Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+3640	Ancient Saint Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+3641	Ancient Legend Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+3644	Ancient Mercenary Boots	Heavy, but very reliable boots.
+3645	Ancient Warlord Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+3646	Ancient Tyrant Boots	Light, yet reliable boots of high enough quality for a demagogue.
+3647	Ancient Sparkly Purple Sandals	Sandals that are favored by very well-experienced Mages.
+3648	Ancient Shiny Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+3649	Ancient Boots of Wisdom	Shoes that are rumored to cover its wearer in shadow.
+3650	Ancient Nimble Boots	Fashionable boots for well-experienced hunters.
+3651	Ancient Sagittarius Boots	Boots that are favored by pirates of the black sea.
+3652	Ancient Commodore Boots	Boots favored by seafaring adventurers.
+3653	Ancient Repairman Shoes	Thick and comfortable shoes for young peddlers.
+3654	Ancient Craftman Shoes	Thick and very comfortable shoes for intermediate peddlers.
+3655	Ancient Supplier's Boots	Sophisticated boots for well-experienced peddlers.
+401	Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+402	Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+403	Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+404	Elven Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+405	Legend Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+406	Holy Spiritual Shoes	Shoes which bring a feeling of calmness to their wearer, making them ideal for new Muses.
+407	Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+408	Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+409	Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+410	Elven Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+411	Saint Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+412	Legend Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+413	Holy Green Sandals of Witch	A pair of shoes that is fairly popular among magic users.
+414	Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+415	Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+416	Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+417	Elven Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+418	Saint Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+419	Legend Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+420	Holy Purple Sandals of Witch	Sandals that are favored by very well-experienced Mages.
+421	Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+422	Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+423	Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+424	Elven Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+425	Saint Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+426	Legend Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+427	Holy Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+428	Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+429	Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+430	Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+431	Golden Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+432	Elven Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+433	Saint Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+434	Legend Boots of Shadow	Shoes that are rumored to cover its wearer in shadow.
+435	Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+436	Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+437	Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+438	Golden Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+439	Elven Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+440	Saint Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+441	Legend Velvet Boots of Witch	Boots from which extremely powerful magic can be sensed.
+501	Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+502	Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+503	Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+504	Elven Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+505	Legend Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+506	Holy Hunter Boots	Basic boots for Hawkers that allow the wearer to easily adapt to nature.
+507	Criker Boots	Light boots that are well suited for hunting.
+508	Criker Boots	Light boots that are well suited for hunting.
+509	Criker Boots	Light boots that are well suited for hunting.
+510	Elven Criker Boots	Light boots that are well suited for hunting.
+511	Saint Criker Boots	Light boots that are well suited for hunting.
+512	Legend Criker Boots	Light boots that are well suited for hunting.
+513	Holy Criker Boots	Light boots that are well suited for hunting.
+514	Ranger Boots	Fashionable boots for well-experienced hunters.
+515	Ranger Boots	Fashionable boots for well-experienced hunters.
+516	Ranger Boots	Fashionable boots for well-experienced hunters.
+517	Elven Ranger Boots	Fashionable boots for well-experienced hunters.
+518	Saint Ranger Boots	Fashionable boots for well-experienced hunters.
+519	Legend Ranger Boots	Fashionable boots for well-experienced hunters.
+520	Holy Ranger Boots	Fashionable boots for well-experienced hunters.
+521	 Pirate Boots	Boots that are favored by pirates of the black sea.
+522	Pirate Boots	Boots that are favored by pirates of the black sea.
+523	 Pirate Boots	Boots that are favored by pirates of the black sea.
+524	Elven Pirate Boots	Boots that are favored by pirates of the black sea.
+525	Saint Pirate Boots	Boots that are favored by pirates of the black sea.
+526	Legend Pirate Boots	Boots that are favored by pirates of the black sea.
+527	Holy Pirate Boots	Boots that are favored by pirates of the black sea.
+528	Mariner's Boots	Boots favored by seafaring adventurers.
+529	Mariner's Boots	Boots favored by seafaring adventurers.
+530	Mariner's Boots	Boots favored by seafaring adventurers.
+531	Golden Mariner's Boots	Boots favored by seafaring adventurers.
+532	Elven Mariner's Boots	Boots favored by seafaring adventurers.
+533	Saint Mariner's Boots	Boots favored by seafaring adventurers.
+534	Legend Mariner's Boots	Boots favored by seafaring adventurers.
+535	Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+536	Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+537	Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+538	Golden Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+539	Elven Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+540	Saint Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+541	Legend Jaguar Boots	Boots that enable its wearer to move as quickly as a jaguar.
+601	Brown Shoes	Basic shoes for new merchants.
+602	Brown Shoes	Basic shoes for new merchants.
+603	Brown Shoes	Basic shoes for new merchants.
+604	Elven Brown Shoes	Basic shoes for new merchants.
+605	Legend Brown Shoes	Basic shoes for new merchants.
+606	Holy Brown Shoes	Basic shoes for new merchants.
+607	Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+608	Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+609	Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+610	Elven Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+611	Saint Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+612	Legend Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+613	Holy Vibe Shoes	Shoes for rookie merchants that are just beginning to learn economic theory.
+614	Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+615	Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+616	Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+617	Elven Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+618	Saint Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+619	Legend Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+620	Holy Tamiya Shoes	Thick and comfortable shoes for young peddlers.
+621	Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+622	Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+623	Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+624	Elven Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+625	Saint Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+626	Legend Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+627	Holy Semiya Shoes	Thick and very comfortable shoes for intermediate peddlers.
+628	Merchant Boots	Sophisticated boots for well-experienced peddlers.
+629	Merchant Boots	Sophisticated boots for well-experienced peddlers.
+630	Merchant Boots	Sophisticated boots for well-experienced peddlers.
+631	Golden Merchant Boots	Sophisticated boots for well-experienced peddlers.
+632	Elven Merchant Boots	Sophisticated boots for well-experienced peddlers.
+633	Saint Merchant Boots	Sophisticated boots for well-experienced peddlers.
+634	Legend Merchant Boots	Sophisticated boots for well-experienced peddlers.
+635	Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+636	Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+637	Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+638	Golden Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+639	Elven Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+640	Saint Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+641	Legend Rich Merchant Boots	Sophisticated boots, which feel heavenly soft and velvety to the touch, for well-experienced peddlers.
+644	Mercenary Boots	Heavy, but very reliable boots.
+645	Warlord Boots	Light, yet sturdy boots that are made out of a mysterious metal.
+646	Tyrant Boots	Light, yet reliable boots of high enough quality for a demagogue.
+647	Sparkly Purple Sandals	Sandals that are favored by very well-experienced Mages.
+648	Shiny Violet Boots	Fashionable boots that are the mark of a powerful Mage.
+649	Boots of Wisdom	Shoes that are rumored to cover its wearer in shadow.
+650	Nimble Boots	Fashionable boots for well-experienced hunters.
+651	Sagittarius Boots	Boots that are favored by pirates of the black sea.
+652	Commodore Boots	Boots favored by seafaring adventurers.
+653	Repairman Shoes	Thick and comfortable shoes for young peddlers.
+654	Craftman Shoes	Thick and very comfortable shoes for intermediate peddlers.
+655	Supplier's Boots	Sophisticated boots for well-experienced peddlers.
+901	Brave Mighty Boots	Equipment rewarded to honor those that have fought against dragons. Light, yet reliable boots of high quality.
+902	Brave Boots of Shadow	Equipment rewarded to honor those that have fought against dragons. Shoes that are rumored to cover its wearer in shadow.
+903	Brave Mariner's Boots	Equipment rewarded to honor those that have fought against dragons. Boots favored by seafaring adventurers.
+904	Brave Merchant Boots	Equipment rewarded to honor those that have fought against dragons. Sophisticated boots for well-experienced peddlers.
+905	Brave Plate Boots	Equipment rewarded to honor those that have fought against dragons. The best boots: well-designed and very reliable.
+906	Brave Heaven's Shoes	Equipment rewarded to honor those that have fought against dragons. Shoes which are said to be worn by those from heaven.
+907	Brave Wild Hawker Boots	Equipment rewarded to honor those that have fought against dragons. A necessity for the ultimate Hawker, this pair of boots evokes feelings of wild freedom.
+908	Brave Redfield Chairman Shoes	Equipment rewarded to honor those that have fought against dragons. High class shoes that are preferred by executives and politicians.
+909	Brave Rightous Plate Boots	Equipment rewarded to honor those that have fought against dragons. Boots intended to be worn by heroes whose hearts know the true meaning of justice.
+910	Brave Archmage Shoes	Equipment rewarded to honor those that have fought against dragons. Shoes that are especially manufactured for advanced Muses.
+911	Brave Netherworld Boots	Honorable equipment for those who have an experience of fighting against dragon. A pair of boots designed for Underworld bosses.
+912	Brave Noble Lord Shoes	Equipment rewarded to honor those that have fought against dragons. A pair of shoes that symbolizes prestige and power and is typically worn by the aristocracy.
+913	Brave Jabberwock Boots	Equipment rewarded to honor those that have fought against dragons. Boots that shimmer freakily like the eyes of a madman.
+914	Brave Dimple Shoes	Equipment rewarded to honor those that have fought against dragons. Cute, classy shoes made by a famous designer.
+915	Brave Steel Resolve Boots	Equipment rewarded to honor those that have fought against dragons. Boots suited to marksmen that live by the one shot, one kill credo.
+916	Brave Mana Steam Shoes	Equipment rewarded to honor those that have fought against dragons. Specialty magic shoes that can directly manipulate Mana.
