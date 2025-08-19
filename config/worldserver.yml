@@ -1,0 +1,27 @@
+# Human-readable configuration for World Server
+mysql:
+  host: localhost
+  port: 3306
+  database: rose
+  user: rose
+  password: rosepass
+server:
+  id: 3
+  type: 2
+  name: Worldserver
+  ip: 0.0.0.0
+  port: 29200
+  lan_ip: 192.168.1.20
+  lan_mask: 255.255.255.0
+  login_pass: 123456
+  char_pass: 123456
+  world_pass: 123456
+  use_threads: false
+rates:
+  exp: 1
+  drop: 1
+  zuly: 1
+  item_drop: 1
+gameplay:
+  autosave: true
+  autosave_seconds: 60

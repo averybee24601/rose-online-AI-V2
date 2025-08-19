@@ -1,0 +1,19 @@
+# Human-readable configuration for Char Server
+mysql:
+  host: localhost
+  port: 3306
+  database: rose
+  user: rose
+  password: rosepass
+server:
+  id: 2
+  type: 1
+  name: Charserver
+  ip: 0.0.0.0
+  port: 29100
+  lan_ip: 192.168.1.20
+  lan_mask: 255.255.255.0
+  login_pass: 123456
+  char_pass: 123456
+  world_pass: 123456
+  use_threads: false

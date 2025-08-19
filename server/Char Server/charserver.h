@@ -6,8 +6,8 @@
 #define __ROSE_CHARSERVER__
 
 #include <time.h>
-#include "../common/sockets.h"
-#include "../common/config.h"
+#include "../Common/sockets.h"
+#include "../Common/config.h"
 #include "datatypes.h"
 #include <memory>
 #define ClearItem(i) { i.durability=0; i.itemnum=0; i.itemtype=0; i.lifespan=0; i.refine=0; }

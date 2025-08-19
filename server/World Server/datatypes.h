@@ -703,7 +703,7 @@ enum STATUS_EFFECT
 #define MAX_NPC 4000    //max npc amount in Objvar.
 #define MAX_EXTRA_STATS 302   //max stats (for Py's code).
 
-#include "../common/sockets.h"
+#include "../Common/sockets.h"
 
 // Hold party experience when kill a moster
 struct CPartyExp
